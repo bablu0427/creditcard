@@ -8,11 +8,25 @@ ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from config import MODEL_PATH
+from config import DATA_DIR, MODEL_PATH
 from predict import predict_applicant, predict_batch
 
 
 app = Flask(__name__)
+
+
+def ensure_model_ready():
+    if MODEL_PATH.exists():
+        return
+    try:
+        from train_model import train
+
+        train(DATA_DIR / "credit_card_applications.csv")
+    except Exception as exc:
+        app.logger.warning("Automatic model training failed: %s", exc)
+
+
+ensure_model_ready()
 
 
 def parse_float(name, default=0.0):
