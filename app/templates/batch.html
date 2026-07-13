@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Batch Screening</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <main class="shell">
+    <section class="hero compact">
+      <div>
+        <p class="eyebrow">Compliance Review</p>
+        <h1>Batch Applicant Screening</h1>
+      </div>
+      <a class="secondary-link" href="{{ url_for('home') }}">Single prediction</a>
+    </section>
+
+    <form class="panel" action="{{ url_for('batch') }}" method="post" enctype="multipart/form-data">
+      <label>Applicant CSV
+        <input type="file" name="csv_file" accept=".csv">
+      </label>
+      <button type="submit">Score Batch</button>
+    </form>
+
+    {% if error %}
+      <div class="alert">{{ error }}</div>
+    {% endif %}
+
+    {% if rows %}
+      <section class="panel table-panel">
+        <h2>Top 50 Scored Applicants</h2>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                {% for key in rows[0].keys() %}
+                  <th>{{ key.replace("_", " ").title() }}</th>
+                {% endfor %}
+              </tr>
+            </thead>
+            <tbody>
+              {% for row in rows %}
+                <tr>
+                  {% for value in row.values() %}
+                    <td>{{ value }}</td>
+                  {% endfor %}
+                </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </section>
+    {% endif %}
+  </main>
+</body>
+</html>

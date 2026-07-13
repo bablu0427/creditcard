@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Prediction Result</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <main class="shell">
+    <section class="hero compact">
+      <div>
+        <p class="eyebrow">Decision Support</p>
+        <h1>Prediction Result</h1>
+      </div>
+      <a class="secondary-link" href="{{ url_for('home') }}">New prediction</a>
+    </section>
+
+    {% if error %}
+      <div class="alert">{{ error }}</div>
+    {% else %}
+      <section class="result {{ result.prediction | lower }}">
+        <span>{{ result.prediction }}</span>
+        <strong>{{ "%.1f"|format(result.approval_probability * 100) }}%</strong>
+        <p>Approval probability from {{ result.model_name }}.</p>
+      </section>
+
+      <section class="panel">
+        <h2>Applicant Snapshot</h2>
+        <dl class="summary">
+          {% for key, value in applicant.items() %}
+            <div><dt>{{ key.replace("_", " ").title() }}</dt><dd>{{ value }}</dd></div>
+          {% endfor %}
+        </dl>
+      </section>
+    {% endif %}
+  </main>
+</body>
+</html>

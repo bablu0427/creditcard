@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Credit Card Approval Prediction</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <main class="shell">
+    <section class="hero">
+      <div>
+        <p class="eyebrow">Banking Risk Screening</p>
+        <h1>Credit Card Approval Prediction</h1>
+        <p class="lede">Evaluate applicant eligibility using a trained machine learning pipeline for financial, demographic, and credit-history signals.</p>
+      </div>
+      <a class="secondary-link" href="{{ url_for('batch') }}">Batch screen CSV</a>
+    </section>
+
+    {% if not model_ready %}
+    <div class="alert">
+      Model file not found. Run <code>python data/generate_sample_data.py</code> and <code>python train_model.py --data data/credit_card_applications.csv</code>.
+    </div>
+    {% endif %}
+
+    <form class="panel" action="{{ url_for('predict') }}" method="post">
+      <div class="grid">
+        <label>Gender
+          <select name="gender">
+            <option>Female</option>
+            <option>Male</option>
+            <option>Other</option>
+          </select>
+        </label>
+
+        <label>Income Type
+          <select name="income_type">
+            <option>Working</option>
+            <option>Commercial associate</option>
+            <option>Pensioner</option>
+            <option>State servant</option>
+            <option>Student</option>
+          </select>
+        </label>
+
+        <label>Annual Income
+          <input name="annual_income" type="number" min="0" step="1000" value="72000">
+        </label>
+
+        <label>Employment Duration (years)
+          <input name="employment_years" type="number" min="0" max="60" step="0.5" value="6">
+        </label>
+
+        <label>Education Level
+          <select name="education_level">
+            <option>Secondary</option>
+            <option>Higher education</option>
+            <option>Incomplete higher</option>
+            <option>Lower secondary</option>
+            <option>Academic degree</option>
+          </select>
+        </label>
+
+        <label>Existing Loan Balance
+          <input name="existing_loan_balance" type="number" min="0" step="500" value="12000">
+        </label>
+
+        <label>Credit Inquiries
+          <input name="credit_inquiries" type="number" min="0" max="30" value="2">
+        </label>
+
+        <label>Past-Due Loan Records
+          <input name="past_due_count" type="number" min="0" max="30" value="0">
+        </label>
+
+        <label>Payment Status Code
+          <select name="payment_status">
+            <option value="0">0 - Current</option>
+            <option value="1">1 - 30 days overdue</option>
+            <option value="2">2 - 60 days overdue</option>
+            <option value="3">3 - 90 days overdue</option>
+            <option value="late">Late</option>
+            <option value="default">Default</option>
+          </select>
+        </label>
+      </div>
+      <button type="submit">Predict Approval</button>
+    </form>
+  </main>
+</body>
+</html>
