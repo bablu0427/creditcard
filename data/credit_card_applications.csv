@@ -1,0 +1,2501 @@
+gender,income_type,annual_income,employment_years,education_level,existing_loan_balance,credit_inquiries,past_due_count,payment_status,approval_status
+Male,Working,59500.0,8.8,Secondary,12300.0,4,1,0,Approved
+Female,Commercial associate,34700.0,9.6,Higher education,10600.0,2,0,0,Rejected
+Male,Student,55500.0,6.4,Higher education,26200.0,1,0,0,Approved
+Male,Pensioner,39300.0,5.1,Secondary,29700.0,1,1,0,Rejected
+Female,Working,52800.0,0.9,Secondary,18900.0,3,0,1,Rejected
+Other,Working,18900.0,4.2,Secondary,6200.0,1,2,0,Rejected
+Male,State servant,36000.0,0.0,Higher education,38600.0,2,1,0,Rejected
+Male,State servant,115700.0,2.1,Higher education,22000.0,1,1,0,Rejected
+Female,Commercial associate,87000.0,7.0,Higher education,15100.0,1,1,0,Approved
+Female,Commercial associate,108400.0,5.9,Secondary,17700.0,3,0,0,Approved
+Female,Working,111800.0,22.4,Secondary,3700.0,0,1,0,Approved
+Male,Working,81100.0,0.0,Higher education,10600.0,4,2,0,Rejected
+Male,Working,48800.0,5.8,Secondary,27700.0,2,0,0,Approved
+Male,Working,37500.0,0.0,Higher education,3500.0,3,1,0,Rejected
+Female,Working,100300.0,4.5,Secondary,3400.0,4,0,0,Approved
+Female,Pensioner,61600.0,4.7,Secondary,22100.0,2,0,0,Rejected
+Male,Working,183900.0,10.9,Higher education,16800.0,2,0,0,Approved
+Female,Working,50800.0,4.2,Higher education,3500.0,4,1,1,Rejected
+Male,Commercial associate,145500.0,5.5,Higher education,9900.0,2,0,0,Approved
+Male,Working,55800.0,4.3,Secondary,15100.0,1,1,0,Rejected
+Male,Working,109200.0,0.0,Lower secondary,13900.0,1,1,0,Rejected
+Female,Commercial associate,128500.0,3.1,Incomplete higher,15900.0,2,0,0,Approved
+Other,Working,37800.0,4.5,Incomplete higher,9300.0,3,1,0,Rejected
+Male,Commercial associate,48100.0,6.9,Higher education,14400.0,3,0,0,Rejected
+Male,State servant,37600.0,9.4,Higher education,18800.0,2,0,0,Approved
+Female,Working,34400.0,5.3,Higher education,17900.0,0,0,0,Rejected
+Female,State servant,80800.0,5.2,Secondary,9500.0,3,0,0,Approved
+Female,State servant,54800.0,0.0,Secondary,20000.0,2,1,0,Rejected
+Female,Pensioner,61300.0,9.3,Higher education,5600.0,2,1,0,Rejected
+Male,Commercial associate,76900.0,2.9,Secondary,7400.0,3,0,0,Approved
+Male,Commercial associate,26000.0,10.4,Secondary,22100.0,3,1,2,Rejected
+Male,Commercial associate,106800.0,13.3,Incomplete higher,19700.0,1,1,0,Rejected
+Female,Commercial associate,51200.0,5.5,Secondary,10200.0,4,2,0,Approved
+Female,Working,76100.0,1.2,Higher education,7200.0,0,0,3,Rejected
+Female,Student,79200.0,6.4,Higher education,8000.0,0,0,0,Approved
+Female,Commercial associate,111000.0,8.3,Secondary,18300.0,0,0,0,Approved
+Female,Pensioner,57100.0,4.9,Incomplete higher,16000.0,2,0,0,Approved
+Female,Working,23000.0,3.6,Secondary,6900.0,2,0,0,Rejected
+Female,Working,61400.0,9.4,Incomplete higher,19700.0,0,0,0,Rejected
+Male,Commercial associate,65500.0,9.1,Higher education,9900.0,3,1,0,Rejected
+Female,Commercial associate,37600.0,4.7,Secondary,5800.0,2,2,0,Rejected
+Male,Working,64000.0,0.0,Secondary,8700.0,2,0,0,Approved
+Male,Working,50900.0,8.9,Secondary,12900.0,3,1,0,Rejected
+Female,Working,32700.0,2.5,Secondary,19200.0,3,0,0,Rejected
+Male,Commercial associate,81000.0,7.6,Secondary,18400.0,3,0,0,Approved
+Male,Working,46500.0,7.3,Academic degree,11300.0,6,0,0,Rejected
+Female,Student,49900.0,0.0,Secondary,14000.0,3,2,0,Rejected
+Female,Working,48600.0,6.9,Incomplete higher,10600.0,2,1,1,Rejected
+Male,Working,104400.0,9.2,Secondary,6900.0,3,2,1,Rejected
+Female,Working,58800.0,9.8,Academic degree,11600.0,4,2,0,Rejected
+Female,Commercial associate,62000.0,7.1,Secondary,2400.0,2,1,0,Rejected
+Female,Commercial associate,49100.0,0.0,Secondary,30100.0,0,0,0,Rejected
+Male,Commercial associate,73700.0,13.1,Higher education,13800.0,2,0,0,Rejected
+Male,Student,109900.0,8.6,Secondary,16500.0,0,0,0,Approved
+Male,Working,80100.0,0.2,Incomplete higher,7100.0,3,0,0,Rejected
+Male,Commercial associate,81600.0,2.4,Secondary,13700.0,0,0,2,Rejected
+Female,Working,78700.0,7.7,Higher education,15300.0,0,1,0,Rejected
+Male,Working,32200.0,10.0,Higher education,10200.0,2,1,0,Approved
+Female,Working,40400.0,4.0,Higher education,10600.0,2,0,0,Rejected
+Female,Working,54600.0,10.8,Secondary,4200.0,3,1,0,Rejected
+Male,Commercial associate,43200.0,0.0,Secondary,36300.0,2,0,0,Rejected
+Female,Commercial associate,37100.0,1.1,Secondary,7100.0,6,1,0,Rejected
+Male,Pensioner,25800.0,0.0,Secondary,7800.0,5,0,1,Rejected
+Male,Commercial associate,32700.0,1.8,Secondary,31300.0,0,0,0,Rejected
+Male,Commercial associate,53300.0,14.3,Lower secondary,17000.0,2,0,2,Rejected
+Male,Working,58000.0,17.2,Higher education,19300.0,6,1,0,Rejected
+Male,Working,41900.0,7.7,Higher education,3900.0,5,0,0,Rejected
+Female,Working,62000.0,3.2,Secondary,13600.0,0,0,2,Rejected
+Female,Commercial associate,49300.0,5.3,Secondary,4000.0,3,0,0,Rejected
+Female,Student,97800.0,9.0,Higher education,6300.0,2,1,1,Approved
+Female,Working,55700.0,0.0,Secondary,39700.0,1,1,3,Rejected
+Female,Commercial associate,81900.0,3.5,Secondary,5400.0,3,2,0,Approved
+Male,Pensioner,65600.0,14.0,Higher education,18700.0,1,0,0,Rejected
+Female,Pensioner,31900.0,1.1,Higher education,5800.0,5,0,0,Approved
+Female,Commercial associate,57500.0,2.6,Academic degree,6400.0,0,0,0,Approved
+Female,Commercial associate,34300.0,6.6,Secondary,55000.0,0,0,2,Rejected
+Female,Commercial associate,57000.0,8.0,Higher education,11300.0,3,0,0,Rejected
+Male,State servant,42800.0,3.2,Secondary,3700.0,0,1,0,Rejected
+Male,Working,71100.0,6.9,Secondary,19200.0,4,0,0,Rejected
+Male,State servant,32700.0,9.7,Higher education,26400.0,3,1,0,Rejected
+Male,Working,60300.0,16.7,Secondary,20400.0,3,0,1,Rejected
+Female,Pensioner,77500.0,5.8,Higher education,10600.0,2,0,0,Rejected
+Male,Working,90100.0,6.3,Secondary,10900.0,3,1,0,Rejected
+Female,Working,42500.0,14.4,Secondary,8200.0,0,0,0,Rejected
+Female,Working,60400.0,3.6,Lower secondary,4800.0,4,1,0,Rejected
+Female,Working,65000.0,0.0,Secondary,15100.0,3,2,0,Rejected
+Male,Working,120100.0,7.8,Incomplete higher,10300.0,0,0,0,Approved
+Female,Working,30700.0,12.1,Secondary,4000.0,0,0,0,Rejected
+Female,Working,39700.0,8.4,Lower secondary,11500.0,4,0,1,Rejected
+Male,Working,211500.0,6.0,Secondary,7100.0,1,0,0,Approved
+Female,Pensioner,53000.0,0.0,Secondary,14600.0,0,0,0,Rejected
+Male,State servant,25600.0,6.2,Higher education,13600.0,1,0,0,Rejected
+Female,Commercial associate,46100.0,12.9,Secondary,9200.0,4,0,0,Rejected
+Female,Working,17200.0,0.1,Secondary,11900.0,4,0,0,Rejected
+Female,Working,66700.0,5.2,Academic degree,12700.0,2,0,0,Rejected
+Male,State servant,86200.0,4.5,Higher education,22100.0,3,1,0,Approved
+Female,Working,39700.0,2.9,Higher education,11600.0,3,1,2,Rejected
+Female,Working,48400.0,7.8,Higher education,8300.0,3,0,0,Approved
+Female,State servant,90700.0,8.8,Incomplete higher,9900.0,3,2,1,Rejected
+Male,Student,27200.0,8.8,Incomplete higher,34600.0,2,1,1,Rejected
+Male,Working,33000.0,1.4,Higher education,6000.0,3,2,1,Rejected
+Male,Commercial associate,54000.0,0.0,Secondary,10400.0,2,1,0,Rejected
+Female,Working,42700.0,7.9,Secondary,10300.0,1,0,0,Rejected
+Male,Pensioner,52500.0,3.9,Higher education,10600.0,2,0,2,Rejected
+Male,Working,33900.0,16.1,Incomplete higher,2800.0,1,0,2,Rejected
+Male,Working,65900.0,16.3,Higher education,4700.0,1,1,2,Rejected
+Female,Commercial associate,56000.0,16.9,Secondary,9900.0,1,1,default,Rejected
+Female,Working,76700.0,1.6,Secondary,8000.0,5,0,0,Rejected
+Female,Commercial associate,65500.0,9.5,Higher education,14500.0,1,0,0,Approved
+Male,Working,65700.0,11.0,Incomplete higher,24200.0,0,0,1,Approved
+Female,State servant,31200.0,10.4,Secondary,15300.0,1,1,0,Rejected
+Female,Pensioner,74700.0,4.7,Higher education,13000.0,3,0,1,Rejected
+Female,Commercial associate,51600.0,13.2,Higher education,16400.0,1,0,1,Rejected
+Male,Pensioner,55500.0,6.5,Lower secondary,13800.0,2,0,0,Approved
+Female,Working,96000.0,7.2,Secondary,11800.0,3,0,0,Approved
+Male,Commercial associate,43300.0,0.0,Lower secondary,21600.0,0,0,0,Rejected
+Male,Working,110000.0,9.9,Higher education,9700.0,1,1,3,Approved
+Male,State servant,114700.0,5.1,Higher education,4600.0,2,1,0,Approved
+Female,Pensioner,84000.0,8.9,Secondary,7800.0,3,0,0,Approved
+Male,State servant,38500.0,7.7,Higher education,7000.0,2,0,0,Rejected
+Male,State servant,22400.0,7.4,Higher education,40600.0,4,0,1,Rejected
+Male,Student,97300.0,6.3,Secondary,25100.0,2,0,0,Rejected
+Female,Working,63000.0,10.6,Secondary,13100.0,0,0,0,Approved
+Female,State servant,42800.0,5.5,Higher education,7200.0,2,0,0,Rejected
+Female,Commercial associate,101500.0,0.0,Higher education,21400.0,5,0,0,Rejected
+Male,Working,40600.0,9.5,Secondary,12700.0,3,0,2,Rejected
+Female,Commercial associate,49500.0,2.3,Secondary,9700.0,8,1,0,Rejected
+Female,Working,75800.0,0.0,Secondary,12800.0,0,0,0,Approved
+Female,Working,36300.0,1.2,Lower secondary,9900.0,0,0,0,Rejected
+Male,Working,57000.0,8.0,Academic degree,16200.0,3,0,0,Rejected
+Female,Working,97700.0,6.0,Secondary,4300.0,2,0,0,Approved
+Male,Commercial associate,65800.0,0.0,Secondary,16100.0,1,0,1,Rejected
+Male,State servant,105000.0,4.5,Secondary,9900.0,2,0,0,Approved
+Female,Commercial associate,99700.0,12.6,Higher education,21700.0,2,0,0,Approved
+Male,Commercial associate,60100.0,4.2,Incomplete higher,25500.0,1,0,0,Approved
+Female,Working,20900.0,5.6,Higher education,29000.0,1,1,2,Rejected
+Male,Working,36400.0,11.9,Secondary,42500.0,0,0,0,Rejected
+Male,Working,84400.0,10.6,Secondary,28400.0,0,0,0,Approved
+Male,Pensioner,29800.0,11.8,Secondary,21300.0,1,1,0,Approved
+Female,Working,51700.0,0.0,Incomplete higher,4800.0,2,1,late,Rejected
+Male,Pensioner,69700.0,15.5,Higher education,1300.0,0,1,0,Approved
+Male,Pensioner,116000.0,9.8,Higher education,23200.0,0,0,0,Approved
+Male,Commercial associate,46200.0,19.3,Secondary,6200.0,3,2,0,Rejected
+Male,State servant,44800.0,2.4,Lower secondary,61000.0,0,2,0,Rejected
+Female,Working,58500.0,0.0,Secondary,3300.0,1,0,late,Rejected
+Female,State servant,70100.0,6.5,Incomplete higher,20700.0,1,0,0,Approved
+Female,Pensioner,55900.0,5.1,Incomplete higher,13800.0,3,1,0,Rejected
+Male,Pensioner,96000.0,9.9,Higher education,3700.0,1,0,1,Approved
+Female,Commercial associate,41800.0,12.1,Incomplete higher,13700.0,2,0,0,Rejected
+Female,Pensioner,63200.0,6.0,Secondary,6900.0,3,0,0,Rejected
+Male,Student,73200.0,5.2,Higher education,11400.0,1,0,0,Approved
+Male,Working,50000.0,9.2,Secondary,11500.0,1,0,0,Rejected
+Female,Pensioner,87400.0,5.2,Higher education,6900.0,3,0,late,Rejected
+Male,Pensioner,64000.0,4.7,Secondary,9300.0,3,0,1,Rejected
+Female,Working,85400.0,11.9,Secondary,6400.0,0,0,0,Rejected
+Male,State servant,65300.0,13.1,Secondary,2500.0,1,0,2,Rejected
+Female,Working,70900.0,12.1,Secondary,13000.0,2,0,0,Approved
+Male,Commercial associate,45000.0,5.6,Higher education,28300.0,4,1,0,Rejected
+Male,Working,45100.0,0.0,Higher education,6700.0,1,0,0,Approved
+Male,Working,103900.0,5.7,Secondary,37400.0,1,0,2,Rejected
+Female,Pensioner,79700.0,2.6,Academic degree,42300.0,2,1,0,Rejected
+Male,Working,37800.0,5.8,Lower secondary,8700.0,2,1,0,Rejected
+Female,Working,65000.0,3.0,Secondary,10300.0,4,0,0,Rejected
+Female,Working,20600.0,6.4,Secondary,8800.0,2,0,0,Rejected
+Male,Commercial associate,46200.0,1.1,Higher education,4900.0,1,0,0,Rejected
+Female,Pensioner,92300.0,0.0,Higher education,10300.0,0,1,0,Approved
+Male,State servant,56600.0,12.9,Secondary,9500.0,2,3,1,Rejected
+Male,Working,63100.0,1.5,Higher education,12800.0,1,1,late,Rejected
+Female,Commercial associate,15400.0,6.5,Secondary,13300.0,2,0,0,Rejected
+Male,Working,50200.0,11.5,Secondary,4600.0,1,0,3,Rejected
+Female,Commercial associate,69700.0,11.3,Higher education,18000.0,2,2,1,Rejected
+Male,Working,73800.0,10.6,Higher education,10200.0,3,1,2,Rejected
+Female,Working,92300.0,8.1,Incomplete higher,5300.0,0,1,0,Approved
+Male,Working,54500.0,10.3,Secondary,10000.0,3,0,1,Approved
+Female,Commercial associate,55600.0,13.6,Secondary,13600.0,3,0,0,Rejected
+Female,Commercial associate,32900.0,8.7,Secondary,31700.0,2,2,0,Rejected
+Female,Working,54600.0,0.0,Secondary,28500.0,1,0,1,Approved
+Other,Pensioner,33900.0,3.8,Secondary,8100.0,1,0,0,Rejected
+Male,Pensioner,26100.0,10.1,Higher education,10700.0,3,1,1,Rejected
+Male,Working,36700.0,3.2,Higher education,6300.0,1,0,0,Approved
+Male,Pensioner,118100.0,14.9,Higher education,15200.0,1,0,0,Approved
+Male,State servant,53000.0,6.2,Secondary,8500.0,1,0,0,Approved
+Male,Working,66100.0,6.9,Secondary,10500.0,0,1,2,Rejected
+Female,Commercial associate,47500.0,12.3,Higher education,23700.0,1,0,0,Approved
+Male,Working,26700.0,5.5,Secondary,4600.0,2,0,1,Rejected
+Male,Pensioner,91200.0,7.4,Incomplete higher,28500.0,4,0,0,Rejected
+Female,Working,22500.0,11.2,Secondary,16200.0,3,0,0,Rejected
+Female,Commercial associate,46600.0,0.0,Higher education,27700.0,1,0,0,Rejected
+Male,Working,58400.0,5.0,Incomplete higher,19900.0,3,1,late,Rejected
+Female,Commercial associate,66400.0,10.8,Higher education,22300.0,2,0,3,Rejected
+Male,State servant,43200.0,6.8,Higher education,12400.0,3,0,0,Approved
+Female,Working,26200.0,14.1,Higher education,5200.0,1,0,0,Approved
+Female,State servant,41800.0,0.0,Secondary,7700.0,2,0,0,Rejected
+Male,Student,42700.0,0.0,Higher education,6600.0,1,1,1,Rejected
+Female,State servant,42300.0,10.5,Incomplete higher,1900.0,1,1,0,Rejected
+Female,Working,92600.0,11.0,Academic degree,23700.0,3,0,0,Approved
+Male,Pensioner,34700.0,5.5,Secondary,11400.0,0,0,0,Rejected
+Male,Working,68600.0,8.6,Secondary,6200.0,0,1,late,Approved
+Female,Working,64300.0,10.4,Higher education,41300.0,1,1,0,Rejected
+Female,State servant,92200.0,2.3,Higher education,52700.0,0,0,1,Approved
+Male,Commercial associate,56400.0,2.8,Secondary,4100.0,2,0,0,Approved
+Other,Commercial associate,85500.0,7.5,Secondary,10300.0,1,0,0,Rejected
+Male,Working,55400.0,11.2,Secondary,9800.0,3,0,0,Approved
+Female,Pensioner,72800.0,0.4,Higher education,5800.0,2,0,2,Rejected
+Female,Pensioner,30400.0,5.5,Secondary,23300.0,2,0,0,Rejected
+Female,Working,18300.0,5.2,Secondary,1900.0,5,0,0,Approved
+Female,State servant,71000.0,8.7,Secondary,34700.0,0,1,0,Approved
+Male,Working,72700.0,6.5,Lower secondary,12700.0,2,0,0,Approved
+Female,Working,74200.0,3.7,Secondary,39200.0,2,0,0,Rejected
+Male,Commercial associate,47300.0,13.0,Secondary,12000.0,2,0,late,Rejected
+Male,Student,117100.0,3.7,Higher education,9800.0,1,0,0,Approved
+Male,Working,48700.0,5.0,Secondary,24500.0,3,0,2,Rejected
+Female,Working,72400.0,0.0,Lower secondary,39000.0,4,0,0,Rejected
+Male,Working,78200.0,2.8,Lower secondary,35000.0,0,0,2,Rejected
+Male,State servant,129800.0,9.2,Secondary,2900.0,0,0,2,Approved
+Male,Working,51900.0,8.2,Secondary,29300.0,2,0,0,Approved
+Female,Commercial associate,44600.0,9.6,Secondary,9400.0,1,0,0,Rejected
+Female,Student,30500.0,9.4,Secondary,11100.0,4,0,2,Rejected
+Male,Working,120400.0,17.4,Secondary,9300.0,0,0,2,Approved
+Female,Commercial associate,72400.0,2.6,Secondary,7700.0,1,1,0,Approved
+Female,Commercial associate,73400.0,0.0,Secondary,10400.0,2,0,3,Approved
+Male,Pensioner,243400.0,1.0,Higher education,5600.0,1,1,2,Approved
+Male,Working,69300.0,2.8,Secondary,29400.0,3,0,0,Rejected
+Male,Working,33300.0,1.4,Secondary,19700.0,5,1,0,Rejected
+Female,Working,54800.0,7.0,Higher education,14400.0,4,2,0,Rejected
+Male,Pensioner,38600.0,13.0,Secondary,9300.0,2,0,0,Rejected
+Female,Pensioner,50100.0,14.5,Secondary,8100.0,2,0,2,Rejected
+Male,Working,50000.0,9.1,Secondary,16700.0,2,0,2,Approved
+Male,Working,46000.0,17.6,Secondary,14800.0,1,0,0,Rejected
+Female,State servant,32000.0,4.6,Secondary,25700.0,2,1,0,Rejected
+Female,Working,122600.0,0.0,Incomplete higher,8200.0,6,1,0,Approved
+Female,Working,68500.0,12.0,Lower secondary,7600.0,2,0,0,Approved
+Male,Commercial associate,54100.0,0.0,Secondary,19200.0,1,1,0,Rejected
+Male,Working,84200.0,2.6,Secondary,21900.0,3,0,0,Approved
+Male,Working,74000.0,9.2,Higher education,50200.0,0,0,0,Rejected
+Male,Working,67800.0,6.0,Higher education,2700.0,3,0,0,Approved
+Female,Working,81500.0,5.5,Secondary,30500.0,3,0,2,Rejected
+Male,Commercial associate,63600.0,0.4,Secondary,13600.0,3,1,0,Rejected
+Female,Pensioner,81000.0,6.4,Secondary,8500.0,2,1,0,Rejected
+Female,Commercial associate,84000.0,11.7,Higher education,16800.0,4,1,late,Approved
+Male,Working,64400.0,6.6,Secondary,16400.0,1,1,2,Rejected
+Male,Pensioner,54200.0,2.2,Secondary,8700.0,2,0,0,Rejected
+Female,Working,119200.0,0.0,Secondary,2900.0,3,0,0,Approved
+Male,Pensioner,48300.0,2.3,Secondary,30600.0,3,3,0,Rejected
+Male,Working,71400.0,8.5,Higher education,7100.0,2,1,0,Approved
+Male,Pensioner,72100.0,8.3,Higher education,6200.0,3,1,0,Rejected
+Male,Working,45500.0,2.3,Higher education,7600.0,3,2,0,Rejected
+Female,Working,41600.0,0.0,Secondary,21200.0,2,2,0,Rejected
+Female,Commercial associate,51100.0,8.7,Secondary,9500.0,4,0,0,Rejected
+Female,Working,48000.0,1.8,Incomplete higher,7700.0,1,1,late,Rejected
+Male,Working,31100.0,10.1,Higher education,16100.0,1,0,1,Rejected
+Male,Pensioner,44700.0,2.6,Secondary,14500.0,2,0,0,Rejected
+Female,Pensioner,67500.0,1.4,Secondary,7900.0,2,0,0,Approved
+Female,Working,105800.0,7.3,Incomplete higher,2900.0,2,0,0,Rejected
+Female,State servant,76800.0,18.8,Higher education,20900.0,2,1,0,Approved
+Male,Pensioner,18600.0,10.4,Incomplete higher,14700.0,3,0,0,Approved
+Male,State servant,79900.0,7.2,Higher education,2000.0,5,0,3,Rejected
+Female,Commercial associate,46600.0,8.4,Secondary,33400.0,0,1,2,Approved
+Female,Commercial associate,73400.0,0.0,Secondary,1900.0,3,1,3,Rejected
+Male,Commercial associate,59500.0,0.7,Secondary,6600.0,1,1,0,Approved
+Female,Commercial associate,54900.0,0.0,Higher education,7000.0,4,0,1,Rejected
+Male,State servant,57200.0,15.5,Higher education,8000.0,2,0,0,Approved
+Female,Working,59300.0,14.4,Secondary,7800.0,2,0,0,Approved
+Female,Working,109600.0,8.5,Incomplete higher,4400.0,3,0,0,Approved
+Male,Working,59300.0,7.2,Secondary,13800.0,4,0,0,Rejected
+Female,State servant,97600.0,0.0,Secondary,23300.0,3,0,0,Approved
+Female,Working,91400.0,5.4,Secondary,13600.0,0,0,2,Rejected
+Female,Commercial associate,80800.0,15.8,Incomplete higher,15300.0,2,0,0,Rejected
+Female,Pensioner,26800.0,7.2,Lower secondary,9700.0,3,0,default,Rejected
+Female,Student,99000.0,3.6,Higher education,13300.0,1,1,0,Rejected
+Female,Working,48700.0,0.0,Lower secondary,16100.0,0,0,0,Rejected
+Female,Pensioner,82600.0,13.7,Incomplete higher,19700.0,0,0,0,Approved
+Female,State servant,38700.0,6.1,Incomplete higher,7300.0,0,1,0,Rejected
+Male,Working,35100.0,0.0,Incomplete higher,6600.0,1,0,2,Rejected
+Male,Pensioner,145700.0,1.7,Secondary,1300.0,1,0,0,Approved
+Female,Working,38900.0,0.0,Higher education,39700.0,0,1,0,Approved
+Female,Commercial associate,100300.0,5.8,Higher education,38100.0,0,0,0,Approved
+Male,Commercial associate,63200.0,7.6,Higher education,11700.0,1,0,1,Approved
+Male,Working,49600.0,3.9,Secondary,12200.0,1,0,0,Rejected
+Male,Working,58700.0,10.5,Higher education,31900.0,2,1,0,Rejected
+Female,Working,33300.0,6.9,Lower secondary,4500.0,2,1,1,Rejected
+Female,Working,59500.0,12.0,Secondary,6000.0,6,2,0,Rejected
+Female,Commercial associate,36800.0,4.6,Academic degree,33200.0,3,1,0,Rejected
+Female,Working,50100.0,22.3,Secondary,9600.0,3,1,0,Approved
+Male,Working,90800.0,3.6,Secondary,5400.0,1,0,0,Approved
+Female,Commercial associate,67100.0,1.8,Secondary,16700.0,2,1,0,Rejected
+Female,Commercial associate,30700.0,1.2,Incomplete higher,7300.0,1,1,0,Rejected
+Female,Commercial associate,87800.0,5.4,Higher education,29600.0,2,0,0,Rejected
+Male,State servant,59700.0,0.0,Secondary,13200.0,2,2,0,Rejected
+Female,Working,46900.0,8.0,Higher education,7500.0,6,0,0,Rejected
+Male,Pensioner,83800.0,0.0,Secondary,7900.0,0,0,0,Rejected
+Female,Working,55500.0,7.3,Secondary,16200.0,2,0,0,Rejected
+Male,Pensioner,35400.0,0.0,Incomplete higher,10500.0,1,0,1,Rejected
+Female,Student,137500.0,4.5,Higher education,9500.0,1,0,2,Rejected
+Male,Pensioner,59400.0,9.6,Higher education,20200.0,1,0,2,Rejected
+Male,Commercial associate,57700.0,18.5,Higher education,32200.0,3,0,0,Approved
+Other,Commercial associate,49900.0,0.9,Academic degree,18400.0,2,2,0,Rejected
+Male,Working,101800.0,5.7,Secondary,6900.0,2,1,0,Approved
+Male,Commercial associate,47300.0,2.7,Secondary,5100.0,0,0,1,Rejected
+Male,Pensioner,29900.0,2.0,Secondary,19500.0,2,0,0,Rejected
+Male,Student,44100.0,2.8,Higher education,18400.0,2,1,default,Rejected
+Female,Commercial associate,108800.0,10.8,Higher education,9000.0,4,0,0,Approved
+Male,Working,87100.0,4.0,Higher education,10700.0,2,2,0,Approved
+Male,Commercial associate,53400.0,18.2,Secondary,7200.0,1,1,1,Rejected
+Male,Working,111100.0,8.7,Secondary,5200.0,4,0,0,Approved
+Female,Working,83800.0,1.2,Higher education,7700.0,2,1,3,Rejected
+Female,Working,53100.0,4.6,Academic degree,1000.0,0,0,0,Approved
+Male,Pensioner,55600.0,2.3,Secondary,26100.0,2,1,0,Approved
+Female,Working,69400.0,10.7,Secondary,3900.0,1,0,0,Approved
+Female,Working,41200.0,0.0,Secondary,11900.0,3,0,0,Rejected
+Female,Working,60000.0,0.0,Secondary,1600.0,2,2,1,Rejected
+Female,State servant,68800.0,3.4,Secondary,18000.0,4,0,0,Rejected
+Female,Commercial associate,28000.0,10.1,Secondary,21700.0,0,1,0,Rejected
+Female,Working,55000.0,12.9,Higher education,12700.0,2,0,0,Approved
+Female,Working,52200.0,13.7,Secondary,11400.0,4,0,1,Approved
+Female,Commercial associate,95100.0,9.3,Secondary,7200.0,4,0,2,Rejected
+Female,Working,26100.0,6.1,Secondary,25700.0,1,0,0,Rejected
+Male,Commercial associate,50400.0,10.6,Lower secondary,3100.0,4,1,1,Rejected
+Female,Working,48200.0,0.5,Secondary,8600.0,2,1,2,Rejected
+Male,State servant,92200.0,0.0,Secondary,6500.0,3,1,0,Approved
+Male,Working,58700.0,8.8,Secondary,6300.0,3,0,default,Rejected
+Male,Commercial associate,134400.0,1.3,Higher education,25200.0,2,0,0,Rejected
+Female,Working,80700.0,6.2,Incomplete higher,10900.0,0,0,2,Approved
+Male,Student,49800.0,7.1,Secondary,7100.0,1,2,0,Rejected
+Male,Student,66700.0,7.8,Secondary,15100.0,4,1,late,Rejected
+Male,Pensioner,51100.0,11.4,Secondary,14200.0,1,0,0,Approved
+Male,Working,88100.0,10.8,Higher education,21400.0,1,0,0,Approved
+Male,Working,32900.0,7.5,Lower secondary,16200.0,2,1,2,Approved
+Male,Pensioner,41300.0,4.2,Secondary,11200.0,0,0,0,Approved
+Female,Pensioner,73500.0,7.1,Secondary,11800.0,2,1,0,Rejected
+Male,Working,103900.0,3.4,Higher education,15700.0,1,0,0,Rejected
+Female,Working,22200.0,5.5,Higher education,5700.0,1,0,0,Approved
+Male,Working,111100.0,20.1,Secondary,14000.0,2,0,0,Approved
+Male,Pensioner,56200.0,7.4,Secondary,31700.0,1,0,0,Approved
+Female,Commercial associate,25600.0,8.8,Secondary,12700.0,4,0,0,Rejected
+Male,Commercial associate,15500.0,2.8,Higher education,9200.0,1,2,0,Rejected
+Female,Commercial associate,30100.0,11.8,Higher education,9100.0,2,0,2,Rejected
+Male,Working,59300.0,10.5,Higher education,15300.0,1,0,0,Rejected
+Female,Working,58100.0,10.5,Incomplete higher,13500.0,3,0,0,Rejected
+Male,Working,79600.0,7.6,Secondary,18500.0,0,0,0,Approved
+Female,Pensioner,46800.0,11.9,Secondary,7500.0,1,0,2,Rejected
+Male,Working,36400.0,13.1,Secondary,10400.0,1,0,0,Approved
+Male,Working,49700.0,8.0,Incomplete higher,20600.0,6,1,0,Rejected
+Male,Working,60800.0,5.9,Higher education,21700.0,2,0,1,Rejected
+Male,Working,66400.0,11.2,Secondary,21800.0,2,1,0,Rejected
+Male,Commercial associate,42000.0,1.8,Secondary,19200.0,0,1,1,Rejected
+Male,Working,89800.0,2.8,Higher education,19600.0,1,0,0,Rejected
+Female,Working,45300.0,6.2,Higher education,14000.0,3,0,1,Rejected
+Male,Pensioner,40500.0,0.0,Higher education,3700.0,5,0,0,Rejected
+Female,Working,46900.0,10.8,Secondary,4100.0,3,1,0,Rejected
+Male,Working,97100.0,1.5,Lower secondary,12500.0,2,1,0,Approved
+Female,Working,56400.0,4.0,Higher education,12900.0,3,1,0,Rejected
+Male,Pensioner,43800.0,5.4,Higher education,6200.0,2,1,1,Rejected
+Male,Working,90800.0,6.7,Higher education,6500.0,5,0,0,Approved
+Female,Pensioner,157000.0,4.7,Lower secondary,11200.0,2,0,0,Approved
+Male,State servant,65800.0,6.1,Lower secondary,43400.0,1,0,0,Rejected
+Male,Commercial associate,104300.0,6.2,Higher education,5300.0,3,1,1,Rejected
+Male,Working,95400.0,4.2,Secondary,8900.0,0,0,3,Rejected
+Male,Pensioner,45600.0,2.5,Secondary,21400.0,1,2,0,Rejected
+Male,Working,60600.0,12.1,Incomplete higher,18900.0,3,0,0,Rejected
+Male,Working,33600.0,0.0,Higher education,14700.0,2,0,1,Rejected
+Female,Commercial associate,54600.0,5.4,Secondary,2400.0,5,2,2,Rejected
+Female,Working,45200.0,4.1,Secondary,10000.0,2,1,0,Rejected
+Female,Working,49900.0,8.7,Lower secondary,36100.0,3,1,0,Rejected
+Male,Working,42700.0,0.0,Incomplete higher,6400.0,1,2,1,Rejected
+Female,Working,52600.0,3.9,Lower secondary,6200.0,0,0,0,Rejected
+Male,Working,76100.0,6.0,Secondary,30800.0,0,2,default,Rejected
+Male,Commercial associate,56700.0,12.1,Incomplete higher,11200.0,1,1,2,Rejected
+Female,State servant,25900.0,8.2,Incomplete higher,2500.0,2,0,2,Rejected
+Male,Working,42800.0,0.3,Secondary,4800.0,1,2,2,Rejected
+Male,Commercial associate,30200.0,4.0,Secondary,7600.0,0,1,3,Approved
+Female,Working,66800.0,11.1,Academic degree,14200.0,2,0,0,Approved
+Female,Working,75100.0,0.3,Secondary,10300.0,3,1,2,Rejected
+Female,Working,67200.0,6.1,Higher education,5900.0,2,0,0,Approved
+Female,Working,42000.0,6.5,Higher education,10400.0,2,0,0,Rejected
+Female,Working,66900.0,4.5,Higher education,6400.0,2,0,0,Approved
+Male,Working,48500.0,20.5,Secondary,37500.0,6,0,0,Rejected
+Female,Working,35900.0,4.4,Higher education,4500.0,1,0,0,Rejected
+Female,Commercial associate,83600.0,8.8,Secondary,8400.0,3,1,0,Rejected
+Male,Working,86500.0,2.5,Incomplete higher,7500.0,1,0,0,Rejected
+Male,Working,91800.0,9.2,Secondary,7600.0,1,0,0,Rejected
+Male,Working,45500.0,11.0,Higher education,5000.0,4,1,0,Rejected
+Male,Commercial associate,101800.0,3.4,Incomplete higher,29300.0,2,0,0,Rejected
+Female,Working,47900.0,6.2,Secondary,45500.0,2,1,0,Rejected
+Female,Commercial associate,80300.0,1.8,Secondary,15500.0,2,0,0,Approved
+Other,Working,47600.0,0.5,Higher education,14600.0,2,1,1,Rejected
+Male,Working,54100.0,11.9,Secondary,3000.0,4,0,0,Approved
+Male,State servant,20100.0,3.6,Secondary,28800.0,3,0,0,Rejected
+Female,Working,52300.0,0.0,Higher education,6400.0,3,2,0,Rejected
+Male,Working,62400.0,15.7,Lower secondary,2700.0,0,2,0,Rejected
+Male,Working,49800.0,2.3,Higher education,17400.0,2,0,0,Rejected
+Female,Student,132000.0,5.2,Secondary,24000.0,2,1,2,Approved
+Male,Commercial associate,35500.0,15.0,Academic degree,28600.0,5,0,0,Rejected
+Male,Commercial associate,46500.0,5.8,Higher education,8500.0,3,0,late,Rejected
+Female,Student,39800.0,5.7,Secondary,7700.0,2,0,0,Rejected
+Female,Working,46500.0,0.1,Secondary,13800.0,1,0,1,Approved
+Male,Student,95200.0,0.0,Secondary,10300.0,1,0,0,Approved
+Female,Working,116400.0,5.6,Secondary,17700.0,4,1,2,Rejected
+Female,Commercial associate,43700.0,8.4,Higher education,13900.0,1,0,1,Rejected
+Female,Working,43200.0,8.1,Secondary,5900.0,0,1,0,Rejected
+Female,Working,35600.0,4.0,Higher education,29300.0,0,0,0,Rejected
+Male,State servant,107800.0,6.6,Secondary,17700.0,1,3,0,Rejected
+Male,Working,99200.0,0.0,Secondary,23600.0,1,0,0,Approved
+Female,Student,57100.0,8.9,Secondary,6000.0,0,1,0,Rejected
+Other,Working,31900.0,7.3,Higher education,17400.0,3,0,late,Approved
+Male,Commercial associate,33300.0,16.8,Higher education,20700.0,0,0,0,Rejected
+Female,Student,64700.0,6.5,Secondary,13500.0,2,0,0,Rejected
+Male,Working,76700.0,1.6,Secondary,4900.0,2,0,0,Rejected
+Female,State servant,23600.0,6.2,Secondary,12600.0,4,0,0,Rejected
+Other,Commercial associate,51800.0,4.8,Incomplete higher,19400.0,3,1,1,Rejected
+Male,Pensioner,124000.0,8.8,Secondary,24700.0,1,1,0,Approved
+Male,Working,54300.0,6.6,Higher education,3300.0,4,0,0,Rejected
+Female,Commercial associate,117000.0,0.0,Secondary,13300.0,2,0,0,Rejected
+Male,Commercial associate,80200.0,0.0,Secondary,4000.0,1,1,default,Rejected
+Female,Working,36800.0,7.9,Higher education,19600.0,3,1,0,Rejected
+Female,Working,52500.0,13.7,Higher education,23100.0,2,0,0,Approved
+Female,Working,56500.0,6.9,Secondary,5600.0,1,1,0,Approved
+Male,State servant,39000.0,10.7,Lower secondary,4700.0,4,0,1,Rejected
+Female,Working,38700.0,11.8,Secondary,7500.0,1,1,0,Rejected
+Male,Pensioner,118000.0,7.9,Secondary,10600.0,1,0,2,Approved
+Male,Student,38600.0,2.3,Secondary,6700.0,7,1,late,Rejected
+Female,Working,97300.0,7.5,Higher education,20800.0,0,0,0,Approved
+Female,Working,49200.0,12.8,Incomplete higher,24800.0,3,1,0,Rejected
+Female,Commercial associate,59200.0,9.3,Secondary,12900.0,2,0,late,Rejected
+Male,Working,77100.0,10.4,Lower secondary,6900.0,3,0,0,Approved
+Male,Commercial associate,45700.0,4.1,Higher education,10300.0,2,2,1,Rejected
+Female,Commercial associate,77300.0,5.4,Lower secondary,12900.0,2,0,2,Approved
+Male,Commercial associate,23800.0,5.9,Incomplete higher,10000.0,2,0,0,Rejected
+Female,Working,73000.0,6.2,Lower secondary,11200.0,1,0,0,Rejected
+Male,Commercial associate,19700.0,12.6,Higher education,23500.0,4,2,0,Rejected
+Male,Commercial associate,54100.0,0.0,Secondary,6500.0,4,2,0,Rejected
+Male,Working,87900.0,6.7,Secondary,39500.0,4,1,0,Rejected
+Male,Commercial associate,79200.0,6.1,Higher education,13200.0,0,1,1,Rejected
+Male,State servant,33400.0,0.0,Secondary,9600.0,2,0,0,Rejected
+Female,Commercial associate,35400.0,10.0,Higher education,6400.0,2,0,1,Rejected
+Female,Working,43900.0,2.7,Secondary,6900.0,3,0,0,Rejected
+Female,Working,65100.0,4.6,Incomplete higher,12100.0,2,1,0,Rejected
+Male,Working,24000.0,16.1,Secondary,13100.0,3,0,0,Rejected
+Male,Working,59500.0,11.8,Lower secondary,9300.0,1,0,0,Approved
+Male,Working,68900.0,9.5,Secondary,4000.0,2,0,0,Rejected
+Male,Student,52700.0,8.5,Secondary,12100.0,0,0,2,Approved
+Female,Working,75800.0,5.6,Incomplete higher,7000.0,1,0,0,Rejected
+Male,Pensioner,66200.0,16.9,Incomplete higher,2500.0,3,2,0,Rejected
+Female,Working,46900.0,10.7,Higher education,18100.0,0,1,0,Approved
+Female,Working,25100.0,2.6,Lower secondary,2900.0,3,0,0,Rejected
+Male,Working,63600.0,0.0,Secondary,9000.0,0,0,0,Approved
+Other,Working,39000.0,9.4,Incomplete higher,11000.0,2,0,0,Rejected
+Male,Pensioner,46200.0,6.2,Secondary,27000.0,0,0,0,Rejected
+Female,Student,74300.0,0.0,Higher education,2700.0,0,1,0,Rejected
+Male,State servant,113300.0,8.7,Secondary,19500.0,2,0,0,Approved
+Female,Working,58900.0,5.1,Secondary,21500.0,1,0,0,Approved
+Male,Pensioner,76800.0,9.3,Higher education,32300.0,2,2,0,Rejected
+Male,Working,31300.0,8.8,Higher education,24200.0,0,0,2,Rejected
+Female,State servant,66900.0,3.3,Secondary,11300.0,1,1,0,Approved
+Female,Commercial associate,58300.0,9.8,Lower secondary,20000.0,1,0,0,Approved
+Female,Working,104100.0,3.9,Higher education,27800.0,4,1,2,Approved
+Other,Working,46900.0,4.2,Secondary,2000.0,4,0,0,Rejected
+Female,Working,53700.0,3.7,Higher education,4000.0,3,0,1,Rejected
+Male,Working,96400.0,12.4,Secondary,14100.0,5,0,2,Rejected
+Male,State servant,57400.0,5.0,Secondary,21300.0,1,1,0,Approved
+Male,Pensioner,36400.0,13.6,Higher education,17700.0,1,0,1,Rejected
+Female,Student,188800.0,15.8,Secondary,14900.0,5,1,0,Approved
+Male,Working,36900.0,2.7,Secondary,32000.0,3,0,3,Rejected
+Female,Commercial associate,58200.0,0.0,Higher education,9300.0,0,0,0,Approved
+Male,Working,70000.0,11.9,Secondary,6700.0,4,0,0,Approved
+Male,Commercial associate,67500.0,4.7,Incomplete higher,8000.0,3,0,0,Approved
+Male,Working,55000.0,2.0,Incomplete higher,14300.0,2,0,0,Rejected
+Male,Working,55100.0,3.4,Secondary,11000.0,1,1,0,Rejected
+Female,Commercial associate,53900.0,4.3,Higher education,22100.0,2,0,0,Rejected
+Male,Working,36200.0,13.2,Secondary,7000.0,1,0,0,Rejected
+Female,Working,157600.0,7.3,Higher education,15500.0,6,0,0,Approved
+Female,Commercial associate,54200.0,13.2,Secondary,20100.0,5,0,0,Approved
+Female,Working,78300.0,9.1,Lower secondary,27800.0,1,0,0,Approved
+Female,State servant,51500.0,4.9,Secondary,4600.0,3,2,0,Rejected
+Female,Commercial associate,51000.0,4.5,Higher education,7900.0,2,0,0,Approved
+Female,Pensioner,48800.0,9.4,Secondary,10400.0,1,2,0,Rejected
+Female,Commercial associate,29800.0,10.8,Secondary,3500.0,4,0,0,Rejected
+Male,Pensioner,55700.0,11.7,Higher education,14900.0,7,0,3,Rejected
+Male,Pensioner,49900.0,5.1,Higher education,14700.0,1,0,0,Rejected
+Female,State servant,101400.0,7.4,Academic degree,13800.0,2,2,0,Rejected
+Female,Commercial associate,34900.0,9.5,Secondary,10000.0,1,1,3,Rejected
+Female,Working,46200.0,4.5,Secondary,25800.0,2,1,0,Rejected
+Male,Working,40000.0,0.6,Secondary,8100.0,5,0,0,Rejected
+Female,Commercial associate,114600.0,2.3,Secondary,24300.0,2,1,0,Rejected
+Female,Working,40500.0,5.2,Incomplete higher,7900.0,5,0,2,Rejected
+Female,Working,77100.0,9.9,Lower secondary,4500.0,0,0,0,Approved
+Female,Working,92600.0,13.0,Incomplete higher,11400.0,0,0,0,Approved
+Female,Commercial associate,56100.0,0.0,Secondary,12900.0,2,0,0,Rejected
+Male,Working,32200.0,3.4,Secondary,15700.0,1,0,0,Rejected
+Male,Commercial associate,32400.0,4.6,Higher education,1400.0,2,1,0,Rejected
+Male,Pensioner,88200.0,10.6,Secondary,9200.0,0,3,default,Rejected
+Male,Pensioner,34000.0,3.8,Higher education,37700.0,3,1,late,Rejected
+Male,Working,71400.0,4.3,Secondary,7500.0,3,0,0,Approved
+Female,Commercial associate,63000.0,0.0,Secondary,21500.0,0,1,2,Rejected
+Male,Commercial associate,70900.0,9.0,Incomplete higher,61900.0,4,1,1,Rejected
+Male,Working,74000.0,5.7,Secondary,42100.0,0,0,late,Rejected
+Female,Commercial associate,39300.0,3.1,Lower secondary,5100.0,0,1,2,Rejected
+Male,Working,38600.0,5.2,Secondary,20400.0,2,0,2,Rejected
+Female,Student,82600.0,12.4,Secondary,21200.0,0,1,0,Approved
+Male,Working,45100.0,1.3,Secondary,18200.0,0,0,0,Rejected
+Male,Pensioner,17400.0,2.1,Secondary,4400.0,2,1,0,Rejected
+Male,Commercial associate,80200.0,13.0,Higher education,13800.0,3,0,0,Rejected
+Male,Working,37600.0,6.9,Secondary,13700.0,3,0,3,Rejected
+Male,Pensioner,73900.0,10.0,Higher education,3900.0,1,0,default,Rejected
+Male,Working,112100.0,8.6,Incomplete higher,9600.0,0,1,2,Approved
+Male,Pensioner,60300.0,6.3,Secondary,14200.0,2,1,1,Approved
+Female,Commercial associate,93700.0,4.7,Secondary,11100.0,1,0,0,Rejected
+Male,Working,64200.0,10.8,Secondary,19100.0,2,1,0,Approved
+Male,Working,122300.0,12.5,Incomplete higher,9400.0,7,0,0,Approved
+Female,Pensioner,37100.0,12.1,Higher education,12800.0,1,1,0,Approved
+Female,Working,59700.0,0.3,Secondary,22400.0,1,0,1,Rejected
+Male,State servant,81100.0,13.3,Higher education,34900.0,4,2,0,Rejected
+Female,Pensioner,55000.0,4.6,Higher education,4300.0,1,1,0,Rejected
+Female,Commercial associate,100600.0,2.6,Secondary,18700.0,2,0,0,Rejected
+Female,Working,49300.0,5.6,Secondary,8300.0,2,0,0,Approved
+Female,Pensioner,151900.0,10.8,Academic degree,15900.0,1,0,1,Approved
+Female,State servant,155600.0,9.3,Secondary,4000.0,1,1,1,Rejected
+Male,Working,68000.0,5.2,Secondary,26200.0,3,0,0,Rejected
+Female,Working,76800.0,10.9,Secondary,6400.0,3,0,1,Rejected
+Male,Working,102400.0,7.2,Higher education,22700.0,6,0,0,Rejected
+Male,Working,35100.0,3.5,Secondary,4500.0,4,0,0,Rejected
+Female,Pensioner,33200.0,2.8,Secondary,3300.0,3,0,0,Rejected
+Female,Working,105400.0,8.6,Secondary,10100.0,3,0,1,Approved
+Male,Commercial associate,67700.0,6.1,Higher education,13900.0,1,0,2,Rejected
+Female,Working,54100.0,0.0,Secondary,44500.0,5,0,0,Rejected
+Female,Working,60200.0,10.9,Lower secondary,13600.0,0,0,1,Rejected
+Male,Working,20500.0,4.0,Secondary,5100.0,4,0,2,Rejected
+Other,State servant,55000.0,14.8,Secondary,20300.0,4,1,late,Rejected
+Male,Commercial associate,42700.0,0.0,Lower secondary,29000.0,3,0,0,Rejected
+Female,Working,90500.0,5.6,Incomplete higher,6100.0,1,0,0,Approved
+Male,Pensioner,93700.0,2.9,Secondary,22200.0,3,0,0,Approved
+Male,Working,77600.0,1.4,Incomplete higher,26700.0,3,0,2,Approved
+Female,Working,71500.0,4.0,Higher education,20700.0,1,0,0,Rejected
+Male,Working,30500.0,15.7,Secondary,7200.0,0,1,0,Rejected
+Female,Student,78100.0,7.2,Incomplete higher,14000.0,2,0,default,Rejected
+Female,Pensioner,79500.0,2.4,Higher education,15800.0,2,2,0,Rejected
+Male,Commercial associate,104900.0,0.0,Secondary,25700.0,5,0,0,Rejected
+Female,Working,155300.0,0.0,Higher education,7600.0,3,0,default,Rejected
+Female,Working,28000.0,3.7,Secondary,22500.0,3,1,0,Rejected
+Male,Commercial associate,50300.0,3.2,Secondary,10800.0,2,0,0,Rejected
+Other,Working,42900.0,5.3,Lower secondary,9200.0,2,0,0,Rejected
+Male,State servant,64700.0,0.0,Higher education,12500.0,6,0,0,Approved
+Male,Pensioner,60200.0,6.0,Higher education,1100.0,0,1,0,Approved
+Other,Working,53900.0,11.8,Higher education,1700.0,4,0,0,Approved
+Female,Pensioner,95100.0,14.9,Higher education,2200.0,2,0,0,Approved
+Female,Student,36500.0,0.0,Secondary,16300.0,4,1,0,Rejected
+Female,Working,37500.0,2.3,Academic degree,10000.0,1,1,2,Rejected
+Female,Commercial associate,37800.0,2.1,Higher education,7200.0,1,0,0,Rejected
+Male,State servant,50900.0,7.3,Higher education,11700.0,1,0,1,Rejected
+Female,Working,34400.0,0.2,Higher education,22900.0,2,0,late,Rejected
+Female,State servant,58600.0,15.2,Secondary,11300.0,3,0,1,Rejected
+Female,Working,55600.0,6.7,Secondary,5000.0,1,0,0,Approved
+Female,Commercial associate,42000.0,5.9,Secondary,49000.0,4,0,0,Rejected
+Male,Pensioner,88700.0,14.8,Secondary,12100.0,1,0,0,Rejected
+Female,Commercial associate,58300.0,6.4,Higher education,26900.0,2,1,0,Approved
+Female,Commercial associate,96600.0,8.6,Incomplete higher,20800.0,0,2,0,Approved
+Female,Commercial associate,54800.0,2.6,Secondary,8700.0,4,0,late,Rejected
+Male,Working,59200.0,0.0,Secondary,34500.0,2,0,0,Rejected
+Male,Working,46500.0,3.3,Higher education,7700.0,0,1,0,Rejected
+Male,Working,59700.0,17.9,Secondary,16100.0,3,0,1,Rejected
+Female,Commercial associate,82500.0,9.8,Lower secondary,14700.0,1,0,default,Rejected
+Female,Working,49800.0,7.9,Secondary,15700.0,1,0,1,Rejected
+Male,Working,75600.0,1.4,Secondary,30900.0,5,0,0,Rejected
+Male,State servant,41500.0,11.2,Secondary,12300.0,1,0,0,Rejected
+Male,Working,84300.0,0.0,Lower secondary,14100.0,2,1,0,Approved
+Male,Working,46100.0,0.0,Secondary,14600.0,3,0,0,Rejected
+Male,Working,87800.0,3.6,Higher education,43300.0,4,1,0,Rejected
+Female,Working,61500.0,16.7,Secondary,25600.0,5,0,1,Rejected
+Female,Pensioner,118700.0,16.4,Secondary,3200.0,1,0,0,Approved
+Male,Working,35600.0,4.2,Incomplete higher,7900.0,1,0,late,Rejected
+Female,Working,30800.0,3.0,Secondary,13000.0,2,0,0,Rejected
+Male,Student,45400.0,0.0,Secondary,30400.0,1,0,0,Rejected
+Male,Pensioner,32100.0,6.9,Higher education,32400.0,2,2,1,Rejected
+Male,Pensioner,32100.0,7.3,Incomplete higher,11800.0,2,1,0,Rejected
+Male,State servant,79200.0,10.6,Secondary,7700.0,3,1,0,Rejected
+Male,State servant,59800.0,11.2,Secondary,10600.0,3,0,0,Rejected
+Male,Working,48200.0,5.5,Academic degree,13300.0,6,0,0,Rejected
+Male,Commercial associate,50300.0,9.4,Higher education,10100.0,0,0,0,Approved
+Male,Commercial associate,45800.0,2.9,Incomplete higher,27300.0,1,1,1,Rejected
+Female,Working,125800.0,9.3,Higher education,9400.0,3,0,0,Approved
+Male,Working,43000.0,3.9,Higher education,6200.0,4,0,default,Rejected
+Male,Working,33000.0,8.9,Secondary,10500.0,1,1,1,Rejected
+Female,Commercial associate,85700.0,8.5,Secondary,15200.0,1,0,2,Rejected
+Female,Pensioner,54300.0,6.9,Higher education,27600.0,1,0,2,Rejected
+Male,Pensioner,149900.0,10.6,Higher education,5800.0,0,0,0,Approved
+Male,Working,47200.0,0.0,Lower secondary,15300.0,2,0,0,Approved
+Female,Working,87600.0,1.0,Higher education,15600.0,0,2,3,Rejected
+Female,Working,97400.0,5.1,Secondary,17600.0,1,0,0,Approved
+Female,Commercial associate,47400.0,0.0,Higher education,9400.0,1,0,0,Approved
+Female,State servant,42900.0,4.4,Higher education,17400.0,2,1,0,Rejected
+Male,State servant,83600.0,4.6,Secondary,20400.0,7,1,0,Rejected
+Female,State servant,77600.0,13.3,Incomplete higher,9300.0,2,1,0,Rejected
+Female,State servant,31700.0,7.2,Higher education,14000.0,1,1,default,Rejected
+Male,Student,36000.0,11.9,Secondary,10900.0,1,1,0,Approved
+Female,Working,19100.0,8.1,Higher education,6800.0,1,0,0,Rejected
+Female,Working,78300.0,3.7,Higher education,4100.0,1,0,0,Rejected
+Male,Working,53200.0,7.2,Lower secondary,7700.0,1,0,0,Rejected
+Male,Working,55700.0,10.3,Secondary,8100.0,1,0,0,Approved
+Other,Working,28000.0,12.7,Higher education,4100.0,2,0,0,Rejected
+Male,Working,36500.0,5.8,Higher education,16700.0,3,2,1,Rejected
+Female,Student,48300.0,0.0,Higher education,21400.0,2,0,0,Rejected
+Male,Working,44200.0,0.0,Secondary,10700.0,3,0,0,Rejected
+Male,Student,63100.0,4.8,Incomplete higher,11900.0,3,0,0,Rejected
+Male,Pensioner,77900.0,0.0,Lower secondary,8500.0,1,0,0,Rejected
+Male,Commercial associate,166300.0,15.8,Higher education,11400.0,3,0,0,Approved
+Male,Commercial associate,59300.0,9.6,Higher education,17500.0,2,1,0,Rejected
+Male,Working,98900.0,3.2,Secondary,15300.0,2,0,0,Rejected
+Female,Commercial associate,41200.0,0.7,Higher education,11400.0,2,0,0,Approved
+Male,Working,28200.0,11.8,Secondary,8100.0,0,0,0,Rejected
+Female,State servant,51100.0,0.7,Higher education,20200.0,0,0,0,Rejected
+Male,Working,29200.0,1.2,Secondary,8700.0,4,0,0,Rejected
+Male,Working,60300.0,2.5,Higher education,4400.0,2,0,0,Approved
+Male,Pensioner,42100.0,7.1,Secondary,13500.0,5,0,1,Rejected
+Other,Commercial associate,24800.0,9.7,Higher education,2600.0,1,2,0,Rejected
+Female,Working,130800.0,12.7,Higher education,14900.0,1,0,2,Approved
+Male,Commercial associate,47000.0,11.9,Secondary,15600.0,0,0,0,Approved
+Male,Working,28700.0,6.5,Secondary,7600.0,3,1,0,Rejected
+Female,Commercial associate,89700.0,11.8,Incomplete higher,8500.0,0,0,0,Rejected
+Female,Working,43100.0,3.0,Higher education,22200.0,1,0,3,Rejected
+Female,Working,97800.0,0.0,Secondary,40700.0,4,1,0,Rejected
+Male,Working,43000.0,3.0,Secondary,12400.0,1,0,1,Rejected
+Male,Working,46900.0,2.3,Secondary,7700.0,0,0,2,Rejected
+Other,Working,69900.0,3.2,Higher education,15700.0,3,0,0,Rejected
+Female,Working,78200.0,1.5,Higher education,11100.0,1,0,0,Approved
+Other,Working,84600.0,4.1,Secondary,15000.0,3,1,0,Approved
+Female,Working,57500.0,9.7,Higher education,13500.0,0,2,2,Rejected
+Male,Commercial associate,76000.0,15.4,Higher education,13700.0,2,1,0,Approved
+Female,Working,83700.0,0.0,Higher education,1900.0,1,0,late,Approved
+Male,Commercial associate,65500.0,0.0,Secondary,8400.0,3,1,0,Rejected
+Male,State servant,56200.0,2.4,Secondary,7800.0,2,1,2,Approved
+Male,Working,31200.0,10.5,Secondary,7800.0,1,0,0,Rejected
+Male,State servant,78400.0,5.4,Secondary,18400.0,0,1,0,Approved
+Female,Working,61000.0,2.7,Secondary,4700.0,2,0,0,Approved
+Female,Working,49700.0,10.2,Secondary,1900.0,4,1,3,Rejected
+Female,Pensioner,106400.0,11.5,Secondary,7600.0,3,0,0,Approved
+Female,Pensioner,31500.0,6.4,Higher education,6400.0,0,1,0,Rejected
+Male,Pensioner,125500.0,2.3,Secondary,12500.0,1,0,0,Approved
+Male,Working,59300.0,7.9,Higher education,6400.0,2,0,0,Rejected
+Male,Pensioner,69100.0,5.3,Secondary,9900.0,4,0,0,Rejected
+Male,Working,50100.0,5.2,Higher education,8900.0,2,0,1,Approved
+Male,Working,28300.0,3.8,Secondary,26700.0,2,0,0,Rejected
+Male,Working,56200.0,11.3,Incomplete higher,6500.0,4,1,1,Rejected
+Female,Student,69600.0,7.8,Incomplete higher,17700.0,2,1,1,Rejected
+Female,Working,81200.0,11.9,Secondary,11300.0,1,0,default,Rejected
+Male,Pensioner,54800.0,13.4,Higher education,22500.0,2,1,0,Rejected
+Male,Commercial associate,22300.0,8.9,Secondary,32000.0,0,1,0,Rejected
+Female,Pensioner,29900.0,3.9,Higher education,11200.0,2,1,0,Approved
+Male,Pensioner,150800.0,11.9,Secondary,2700.0,3,1,0,Approved
+Male,State servant,36600.0,8.9,Secondary,4700.0,3,0,0,Rejected
+Female,Working,113800.0,20.0,Secondary,3800.0,2,0,2,Rejected
+Female,Working,39300.0,8.1,Incomplete higher,8500.0,1,1,0,Approved
+Male,Commercial associate,55200.0,10.1,Secondary,7500.0,3,0,0,Rejected
+Male,Working,79300.0,8.0,Higher education,14000.0,1,1,0,Rejected
+Female,Working,41400.0,6.0,Secondary,21400.0,3,1,2,Approved
+Male,Working,122600.0,5.2,Secondary,2400.0,1,0,0,Approved
+Female,Working,61900.0,8.0,Secondary,12000.0,2,1,2,Rejected
+Male,Working,73700.0,9.2,Lower secondary,6700.0,4,0,0,Approved
+Female,Working,53100.0,12.5,Incomplete higher,12300.0,2,0,0,Rejected
+Male,State servant,80500.0,8.1,Secondary,8500.0,1,0,late,Rejected
+Female,Working,121800.0,4.1,Higher education,19000.0,1,3,0,Rejected
+Female,Student,56400.0,4.8,Secondary,5000.0,2,0,0,Approved
+Male,Student,130400.0,0.0,Secondary,7000.0,1,0,3,Rejected
+Female,Working,45500.0,15.1,Higher education,10700.0,1,0,0,Approved
+Female,Pensioner,84400.0,3.7,Secondary,9200.0,2,1,0,Rejected
+Female,Commercial associate,74600.0,11.5,Secondary,10600.0,1,1,late,Approved
+Male,Commercial associate,37000.0,7.9,Higher education,3000.0,0,0,0,Rejected
+Male,Working,65900.0,8.1,Secondary,29000.0,2,1,late,Rejected
+Other,Working,60100.0,5.9,Incomplete higher,8000.0,2,0,2,Rejected
+Female,Working,40800.0,2.4,Higher education,5300.0,2,0,0,Rejected
+Female,Commercial associate,70300.0,1.5,Incomplete higher,10800.0,2,1,0,Rejected
+Female,Student,63900.0,15.5,Higher education,12000.0,1,0,0,Rejected
+Male,Commercial associate,58000.0,7.1,Incomplete higher,37200.0,1,0,0,Rejected
+Other,Pensioner,58100.0,12.4,Secondary,23600.0,3,0,0,Approved
+Male,Student,57500.0,13.7,Higher education,9000.0,1,0,1,Rejected
+Male,Commercial associate,50700.0,4.4,Higher education,33100.0,1,0,default,Rejected
+Female,Working,63800.0,8.7,Lower secondary,29000.0,3,0,late,Rejected
+Male,State servant,44800.0,6.7,Secondary,5400.0,0,1,late,Approved
+Male,Working,197900.0,0.5,Higher education,42600.0,2,1,0,Approved
+Female,Working,31800.0,5.5,Higher education,8100.0,4,0,0,Rejected
+Female,Commercial associate,46000.0,9.6,Secondary,13000.0,0,0,0,Approved
+Female,State servant,47700.0,3.9,Incomplete higher,26200.0,4,0,0,Rejected
+Female,Working,150000.0,4.8,Secondary,2500.0,4,0,3,Approved
+Female,Commercial associate,33100.0,5.6,Secondary,10600.0,4,0,2,Rejected
+Female,Working,72500.0,17.5,Higher education,14500.0,2,0,2,Rejected
+Male,Working,67000.0,0.0,Secondary,23100.0,6,0,0,Rejected
+Female,Working,69600.0,9.1,Secondary,11600.0,4,0,0,Approved
+Female,Pensioner,104400.0,5.2,Secondary,2500.0,2,0,0,Approved
+Male,State servant,103500.0,3.2,Secondary,37000.0,3,1,0,Rejected
+Male,Working,48900.0,5.1,Higher education,11900.0,0,1,0,Approved
+Male,Working,65300.0,10.0,Incomplete higher,14900.0,6,1,1,Rejected
+Female,Working,25900.0,10.3,Higher education,3400.0,3,0,0,Rejected
+Male,Working,62600.0,7.5,Secondary,28200.0,2,1,0,Rejected
+Female,Commercial associate,41900.0,12.2,Higher education,8200.0,3,0,2,Rejected
+Female,Commercial associate,55100.0,13.1,Incomplete higher,6700.0,1,0,0,Approved
+Male,Commercial associate,28000.0,10.7,Higher education,24200.0,1,2,0,Rejected
+Male,Working,71800.0,3.7,Secondary,3700.0,2,1,2,Rejected
+Male,Commercial associate,27900.0,9.1,Secondary,15000.0,2,0,late,Rejected
+Male,Working,64000.0,9.1,Lower secondary,6500.0,1,0,0,Approved
+Male,Working,34500.0,2.3,Incomplete higher,16300.0,5,0,0,Rejected
+Female,State servant,40800.0,0.0,Secondary,19200.0,1,3,0,Rejected
+Female,Pensioner,100700.0,0.0,Incomplete higher,8000.0,1,0,0,Approved
+Female,State servant,78000.0,6.9,Secondary,27200.0,2,1,0,Rejected
+Female,State servant,100400.0,8.0,Secondary,11900.0,3,1,0,Rejected
+Male,Commercial associate,120800.0,0.4,Higher education,37300.0,2,1,0,Rejected
+Female,State servant,42300.0,11.9,Higher education,24400.0,1,0,0,Rejected
+Male,Working,117500.0,7.3,Secondary,12900.0,3,0,0,Approved
+Male,Working,31000.0,13.5,Lower secondary,12800.0,1,0,0,Rejected
+Male,Working,83800.0,8.4,Incomplete higher,4100.0,1,0,1,Rejected
+Female,Working,48000.0,1.0,Secondary,24200.0,3,1,0,Rejected
+Female,Working,39400.0,8.9,Higher education,7400.0,3,0,0,Approved
+Other,Working,78900.0,10.0,Higher education,13900.0,3,0,0,Rejected
+Male,Pensioner,91600.0,3.7,Higher education,37100.0,0,0,0,Approved
+Male,Pensioner,90400.0,0.0,Academic degree,26800.0,3,0,0,Approved
+Male,Commercial associate,66000.0,7.0,Higher education,5700.0,3,1,1,Rejected
+Male,Working,63500.0,1.3,Secondary,12000.0,0,1,0,Rejected
+Female,Pensioner,75900.0,12.3,Secondary,14900.0,1,0,0,Approved
+Male,Working,68600.0,4.4,Incomplete higher,29000.0,2,0,0,Rejected
+Female,Working,76400.0,15.5,Academic degree,26200.0,4,0,2,Rejected
+Male,Working,65600.0,0.0,Secondary,17600.0,3,0,0,Rejected
+Male,Working,87500.0,7.2,Secondary,16500.0,1,0,0,Approved
+Male,Working,28800.0,13.9,Higher education,11800.0,2,0,0,Rejected
+Female,Pensioner,56400.0,1.9,Secondary,14600.0,3,0,1,Rejected
+Female,Pensioner,32100.0,5.7,Secondary,9900.0,1,0,1,Rejected
+Male,Commercial associate,67800.0,4.4,Incomplete higher,20400.0,3,0,0,Rejected
+Female,Working,125400.0,2.9,Incomplete higher,17100.0,2,1,0,Rejected
+Female,Pensioner,48400.0,7.8,Incomplete higher,23700.0,2,1,1,Rejected
+Female,Commercial associate,63400.0,0.0,Higher education,23200.0,2,0,0,Rejected
+Female,Working,84200.0,5.9,Secondary,7400.0,3,0,0,Approved
+Female,Commercial associate,23600.0,9.2,Lower secondary,1400.0,3,0,2,Rejected
+Male,Commercial associate,47300.0,5.4,Secondary,6900.0,2,0,0,Approved
+Female,Working,70500.0,1.3,Secondary,14500.0,2,1,0,Rejected
+Female,Working,16300.0,11.9,Incomplete higher,9900.0,4,0,0,Rejected
+Female,Commercial associate,38600.0,10.3,Higher education,9600.0,2,0,0,Approved
+Female,Working,98300.0,1.1,Incomplete higher,6600.0,2,0,0,Approved
+Female,Working,94000.0,0.0,Secondary,15900.0,3,1,0,Rejected
+Male,Working,70900.0,1.5,Lower secondary,2600.0,3,0,0,Rejected
+Female,Student,89100.0,9.3,Higher education,17500.0,0,0,0,Approved
+Female,Working,66000.0,7.9,Higher education,17700.0,1,1,0,Rejected
+Female,Working,76900.0,10.6,Lower secondary,23300.0,4,0,0,Approved
+Female,Working,51900.0,4.8,Secondary,65800.0,1,0,0,Rejected
+Female,State servant,63100.0,1.7,Higher education,1200.0,2,1,0,Rejected
+Female,Commercial associate,45000.0,11.3,Higher education,17200.0,1,2,0,Approved
+Male,State servant,105700.0,3.6,Incomplete higher,19500.0,1,2,0,Rejected
+Female,Working,118700.0,7.5,Incomplete higher,7000.0,2,1,0,Rejected
+Male,Working,111400.0,0.0,Higher education,10400.0,2,0,default,Approved
+Male,Commercial associate,49800.0,3.5,Secondary,8300.0,1,0,0,Rejected
+Female,Working,39000.0,11.7,Secondary,17900.0,2,2,1,Rejected
+Female,Pensioner,106400.0,2.8,Lower secondary,25000.0,1,1,0,Approved
+Male,State servant,76500.0,10.7,Lower secondary,4600.0,3,1,1,Rejected
+Male,Working,69400.0,0.0,Lower secondary,16100.0,1,0,0,Rejected
+Female,Student,45000.0,3.6,Secondary,28400.0,3,0,2,Rejected
+Female,Commercial associate,72500.0,5.6,Secondary,7400.0,1,0,late,Rejected
+Female,Working,36700.0,15.6,Higher education,900.0,5,0,0,Approved
+Female,Commercial associate,79600.0,0.4,Higher education,6000.0,0,0,3,Rejected
+Male,Working,111400.0,10.0,Secondary,5400.0,0,0,0,Approved
+Female,Pensioner,124700.0,12.0,Higher education,6300.0,3,1,1,Approved
+Female,Working,82400.0,2.7,Secondary,36700.0,1,0,0,Approved
+Male,Working,32100.0,4.6,Higher education,42200.0,2,1,0,Rejected
+Female,Commercial associate,65400.0,7.2,Secondary,30800.0,1,1,1,Rejected
+Female,Working,156800.0,0.0,Secondary,9800.0,3,0,0,Rejected
+Male,Working,40500.0,4.1,Secondary,31600.0,0,0,0,Rejected
+Female,Commercial associate,58300.0,13.1,Lower secondary,1400.0,3,0,0,Approved
+Female,Working,113100.0,9.2,Higher education,5200.0,3,0,0,Approved
+Female,Working,79000.0,5.7,Lower secondary,20800.0,2,0,1,Rejected
+Male,Working,182800.0,7.1,Higher education,7900.0,2,0,1,Approved
+Female,Working,43100.0,9.5,Secondary,4600.0,1,0,2,Rejected
+Female,Working,38400.0,10.5,Secondary,15800.0,2,0,0,Rejected
+Female,Pensioner,103900.0,3.6,Higher education,16000.0,1,0,0,Approved
+Female,Student,35000.0,14.5,Secondary,17100.0,4,0,3,Rejected
+Male,Working,54800.0,13.3,Higher education,18400.0,3,0,0,Rejected
+Female,Student,58100.0,10.0,Incomplete higher,15200.0,2,0,0,Approved
+Male,Commercial associate,95400.0,2.1,Incomplete higher,11200.0,2,1,2,Rejected
+Male,Commercial associate,78900.0,1.2,Secondary,12700.0,1,1,1,Rejected
+Male,Pensioner,73500.0,4.8,Higher education,21000.0,1,0,1,Approved
+Female,Pensioner,50000.0,6.8,Secondary,14800.0,5,1,0,Rejected
+Male,Pensioner,103400.0,0.0,Secondary,8600.0,2,1,0,Rejected
+Male,Commercial associate,366500.0,9.1,Higher education,6900.0,0,0,0,Approved
+Female,Commercial associate,81700.0,13.2,Higher education,12600.0,3,0,0,Approved
+Male,Working,62600.0,9.5,Higher education,28300.0,2,1,0,Rejected
+Male,Working,33400.0,3.0,Secondary,18600.0,0,1,0,Rejected
+Female,Commercial associate,44900.0,2.4,Academic degree,29300.0,2,1,0,Rejected
+Male,Working,54400.0,8.1,Academic degree,9600.0,0,4,0,Rejected
+Female,Working,47100.0,5.7,Higher education,14100.0,2,1,0,Rejected
+Male,Working,59400.0,8.8,Incomplete higher,15600.0,3,1,0,Rejected
+Other,Working,133300.0,9.6,Secondary,21600.0,4,1,0,Rejected
+Female,Commercial associate,104900.0,12.2,Higher education,9700.0,2,2,0,Approved
+Male,Commercial associate,55700.0,0.6,Incomplete higher,18600.0,3,0,2,Rejected
+Female,Working,34800.0,7.7,Incomplete higher,27300.0,0,2,0,Rejected
+Male,Working,109300.0,4.6,Incomplete higher,11600.0,3,0,1,Approved
+Male,Working,58600.0,6.0,Higher education,6200.0,0,1,0,Rejected
+Female,Working,27500.0,11.0,Incomplete higher,27900.0,1,0,0,Rejected
+Female,Pensioner,82500.0,11.6,Higher education,19800.0,4,0,0,Rejected
+Female,Commercial associate,95000.0,13.8,Secondary,3700.0,4,2,0,Approved
+Female,Commercial associate,20100.0,8.7,Secondary,11800.0,1,1,0,Rejected
+Female,Commercial associate,41300.0,5.9,Higher education,38100.0,3,0,0,Approved
+Female,Student,57000.0,5.2,Higher education,17600.0,1,1,0,Rejected
+Female,Pensioner,83300.0,0.0,Higher education,12600.0,3,0,1,Rejected
+Female,Commercial associate,47500.0,13.5,Lower secondary,5600.0,4,1,0,Rejected
+Male,Working,41200.0,4.8,Higher education,5500.0,1,0,0,Rejected
+Male,Working,83100.0,9.1,Secondary,20700.0,2,0,1,Rejected
+Male,State servant,48500.0,10.0,Secondary,6000.0,1,0,0,Rejected
+Female,Working,76400.0,0.0,Higher education,15600.0,5,1,0,Rejected
+Male,Working,36300.0,1.7,Higher education,11600.0,3,0,0,Approved
+Male,Student,32600.0,14.5,Higher education,15000.0,7,0,0,Rejected
+Female,Pensioner,84100.0,8.0,Higher education,10900.0,6,0,0,Approved
+Female,Working,67100.0,3.5,Higher education,17100.0,1,1,3,Rejected
+Male,Working,90700.0,5.8,Higher education,23200.0,0,2,0,Approved
+Female,Working,47100.0,12.1,Incomplete higher,11000.0,3,0,0,Approved
+Male,Commercial associate,41900.0,11.4,Secondary,21900.0,4,0,2,Rejected
+Other,Working,110500.0,0.0,Higher education,30100.0,1,1,0,Rejected
+Female,State servant,30200.0,15.0,Higher education,15500.0,0,0,late,Rejected
+Female,State servant,105200.0,11.5,Secondary,20400.0,2,1,1,Rejected
+Other,Commercial associate,108500.0,5.7,Higher education,4600.0,1,0,0,Approved
+Male,Commercial associate,88200.0,0.3,Higher education,11200.0,0,0,0,Approved
+Female,Working,43900.0,12.0,Higher education,3300.0,3,0,0,Approved
+Male,Working,41500.0,9.0,Incomplete higher,8400.0,1,2,0,Rejected
+Male,Pensioner,54500.0,0.0,Secondary,11300.0,0,1,0,Rejected
+Male,Working,33400.0,5.3,Secondary,40200.0,2,1,0,Rejected
+Male,Working,38800.0,22.8,Secondary,6900.0,2,0,0,Approved
+Female,Working,80000.0,6.6,Secondary,12200.0,4,0,0,Rejected
+Female,Working,80200.0,2.6,Higher education,6000.0,1,0,3,Rejected
+Male,Working,37300.0,1.3,Incomplete higher,10600.0,3,1,0,Rejected
+Female,Pensioner,81200.0,15.7,Higher education,17300.0,2,0,0,Rejected
+Male,Pensioner,73500.0,10.9,Secondary,19200.0,1,1,0,Approved
+Male,Commercial associate,118100.0,13.8,Secondary,9600.0,0,0,0,Approved
+Female,Pensioner,77400.0,7.8,Secondary,7700.0,1,0,0,Rejected
+Male,Working,96400.0,13.0,Higher education,32600.0,2,2,0,Rejected
+Female,Pensioner,74200.0,2.1,Secondary,9100.0,4,1,0,Approved
+Male,Commercial associate,93100.0,7.3,Higher education,1700.0,3,0,0,Approved
+Female,Working,33600.0,8.0,Incomplete higher,27400.0,0,1,0,Rejected
+Male,State servant,56700.0,13.7,Higher education,2200.0,0,1,0,Approved
+Male,Working,58800.0,8.2,Secondary,27400.0,1,0,0,Rejected
+Female,Working,53700.0,3.2,Secondary,3400.0,2,0,2,Approved
+Male,Working,73100.0,6.8,Higher education,4100.0,5,0,0,Rejected
+Male,Working,79700.0,0.0,Higher education,5100.0,1,1,0,Rejected
+Male,Working,71400.0,0.0,Secondary,8500.0,2,2,3,Rejected
+Male,Commercial associate,55300.0,10.8,Incomplete higher,27600.0,1,0,0,Rejected
+Other,State servant,43000.0,4.6,Higher education,5200.0,3,1,0,Approved
+Female,Working,98100.0,5.1,Higher education,17200.0,2,0,0,Approved
+Male,Commercial associate,70100.0,10.8,Secondary,14800.0,3,0,0,Approved
+Female,Working,37900.0,13.8,Secondary,13000.0,2,1,0,Rejected
+Male,Pensioner,54900.0,9.3,Secondary,24300.0,3,0,0,Rejected
+Male,Working,27300.0,16.5,Secondary,13800.0,1,0,3,Approved
+Female,Working,60800.0,9.1,Higher education,14600.0,1,0,0,Rejected
+Female,Commercial associate,54800.0,8.1,Higher education,20300.0,2,0,0,Rejected
+Male,Commercial associate,46200.0,7.8,Incomplete higher,8800.0,1,0,late,Rejected
+Female,Pensioner,122200.0,0.0,Lower secondary,12300.0,3,2,0,Approved
+Male,Commercial associate,35600.0,11.5,Secondary,15500.0,4,2,3,Rejected
+Female,Pensioner,82300.0,0.0,Secondary,22800.0,0,0,3,Rejected
+Male,Working,160200.0,3.5,Incomplete higher,11200.0,3,1,late,Approved
+Female,Working,97200.0,6.6,Academic degree,12100.0,0,0,0,Approved
+Female,Working,59000.0,2.4,Incomplete higher,17000.0,0,0,0,Approved
+Male,Working,35900.0,4.2,Secondary,11300.0,2,1,1,Rejected
+Male,Working,32400.0,16.1,Secondary,7100.0,1,1,0,Rejected
+Female,Commercial associate,49800.0,12.2,Secondary,20200.0,2,0,0,Approved
+Female,Working,44000.0,2.9,Incomplete higher,13900.0,2,1,0,Rejected
+Male,Commercial associate,43300.0,4.1,Higher education,9300.0,0,0,0,Rejected
+Male,Commercial associate,51700.0,0.0,Higher education,5000.0,3,0,2,Rejected
+Female,Commercial associate,57200.0,10.2,Higher education,2300.0,1,0,default,Rejected
+Male,Commercial associate,74500.0,5.2,Secondary,17600.0,4,1,0,Rejected
+Male,Working,34300.0,0.0,Higher education,6900.0,3,1,0,Rejected
+Male,Working,44000.0,7.0,Secondary,3200.0,4,1,0,Rejected
+Male,Commercial associate,55700.0,8.8,Higher education,6300.0,2,1,0,Rejected
+Male,Commercial associate,54800.0,11.5,Higher education,15500.0,1,1,0,Approved
+Female,Working,136800.0,6.1,Higher education,6900.0,3,0,0,Approved
+Male,Working,66500.0,4.6,Secondary,15700.0,1,0,0,Rejected
+Male,Commercial associate,29000.0,16.8,Incomplete higher,8100.0,1,0,1,Approved
+Male,Commercial associate,72300.0,6.5,Higher education,12200.0,1,1,0,Approved
+Female,Working,76500.0,10.2,Secondary,13000.0,1,0,0,Approved
+Female,Working,56600.0,3.7,Secondary,19500.0,4,1,1,Rejected
+Male,State servant,34700.0,10.1,Higher education,19900.0,0,0,0,Rejected
+Female,Working,132100.0,0.0,Secondary,12500.0,0,0,0,Approved
+Other,State servant,37000.0,4.1,Secondary,5800.0,2,1,0,Rejected
+Female,Working,80600.0,0.2,Secondary,26100.0,5,1,0,Rejected
+Male,Commercial associate,65500.0,3.4,Secondary,9100.0,2,0,0,Rejected
+Male,Working,78500.0,13.0,Higher education,1100.0,5,0,1,Rejected
+Female,Working,129100.0,3.3,Higher education,15100.0,4,2,0,Rejected
+Female,State servant,77100.0,10.2,Secondary,15500.0,3,0,0,Rejected
+Male,Working,46600.0,14.4,Higher education,9400.0,0,0,0,Rejected
+Male,Student,98500.0,6.4,Secondary,3400.0,4,0,0,Approved
+Female,Working,45100.0,11.7,Secondary,2800.0,1,0,0,Rejected
+Male,State servant,64400.0,9.3,Secondary,10000.0,2,1,2,Rejected
+Male,State servant,33500.0,7.1,Incomplete higher,5300.0,2,1,0,Rejected
+Female,Commercial associate,37600.0,10.4,Lower secondary,22800.0,1,0,1,Rejected
+Female,Working,61300.0,16.1,Higher education,9700.0,7,1,1,Approved
+Female,Commercial associate,70700.0,3.2,Secondary,8800.0,1,0,1,Approved
+Female,Commercial associate,27800.0,1.5,Secondary,37600.0,2,0,1,Rejected
+Female,State servant,74900.0,1.2,Secondary,1300.0,1,0,0,Approved
+Female,Working,41400.0,11.7,Incomplete higher,12200.0,5,2,0,Rejected
+Male,Working,106500.0,12.4,Secondary,2300.0,4,1,0,Approved
+Female,Working,51100.0,3.7,Lower secondary,27800.0,1,0,0,Approved
+Male,Commercial associate,36100.0,0.0,Higher education,3100.0,4,0,0,Rejected
+Female,Student,62000.0,3.0,Higher education,15900.0,2,1,0,Approved
+Female,Working,39600.0,9.3,Incomplete higher,14400.0,3,0,0,Approved
+Male,Pensioner,106000.0,6.2,Secondary,2300.0,3,1,late,Approved
+Male,State servant,59900.0,7.4,Higher education,16000.0,2,0,0,Rejected
+Female,Working,55900.0,3.8,Secondary,8100.0,0,0,0,Approved
+Female,Working,78100.0,11.8,Incomplete higher,18200.0,3,0,0,Rejected
+Female,Commercial associate,38100.0,8.3,Higher education,7700.0,2,0,0,Approved
+Male,Commercial associate,33500.0,9.5,Secondary,16100.0,1,0,0,Approved
+Female,Working,72000.0,7.3,Incomplete higher,11300.0,3,0,0,Approved
+Female,Pensioner,36500.0,9.2,Secondary,16000.0,3,1,0,Rejected
+Female,Commercial associate,36500.0,8.9,Secondary,18000.0,2,1,0,Rejected
+Male,State servant,87300.0,1.7,Incomplete higher,10400.0,1,2,0,Rejected
+Male,State servant,75800.0,8.4,Higher education,9200.0,2,0,0,Approved
+Male,Pensioner,34100.0,10.6,Incomplete higher,17600.0,3,0,0,Rejected
+Male,Commercial associate,45300.0,12.5,Higher education,8200.0,1,0,0,Approved
+Female,Working,39900.0,8.7,Higher education,10600.0,2,1,0,Rejected
+Female,Commercial associate,133200.0,1.5,Secondary,31300.0,2,0,1,Rejected
+Female,Working,90000.0,2.3,Secondary,12300.0,0,0,0,Rejected
+Male,Commercial associate,49500.0,4.2,Lower secondary,20000.0,3,1,0,Rejected
+Male,Working,77600.0,7.5,Secondary,7200.0,3,0,default,Approved
+Male,Commercial associate,32500.0,5.9,Higher education,15900.0,1,2,0,Rejected
+Other,Working,44200.0,0.7,Secondary,10800.0,3,0,0,Rejected
+Other,Working,62800.0,0.6,Secondary,9400.0,1,1,1,Rejected
+Male,Working,73400.0,0.0,Higher education,2100.0,4,2,1,Rejected
+Female,Commercial associate,57300.0,0.0,Incomplete higher,5400.0,3,2,0,Rejected
+Female,Pensioner,66900.0,5.8,Higher education,1800.0,4,0,0,Rejected
+Female,Working,62000.0,18.6,Incomplete higher,39100.0,0,1,1,Rejected
+Male,State servant,55600.0,15.8,Secondary,11200.0,3,1,0,Approved
+Female,State servant,52400.0,1.4,Higher education,12300.0,2,0,0,Approved
+Male,Working,49400.0,7.3,Secondary,22400.0,1,0,1,Rejected
+Male,Commercial associate,66500.0,0.0,Higher education,14900.0,1,1,1,Rejected
+Male,Working,72000.0,0.0,Secondary,9300.0,0,0,0,Approved
+Female,Working,65500.0,0.3,Higher education,9400.0,1,0,0,Rejected
+Female,Commercial associate,35200.0,5.3,Secondary,5000.0,1,0,0,Approved
+Female,Working,38200.0,5.6,Incomplete higher,16800.0,0,1,2,Rejected
+Male,State servant,71600.0,7.8,Incomplete higher,17200.0,0,1,1,Rejected
+Male,State servant,116100.0,9.9,Incomplete higher,12400.0,2,0,1,Approved
+Male,Pensioner,64100.0,4.7,Secondary,11000.0,4,3,0,Rejected
+Female,Commercial associate,49700.0,6.7,Academic degree,17300.0,4,0,3,Rejected
+Female,Commercial associate,66200.0,0.8,Secondary,4900.0,3,0,0,Rejected
+Female,Student,35900.0,0.0,Secondary,15400.0,1,0,0,Rejected
+Male,Working,107900.0,0.0,Secondary,32500.0,4,0,2,Rejected
+Male,Working,65100.0,9.9,Secondary,7400.0,1,1,0,Rejected
+Female,Commercial associate,44300.0,4.7,Higher education,10200.0,4,0,0,Rejected
+Male,Working,55500.0,0.0,Secondary,27100.0,4,2,0,Rejected
+Female,Working,47200.0,6.2,Secondary,12400.0,0,0,2,Rejected
+Male,Working,108000.0,0.0,Higher education,21000.0,4,2,0,Approved
+Female,Commercial associate,54700.0,15.1,Incomplete higher,16100.0,2,0,0,Rejected
+Female,Working,64200.0,3.5,Higher education,17000.0,1,1,0,Approved
+Male,Working,77500.0,10.0,Higher education,7100.0,0,0,2,Approved
+Female,Working,42900.0,12.2,Secondary,6900.0,1,0,3,Rejected
+Female,Working,65300.0,1.5,Incomplete higher,19200.0,5,1,0,Approved
+Female,State servant,67700.0,6.9,Secondary,3700.0,3,0,1,Rejected
+Female,Working,29800.0,9.4,Secondary,10600.0,1,1,0,Rejected
+Male,Commercial associate,67100.0,7.1,Secondary,17400.0,4,0,0,Rejected
+Male,Pensioner,58700.0,8.4,Higher education,10200.0,1,0,0,Rejected
+Male,Working,63500.0,0.0,Secondary,11100.0,2,0,0,Rejected
+Female,Pensioner,60800.0,9.4,Higher education,21700.0,1,1,0,Rejected
+Male,Commercial associate,67300.0,4.0,Secondary,29200.0,5,1,0,Rejected
+Female,Commercial associate,109300.0,8.3,Higher education,49200.0,1,4,0,Rejected
+Female,Working,35200.0,11.3,Higher education,27600.0,1,0,2,Rejected
+Female,Working,51300.0,10.0,Secondary,8700.0,4,0,0,Approved
+Male,Student,80800.0,8.3,Secondary,6100.0,2,1,1,Rejected
+Male,Pensioner,74300.0,9.8,Higher education,8700.0,2,0,2,Approved
+Male,State servant,73600.0,10.1,Higher education,17600.0,2,0,0,Approved
+Male,State servant,206700.0,14.3,Secondary,9400.0,3,1,1,Approved
+Male,Working,78900.0,6.3,Higher education,7300.0,3,0,0,Approved
+Male,Pensioner,99600.0,7.4,Secondary,31500.0,3,0,0,Rejected
+Male,Working,52100.0,11.3,Secondary,9200.0,6,0,0,Rejected
+Female,Pensioner,38300.0,3.9,Secondary,16600.0,0,1,0,Rejected
+Female,Working,52000.0,0.0,Higher education,16300.0,4,1,0,Rejected
+Female,Working,82500.0,9.1,Secondary,2200.0,2,0,2,Approved
+Male,Pensioner,71900.0,5.4,Higher education,30300.0,3,1,1,Rejected
+Male,Pensioner,71800.0,0.2,Secondary,4600.0,1,2,0,Rejected
+Male,Commercial associate,54400.0,9.1,Higher education,3400.0,1,1,0,Approved
+Female,Working,50600.0,13.9,Secondary,8400.0,3,0,2,Rejected
+Male,Working,55200.0,0.0,Higher education,6200.0,3,0,default,Approved
+Female,Student,83000.0,11.8,Incomplete higher,27200.0,3,2,0,Rejected
+Female,Working,87400.0,0.0,Secondary,14700.0,3,1,1,Rejected
+Female,Working,38100.0,4.4,Secondary,7800.0,2,0,0,Rejected
+Female,Commercial associate,84400.0,16.1,Higher education,3200.0,1,0,0,Approved
+Male,Working,44700.0,4.8,Academic degree,15900.0,2,1,3,Rejected
+Female,Commercial associate,73900.0,7.0,Lower secondary,9900.0,4,1,0,Approved
+Male,Working,54900.0,10.5,Secondary,17400.0,2,0,0,Rejected
+Female,Pensioner,121100.0,0.0,Higher education,14800.0,2,0,0,Approved
+Female,State servant,49600.0,6.9,Secondary,6400.0,0,1,0,Approved
+Male,State servant,64900.0,6.8,Secondary,19000.0,0,0,0,Approved
+Female,Commercial associate,78700.0,16.2,Higher education,4200.0,3,1,0,Approved
+Other,Working,40400.0,0.1,Higher education,9500.0,2,2,0,Rejected
+Male,Pensioner,57900.0,4.5,Higher education,10500.0,0,0,0,Approved
+Male,Pensioner,53100.0,1.7,Incomplete higher,11600.0,1,2,0,Rejected
+Female,Commercial associate,47500.0,1.1,Secondary,3900.0,4,1,0,Rejected
+Female,Commercial associate,49100.0,12.4,Higher education,26300.0,3,1,2,Rejected
+Male,Pensioner,98800.0,6.6,Secondary,6300.0,4,0,0,Approved
+Female,Commercial associate,45700.0,3.6,Secondary,2600.0,1,1,0,Rejected
+Female,Pensioner,77300.0,3.8,Secondary,15100.0,2,3,1,Rejected
+Female,Working,69000.0,3.6,Lower secondary,38800.0,4,0,2,Rejected
+Male,Commercial associate,31900.0,4.0,Higher education,2200.0,2,0,1,Rejected
+Male,Commercial associate,75600.0,0.0,Secondary,5300.0,2,0,late,Rejected
+Male,Working,31700.0,5.2,Higher education,21900.0,5,0,0,Rejected
+Male,State servant,79400.0,4.6,Lower secondary,12200.0,1,0,1,Rejected
+Female,Commercial associate,47700.0,2.6,Lower secondary,4100.0,1,0,0,Rejected
+Male,Working,60100.0,7.3,Higher education,10500.0,2,1,0,Rejected
+Female,Pensioner,33400.0,7.7,Secondary,32900.0,6,0,0,Rejected
+Male,Pensioner,63300.0,3.6,Higher education,28200.0,0,1,1,Approved
+Female,Pensioner,90900.0,5.8,Incomplete higher,55100.0,3,1,0,Rejected
+Other,Working,41600.0,17.7,Incomplete higher,19600.0,4,1,1,Rejected
+Female,State servant,45600.0,17.5,Incomplete higher,8200.0,0,2,0,Rejected
+Female,Working,73500.0,1.0,Higher education,21600.0,1,0,1,Rejected
+Female,Commercial associate,74300.0,1.7,Secondary,6900.0,0,1,0,Rejected
+Female,Working,20000.0,1.0,Higher education,11100.0,5,0,0,Rejected
+Female,Commercial associate,148300.0,12.0,Secondary,7000.0,0,1,0,Approved
+Male,Pensioner,76000.0,4.4,Secondary,19500.0,2,0,0,Rejected
+Female,Commercial associate,81900.0,7.7,Higher education,18400.0,3,1,3,Rejected
+Male,Commercial associate,56100.0,16.9,Higher education,7400.0,1,0,0,Approved
+Female,Pensioner,26000.0,6.4,Incomplete higher,25000.0,4,2,0,Rejected
+Male,Commercial associate,81100.0,10.2,Incomplete higher,30200.0,0,0,0,Approved
+Female,Working,46400.0,9.2,Incomplete higher,8300.0,1,0,0,Rejected
+Male,Student,76500.0,3.4,Higher education,16100.0,0,1,0,Approved
+Male,Pensioner,54300.0,12.0,Higher education,31400.0,2,2,0,Rejected
+Female,Student,66600.0,2.1,Secondary,15200.0,0,0,0,Rejected
+Male,Student,42200.0,13.5,Higher education,9600.0,0,2,1,Rejected
+Female,State servant,88300.0,3.4,Secondary,11500.0,1,0,0,Approved
+Female,Pensioner,35100.0,4.0,Secondary,8200.0,0,1,0,Rejected
+Male,Commercial associate,164500.0,0.8,Secondary,25500.0,2,0,0,Approved
+Male,Working,163900.0,1.7,Incomplete higher,23500.0,1,0,0,Rejected
+Female,Commercial associate,124800.0,4.3,Higher education,43600.0,1,1,0,Rejected
+Female,Pensioner,106300.0,0.0,Lower secondary,6800.0,4,0,0,Approved
+Male,Commercial associate,57600.0,5.3,Academic degree,7800.0,2,0,1,Rejected
+Male,State servant,101200.0,3.9,Incomplete higher,3400.0,0,0,0,Approved
+Other,Working,57300.0,10.6,Secondary,17600.0,2,0,3,Rejected
+Male,Working,29800.0,8.7,Incomplete higher,4800.0,1,0,1,Approved
+Male,Commercial associate,117800.0,2.8,Incomplete higher,42200.0,2,0,0,Approved
+Female,Working,99500.0,4.1,Incomplete higher,6200.0,0,0,0,Approved
+Male,Working,59000.0,5.3,Secondary,2000.0,3,0,1,Rejected
+Female,Working,34500.0,14.2,Secondary,4600.0,2,0,0,Approved
+Male,Pensioner,46000.0,2.2,Lower secondary,14800.0,2,0,1,Rejected
+Female,Commercial associate,26400.0,2.8,Secondary,11300.0,2,0,0,Rejected
+Male,Working,91600.0,0.6,Secondary,6100.0,3,0,0,Approved
+Male,Working,29100.0,0.0,Higher education,10900.0,0,1,1,Rejected
+Male,Working,68100.0,8.1,Secondary,7600.0,3,1,1,Rejected
+Male,Working,41000.0,7.6,Secondary,17400.0,2,0,0,Rejected
+Female,Pensioner,31500.0,13.2,Academic degree,4900.0,1,0,0,Rejected
+Male,Pensioner,66700.0,11.9,Incomplete higher,13400.0,1,0,0,Approved
+Female,Working,51500.0,19.0,Lower secondary,13800.0,3,0,0,Rejected
+Female,Commercial associate,87300.0,6.1,Secondary,11600.0,2,1,2,Approved
+Female,Working,33800.0,5.1,Secondary,16000.0,0,0,0,Rejected
+Female,Working,42600.0,0.0,Secondary,10800.0,6,0,0,Rejected
+Female,State servant,20400.0,10.1,Higher education,19400.0,3,1,0,Rejected
+Male,Commercial associate,22400.0,7.1,Secondary,11600.0,5,0,3,Rejected
+Male,State servant,134500.0,9.9,Higher education,26200.0,1,0,0,Approved
+Male,Working,152900.0,0.6,Academic degree,13300.0,0,2,0,Approved
+Female,Working,62400.0,8.3,Higher education,25200.0,3,0,1,Approved
+Female,Working,41300.0,7.6,Secondary,7700.0,2,1,1,Rejected
+Female,Commercial associate,52300.0,7.2,Secondary,5400.0,3,0,0,Approved
+Male,Student,88700.0,2.9,Secondary,19300.0,2,0,0,Rejected
+Male,Working,47500.0,12.7,Secondary,11800.0,3,0,default,Approved
+Female,State servant,66600.0,17.2,Higher education,1300.0,1,0,0,Approved
+Male,State servant,59500.0,0.7,Secondary,6700.0,3,1,0,Rejected
+Female,Commercial associate,46400.0,10.2,Higher education,14900.0,2,0,0,Approved
+Female,Working,47300.0,0.0,Incomplete higher,11000.0,6,0,1,Rejected
+Female,Commercial associate,68300.0,10.0,Secondary,6400.0,3,0,2,Rejected
+Female,Working,38600.0,0.0,Secondary,11700.0,1,1,0,Rejected
+Male,Pensioner,73400.0,3.8,Secondary,13100.0,2,0,0,Rejected
+Male,Commercial associate,48400.0,0.0,Secondary,2600.0,5,0,0,Rejected
+Female,State servant,63400.0,5.4,Higher education,24700.0,1,0,0,Rejected
+Male,Commercial associate,111600.0,10.9,Incomplete higher,28400.0,4,0,2,Rejected
+Male,Commercial associate,55500.0,0.0,Incomplete higher,6600.0,3,0,0,Rejected
+Male,Pensioner,90600.0,4.6,Higher education,38000.0,3,1,0,Rejected
+Male,Commercial associate,26700.0,3.8,Secondary,11100.0,2,1,0,Rejected
+Female,State servant,48500.0,14.7,Secondary,7300.0,2,0,0,Approved
+Male,Working,60600.0,8.7,Secondary,7100.0,2,2,0,Rejected
+Female,Student,142300.0,0.4,Secondary,36400.0,3,1,0,Approved
+Other,Pensioner,24800.0,4.0,Incomplete higher,5000.0,5,1,0,Rejected
+Female,State servant,57300.0,14.6,Higher education,13300.0,2,0,0,Approved
+Male,Commercial associate,115300.0,10.2,Secondary,14500.0,2,0,0,Approved
+Female,Pensioner,42100.0,1.7,Secondary,19400.0,2,0,0,Rejected
+Female,Working,54400.0,5.1,Secondary,12500.0,2,0,0,Rejected
+Male,Pensioner,69500.0,5.3,Lower secondary,34700.0,3,1,0,Rejected
+Male,Working,65100.0,3.7,Secondary,38900.0,1,0,0,Rejected
+Female,Working,121100.0,0.0,Secondary,29700.0,2,0,1,Rejected
+Male,Working,73300.0,3.0,Secondary,15500.0,0,0,0,Rejected
+Male,Working,108800.0,13.7,Incomplete higher,22100.0,2,2,0,Rejected
+Female,Working,50900.0,4.5,Higher education,9400.0,1,0,0,Approved
+Male,Pensioner,42900.0,6.0,Higher education,25300.0,3,0,0,Rejected
+Male,Working,54100.0,7.2,Secondary,7600.0,2,1,0,Approved
+Male,Pensioner,35500.0,18.0,Secondary,5700.0,1,0,0,Approved
+Female,Working,74400.0,6.5,Incomplete higher,5600.0,2,0,0,Approved
+Female,Pensioner,50300.0,12.2,Secondary,17700.0,2,0,0,Rejected
+Male,Pensioner,44300.0,3.4,Secondary,32000.0,1,0,0,Rejected
+Male,Working,74900.0,5.2,Higher education,33600.0,0,1,0,Approved
+Male,Pensioner,35800.0,6.6,Secondary,1500.0,3,0,0,Rejected
+Other,State servant,84700.0,2.5,Secondary,23000.0,3,0,0,Rejected
+Male,Pensioner,48300.0,5.4,Incomplete higher,5400.0,3,0,0,Rejected
+Male,Working,100900.0,11.1,Higher education,48700.0,5,2,0,Rejected
+Male,Commercial associate,50200.0,2.3,Secondary,4000.0,4,1,default,Rejected
+Male,Pensioner,79600.0,6.5,Secondary,2600.0,1,0,1,Approved
+Female,Working,64900.0,10.2,Higher education,23300.0,1,0,0,Rejected
+Female,Pensioner,83700.0,2.2,Secondary,9000.0,0,1,late,Approved
+Male,Working,62900.0,12.2,Secondary,8600.0,3,0,0,Rejected
+Female,Pensioner,28300.0,6.9,Higher education,6500.0,0,0,0,Approved
+Female,Working,94300.0,5.6,Higher education,7500.0,2,1,3,Rejected
+Male,Working,57600.0,0.0,Academic degree,24000.0,1,0,1,Rejected
+Female,Student,85400.0,4.6,Secondary,5600.0,2,0,0,Rejected
+Female,State servant,81700.0,8.4,Secondary,10800.0,1,0,0,Approved
+Male,State servant,42300.0,15.6,Higher education,5100.0,2,0,late,Rejected
+Male,Student,39700.0,9.5,Higher education,12900.0,4,1,0,Rejected
+Female,Working,80400.0,12.4,Secondary,8500.0,0,0,0,Approved
+Female,Working,52200.0,0.2,Higher education,16600.0,2,0,0,Rejected
+Female,Working,91300.0,5.8,Secondary,18200.0,3,0,default,Rejected
+Male,Commercial associate,55300.0,12.8,Incomplete higher,32300.0,1,0,0,Rejected
+Male,Working,94900.0,1.9,Incomplete higher,46700.0,5,0,0,Rejected
+Female,State servant,72400.0,11.5,Secondary,7100.0,0,1,0,Rejected
+Male,Working,68200.0,10.3,Lower secondary,19600.0,0,0,0,Rejected
+Female,Working,50600.0,7.9,Academic degree,8400.0,2,1,0,Rejected
+Female,Working,66500.0,4.8,Secondary,17800.0,3,1,0,Rejected
+Other,Working,102400.0,1.4,Secondary,17300.0,1,1,2,Rejected
+Female,Working,58400.0,15.7,Higher education,16900.0,3,0,1,Rejected
+Female,Commercial associate,76000.0,9.8,Secondary,20600.0,1,0,0,Rejected
+Female,Working,61100.0,8.3,Secondary,13500.0,1,2,2,Rejected
+Male,Commercial associate,63300.0,4.4,Secondary,9000.0,1,1,0,Rejected
+Male,State servant,130000.0,6.7,Lower secondary,13000.0,3,1,0,Approved
+Other,Commercial associate,102800.0,7.4,Secondary,44500.0,2,0,0,Approved
+Female,Commercial associate,62100.0,8.6,Higher education,7800.0,1,0,0,Rejected
+Female,Working,65900.0,10.3,Secondary,9600.0,1,0,0,Rejected
+Male,Working,43700.0,2.4,Secondary,6700.0,1,0,0,Rejected
+Female,Working,55400.0,0.0,Incomplete higher,2100.0,2,0,0,Rejected
+Male,Student,68800.0,6.9,Secondary,11500.0,1,1,0,Rejected
+Male,Commercial associate,87800.0,0.0,Secondary,18600.0,3,0,0,Rejected
+Female,Working,83900.0,4.8,Secondary,5800.0,4,2,0,Rejected
+Male,Working,36300.0,3.9,Higher education,29200.0,1,2,late,Rejected
+Female,Pensioner,92900.0,9.1,Secondary,16300.0,1,1,0,Approved
+Female,Commercial associate,57500.0,16.8,Secondary,24100.0,3,0,default,Approved
+Male,Commercial associate,38400.0,0.0,Secondary,15200.0,0,0,0,Approved
+Male,State servant,109200.0,18.3,Secondary,10800.0,4,2,0,Approved
+Male,Commercial associate,115700.0,5.3,Secondary,9200.0,2,0,0,Approved
+Male,Commercial associate,67400.0,8.3,Higher education,14800.0,2,0,2,Approved
+Other,Working,82400.0,0.0,Secondary,15700.0,0,1,3,Rejected
+Other,Working,84600.0,11.7,Secondary,8200.0,2,0,1,Approved
+Male,Student,112200.0,6.7,Higher education,10600.0,3,0,0,Approved
+Female,Commercial associate,83100.0,6.2,Higher education,39100.0,1,0,0,Approved
+Male,Working,32900.0,0.0,Secondary,13200.0,2,2,0,Rejected
+Other,Commercial associate,147900.0,6.9,Secondary,14200.0,2,1,default,Rejected
+Female,Working,96700.0,10.9,Secondary,33100.0,1,0,0,Rejected
+Female,Pensioner,47600.0,5.3,Lower secondary,15900.0,1,0,0,Rejected
+Female,Working,37700.0,12.6,Secondary,12000.0,2,1,0,Rejected
+Female,Pensioner,75100.0,12.4,Secondary,23700.0,2,1,1,Rejected
+Male,Commercial associate,52800.0,3.2,Secondary,20200.0,1,1,1,Rejected
+Female,Working,69500.0,14.8,Secondary,14400.0,1,0,0,Approved
+Male,Working,83700.0,6.7,Secondary,15300.0,4,0,0,Approved
+Male,Pensioner,46400.0,6.8,Secondary,9800.0,2,0,0,Rejected
+Male,Working,36200.0,7.0,Higher education,4800.0,3,1,0,Rejected
+Female,Working,71200.0,6.9,Higher education,18300.0,0,0,late,Rejected
+Female,Pensioner,47100.0,0.0,Higher education,3300.0,0,0,0,Approved
+Male,Working,63900.0,5.5,Higher education,5000.0,2,0,late,Rejected
+Male,Working,32700.0,0.0,Secondary,10400.0,2,0,0,Rejected
+Male,Working,53500.0,15.0,Lower secondary,9700.0,1,1,2,Rejected
+Male,State servant,82600.0,14.7,Higher education,19600.0,2,1,0,Approved
+Female,Working,78600.0,10.9,Incomplete higher,23100.0,2,0,1,Approved
+Male,Working,42000.0,5.3,Higher education,42600.0,3,1,0,Rejected
+Female,Working,35400.0,1.3,Secondary,2800.0,1,0,1,Rejected
+Female,Working,60300.0,3.1,Secondary,16800.0,2,2,1,Rejected
+Male,Working,77100.0,16.6,Secondary,16400.0,3,0,0,Rejected
+Female,Working,71800.0,2.9,Secondary,15000.0,1,0,3,Rejected
+Female,Working,47500.0,0.0,Higher education,18300.0,2,0,0,Approved
+Female,Working,68500.0,11.9,Secondary,20900.0,3,1,0,Rejected
+Female,State servant,117700.0,14.3,Secondary,29800.0,0,0,0,Approved
+Male,Working,65700.0,15.1,Lower secondary,15300.0,3,0,0,Approved
+Female,Working,28700.0,11.9,Higher education,35700.0,2,0,2,Rejected
+Male,State servant,65600.0,12.7,Higher education,15400.0,3,0,1,Rejected
+Male,State servant,150200.0,6.8,Secondary,8700.0,2,1,0,Approved
+Female,Commercial associate,33500.0,0.0,Higher education,14400.0,5,2,0,Rejected
+Female,Working,60700.0,6.6,Incomplete higher,6200.0,3,1,0,Approved
+Male,Working,54100.0,9.7,Higher education,6500.0,4,1,0,Rejected
+Male,Working,62500.0,5.8,Higher education,11100.0,1,0,1,Rejected
+Male,Working,65300.0,5.6,Higher education,10000.0,4,0,0,Approved
+Male,Working,100000.0,1.5,Secondary,29200.0,1,0,0,Rejected
+Female,Commercial associate,62200.0,1.3,Higher education,11000.0,7,0,0,Rejected
+Female,Working,106400.0,16.1,Academic degree,5500.0,3,0,0,Approved
+Male,Commercial associate,56800.0,16.2,Secondary,12600.0,4,1,0,Rejected
+Female,Working,51100.0,6.5,Secondary,15300.0,1,0,0,Rejected
+Male,Working,44300.0,8.0,Secondary,13600.0,3,2,0,Rejected
+Male,Pensioner,26400.0,1.4,Secondary,5300.0,0,0,2,Rejected
+Male,State servant,67800.0,9.8,Academic degree,31300.0,2,0,0,Approved
+Female,Working,150900.0,15.7,Higher education,2500.0,0,1,2,Approved
+Female,Commercial associate,73600.0,0.0,Secondary,13400.0,1,0,0,Approved
+Female,Working,81600.0,8.9,Secondary,5100.0,4,1,0,Rejected
+Female,Working,49700.0,9.3,Secondary,24600.0,3,1,0,Rejected
+Male,Pensioner,53600.0,9.2,Secondary,16900.0,2,1,0,Rejected
+Female,Working,93300.0,15.0,Higher education,15300.0,3,0,1,Rejected
+Female,Working,147800.0,17.1,Incomplete higher,10400.0,4,0,1,Approved
+Female,Commercial associate,117000.0,5.3,Higher education,29500.0,1,0,0,Approved
+Female,Working,86000.0,10.0,Secondary,10400.0,3,0,0,Approved
+Male,Working,60800.0,6.9,Higher education,37700.0,1,0,0,Rejected
+Female,Working,65800.0,3.2,Higher education,6300.0,1,0,0,Approved
+Other,Student,42700.0,7.9,Secondary,12700.0,1,0,0,Approved
+Female,Commercial associate,31200.0,10.0,Higher education,20600.0,1,1,0,Approved
+Male,Working,36100.0,7.6,Higher education,17700.0,2,0,0,Rejected
+Female,Working,61200.0,1.9,Incomplete higher,12000.0,3,0,0,Rejected
+Female,Commercial associate,52500.0,4.1,Secondary,2800.0,0,0,0,Rejected
+Male,Working,30900.0,4.1,Secondary,14100.0,0,1,0,Rejected
+Other,Commercial associate,58900.0,2.1,Higher education,9500.0,3,0,0,Rejected
+Male,Pensioner,51900.0,8.1,Secondary,7800.0,6,2,1,Rejected
+Female,Working,35300.0,8.7,Secondary,21400.0,5,1,0,Rejected
+Female,Working,50700.0,11.6,Incomplete higher,2300.0,3,3,0,Rejected
+Male,Working,51800.0,2.0,Secondary,12300.0,2,2,0,Rejected
+Female,Working,45400.0,3.5,Higher education,800.0,2,0,0,Rejected
+Male,Working,90900.0,14.6,Academic degree,17800.0,1,0,0,Approved
+Male,State servant,25400.0,5.6,Higher education,21500.0,2,1,0,Rejected
+Male,Working,24500.0,6.7,Higher education,13900.0,1,0,0,Rejected
+Male,Commercial associate,60000.0,5.6,Higher education,8800.0,0,1,2,Rejected
+Male,Commercial associate,62500.0,12.4,Secondary,29200.0,1,0,2,Rejected
+Female,Working,71800.0,12.6,Secondary,30500.0,3,1,0,Approved
+Female,Working,47000.0,12.3,Higher education,15800.0,3,0,0,Approved
+Male,Working,39600.0,6.6,Secondary,33500.0,0,0,3,Rejected
+Male,Commercial associate,59700.0,2.0,Secondary,6300.0,6,1,0,Rejected
+Female,Working,49100.0,16.5,Secondary,11400.0,0,0,late,Approved
+Female,Pensioner,120300.0,11.0,Incomplete higher,1300.0,0,0,0,Approved
+Male,State servant,51700.0,4.1,Secondary,4800.0,3,1,late,Rejected
+Male,Pensioner,58500.0,13.9,Higher education,4500.0,2,0,0,Approved
+Male,Student,182400.0,3.7,Secondary,17700.0,1,2,0,Approved
+Female,Pensioner,54900.0,13.8,Higher education,5100.0,3,0,0,Approved
+Female,State servant,76900.0,14.2,Secondary,2100.0,1,1,0,Approved
+Male,Pensioner,80100.0,1.7,Secondary,7300.0,1,1,0,Rejected
+Female,Pensioner,83200.0,9.5,Higher education,8100.0,1,0,0,Approved
+Male,Pensioner,68200.0,10.6,Higher education,4000.0,3,0,0,Rejected
+Male,State servant,65300.0,20.1,Secondary,13200.0,4,0,3,Rejected
+Female,Working,62600.0,2.6,Secondary,14900.0,2,1,late,Rejected
+Female,Commercial associate,46200.0,13.9,Secondary,3200.0,3,1,2,Rejected
+Female,Commercial associate,69300.0,6.6,Secondary,19600.0,3,0,default,Rejected
+Male,State servant,149200.0,0.0,Higher education,6000.0,1,2,1,Approved
+Male,Working,103200.0,5.9,Secondary,8000.0,3,1,3,Rejected
+Female,Pensioner,68600.0,6.5,Higher education,17000.0,5,0,0,Approved
+Male,Pensioner,88000.0,1.0,Secondary,8100.0,2,0,0,Rejected
+Female,Student,40500.0,8.1,Higher education,4900.0,3,0,2,Rejected
+Female,Working,53300.0,11.5,Secondary,12600.0,7,2,0,Rejected
+Male,Pensioner,91700.0,7.7,Higher education,24800.0,4,1,0,Rejected
+Female,Pensioner,116900.0,3.7,Secondary,22800.0,2,1,0,Rejected
+Female,State servant,42300.0,5.7,Lower secondary,7500.0,1,1,0,Rejected
+Male,State servant,48200.0,6.5,Higher education,5600.0,1,0,0,Approved
+Female,Commercial associate,159800.0,7.6,Incomplete higher,6600.0,0,0,1,Approved
+Male,Commercial associate,62500.0,12.3,Secondary,23000.0,2,0,0,Approved
+Female,Working,136000.0,7.9,Secondary,6500.0,0,0,0,Approved
+Female,Student,65700.0,0.0,Secondary,32500.0,1,0,0,Rejected
+Female,Working,66900.0,3.6,Secondary,16800.0,3,1,0,Rejected
+Female,Pensioner,52200.0,7.4,Higher education,11600.0,0,0,0,Approved
+Female,Pensioner,91500.0,12.3,Incomplete higher,7400.0,2,0,0,Rejected
+Female,Working,110300.0,13.2,Higher education,12800.0,1,0,0,Approved
+Male,Working,37600.0,15.7,Higher education,4900.0,1,1,3,Rejected
+Female,Working,51100.0,7.2,Secondary,3300.0,2,1,0,Rejected
+Female,State servant,90400.0,10.5,Secondary,17000.0,1,0,late,Approved
+Female,Commercial associate,56500.0,0.0,Incomplete higher,11600.0,3,1,2,Rejected
+Female,Working,48000.0,8.7,Secondary,20100.0,4,0,2,Rejected
+Female,Pensioner,94300.0,0.9,Secondary,14600.0,3,1,1,Approved
+Male,Working,98400.0,6.2,Lower secondary,7300.0,3,0,0,Rejected
+Female,State servant,48900.0,22.3,Lower secondary,22800.0,4,0,0,Rejected
+Male,Working,65900.0,8.1,Higher education,8000.0,2,2,0,Rejected
+Male,Working,34800.0,2.0,Secondary,27100.0,3,0,0,Rejected
+Female,Working,40000.0,8.6,Incomplete higher,7800.0,0,0,0,Rejected
+Female,Commercial associate,63300.0,3.8,Secondary,3800.0,2,0,0,Approved
+Female,Working,60700.0,1.5,Secondary,30300.0,4,1,1,Rejected
+Male,Pensioner,38800.0,17.4,Secondary,7600.0,2,2,0,Rejected
+Female,Working,43400.0,12.0,Lower secondary,8000.0,4,1,0,Approved
+Male,Working,37100.0,8.3,Lower secondary,3900.0,1,0,0,Rejected
+Male,Working,73500.0,4.5,Higher education,10900.0,1,0,0,Approved
+Male,Working,24700.0,4.9,Secondary,4400.0,1,1,0,Rejected
+Male,State servant,38000.0,14.5,Higher education,29200.0,1,1,2,Rejected
+Other,Working,25900.0,8.1,Secondary,9000.0,2,1,0,Rejected
+Female,Student,72300.0,0.0,Incomplete higher,5700.0,1,0,3,Rejected
+Female,Working,26600.0,19.1,Secondary,12300.0,0,0,0,Rejected
+Female,Working,60700.0,7.5,Secondary,46000.0,4,0,0,Rejected
+Male,Working,125200.0,8.3,Higher education,12700.0,1,1,0,Rejected
+Male,Working,127100.0,12.2,Higher education,9900.0,0,1,0,Approved
+Male,Pensioner,26600.0,8.9,Incomplete higher,12100.0,0,1,0,Rejected
+Female,Commercial associate,68500.0,10.4,Secondary,20800.0,3,1,0,Rejected
+Other,Working,38400.0,4.3,Incomplete higher,19500.0,0,2,0,Approved
+Male,Commercial associate,35000.0,0.1,Secondary,14300.0,4,0,0,Rejected
+Male,Commercial associate,56900.0,8.0,Secondary,23400.0,2,0,0,Rejected
+Other,State servant,104100.0,13.9,Higher education,12600.0,2,0,2,Approved
+Female,Student,78400.0,3.1,Secondary,10500.0,4,1,0,Approved
+Female,Commercial associate,43400.0,2.7,Higher education,12400.0,1,1,0,Rejected
+Male,Pensioner,82200.0,12.8,Secondary,7800.0,1,1,0,Approved
+Female,Pensioner,21800.0,4.1,Secondary,21100.0,3,1,0,Rejected
+Female,Commercial associate,42700.0,4.4,Higher education,7500.0,3,1,1,Rejected
+Female,Pensioner,41300.0,4.6,Secondary,1800.0,1,0,0,Approved
+Female,Working,62000.0,6.2,Higher education,3300.0,2,1,0,Approved
+Male,Pensioner,54700.0,0.0,Higher education,15300.0,2,0,0,Approved
+Male,Student,56200.0,3.7,Secondary,6600.0,1,0,0,Rejected
+Female,Working,55300.0,7.7,Higher education,19800.0,2,2,0,Rejected
+Female,Pensioner,60500.0,7.7,Secondary,11700.0,0,1,0,Approved
+Female,State servant,76300.0,12.5,Secondary,21000.0,2,0,late,Rejected
+Male,Working,64000.0,16.1,Secondary,2000.0,2,0,0,Approved
+Male,Commercial associate,52700.0,14.4,Incomplete higher,7500.0,5,0,0,Rejected
+Male,State servant,71700.0,11.3,Higher education,5600.0,4,1,0,Approved
+Female,Student,86800.0,5.7,Higher education,51800.0,1,0,0,Rejected
+Female,Working,46600.0,3.3,Lower secondary,8500.0,2,0,0,Rejected
+Female,Working,58300.0,6.6,Secondary,3200.0,3,1,late,Rejected
+Male,Commercial associate,101000.0,9.5,Incomplete higher,15100.0,3,0,1,Approved
+Female,Working,36500.0,10.8,Higher education,5200.0,4,1,0,Rejected
+Male,Working,134900.0,9.7,Lower secondary,22400.0,2,1,2,Approved
+Male,Working,32800.0,5.9,Lower secondary,25000.0,2,0,1,Rejected
+Female,Working,51300.0,10.6,Academic degree,5600.0,2,0,0,Rejected
+Female,Commercial associate,39000.0,13.1,Secondary,6700.0,2,0,3,Rejected
+Female,Commercial associate,160300.0,11.1,Incomplete higher,14200.0,4,0,0,Approved
+Female,Commercial associate,47700.0,6.3,Incomplete higher,22900.0,2,1,1,Rejected
+Female,Pensioner,47800.0,2.2,Higher education,15300.0,2,0,0,Rejected
+Male,Working,50700.0,2.0,Secondary,8500.0,0,1,0,Rejected
+Female,Working,62500.0,3.0,Lower secondary,3800.0,0,1,1,Rejected
+Female,Working,51600.0,7.8,Secondary,34400.0,3,1,0,Rejected
+Male,Working,56400.0,9.2,Higher education,15600.0,5,0,late,Rejected
+Male,Working,12200.0,0.0,Higher education,39100.0,4,0,0,Rejected
+Female,Working,61400.0,3.9,Secondary,17100.0,4,0,0,Rejected
+Male,Working,60400.0,7.8,Higher education,35900.0,3,0,1,Rejected
+Male,Working,95500.0,1.8,Secondary,6200.0,0,1,0,Approved
+Male,Commercial associate,107900.0,8.8,Higher education,6600.0,2,0,0,Approved
+Male,Commercial associate,55000.0,4.9,Incomplete higher,10200.0,4,0,0,Rejected
+Female,State servant,86400.0,2.7,Secondary,5800.0,1,1,1,Rejected
+Male,Pensioner,36500.0,6.8,Higher education,2700.0,1,0,0,Approved
+Female,Commercial associate,84600.0,8.5,Secondary,7200.0,0,1,0,Rejected
+Male,Working,46300.0,2.1,Incomplete higher,17000.0,3,0,0,Rejected
+Male,Commercial associate,35100.0,5.2,Lower secondary,4200.0,4,1,0,Rejected
+Female,Working,55100.0,8.9,Secondary,4700.0,1,0,1,Rejected
+Female,Working,112400.0,2.5,Higher education,7600.0,6,1,0,Rejected
+Male,Working,65000.0,0.0,Higher education,5300.0,2,0,0,Rejected
+Male,Working,117400.0,0.0,Higher education,7900.0,1,0,0,Rejected
+Female,Working,42700.0,4.3,Higher education,10800.0,3,1,0,Rejected
+Male,Commercial associate,95900.0,0.0,Higher education,4500.0,2,0,0,Rejected
+Male,Pensioner,44600.0,4.7,Higher education,7700.0,2,0,0,Approved
+Male,Pensioner,66300.0,15.2,Secondary,11500.0,1,0,1,Approved
+Female,Commercial associate,66000.0,0.0,Secondary,6000.0,4,1,late,Rejected
+Female,Commercial associate,80600.0,5.0,Incomplete higher,3800.0,3,0,0,Rejected
+Male,Working,67000.0,17.6,Secondary,6400.0,1,1,1,Approved
+Female,Pensioner,42900.0,8.6,Higher education,8900.0,1,1,0,Rejected
+Male,Commercial associate,89000.0,4.6,Secondary,2600.0,1,0,0,Approved
+Female,Working,130500.0,5.7,Incomplete higher,17200.0,0,1,0,Approved
+Male,Working,46000.0,8.7,Higher education,9200.0,2,0,0,Approved
+Female,State servant,26200.0,15.3,Secondary,6400.0,3,0,0,Rejected
+Female,Commercial associate,75000.0,3.7,Secondary,3000.0,5,0,3,Rejected
+Male,Working,51600.0,2.6,Secondary,15700.0,5,0,0,Rejected
+Male,Commercial associate,56400.0,0.0,Lower secondary,25100.0,0,0,0,Rejected
+Male,Working,76900.0,7.0,Higher education,7400.0,1,0,0,Approved
+Male,Working,48800.0,0.0,Higher education,36900.0,2,0,late,Rejected
+Male,Working,53100.0,4.1,Higher education,11200.0,1,0,0,Rejected
+Male,Working,57200.0,1.8,Secondary,11500.0,2,0,late,Rejected
+Female,Commercial associate,116000.0,12.1,Secondary,20500.0,4,1,default,Rejected
+Male,Working,60700.0,3.9,Secondary,16300.0,2,0,0,Rejected
+Male,Pensioner,34300.0,8.6,Secondary,4200.0,3,1,0,Rejected
+Female,Working,35000.0,0.0,Higher education,7200.0,4,0,0,Approved
+Female,Commercial associate,63700.0,7.2,Incomplete higher,22800.0,2,0,0,Rejected
+Male,Commercial associate,36000.0,0.2,Lower secondary,16500.0,4,0,0,Rejected
+Male,Commercial associate,29600.0,4.3,Incomplete higher,37100.0,2,0,1,Rejected
+Male,Commercial associate,79700.0,18.0,Higher education,14800.0,4,0,3,Rejected
+Other,Student,81500.0,11.3,Secondary,16900.0,2,0,0,Approved
+Male,Commercial associate,50700.0,5.8,Higher education,6400.0,5,0,0,Rejected
+Female,Pensioner,68300.0,23.1,Lower secondary,24900.0,0,0,0,Approved
+Female,Pensioner,65200.0,1.7,Higher education,1300.0,2,1,0,Rejected
+Female,Working,78500.0,12.6,Higher education,12900.0,1,0,0,Rejected
+Female,Working,78600.0,0.0,Higher education,17200.0,1,0,3,Rejected
+Male,Working,18500.0,5.2,Higher education,14100.0,1,1,0,Rejected
+Male,Working,53700.0,0.0,Lower secondary,11200.0,4,1,0,Rejected
+Female,Working,75600.0,7.8,Higher education,10300.0,0,1,0,Approved
+Female,Working,49800.0,6.8,Secondary,11600.0,2,1,0,Rejected
+Male,Commercial associate,60900.0,4.9,Secondary,4800.0,2,0,3,Rejected
+Female,Working,83900.0,12.2,Higher education,14000.0,3,2,3,Rejected
+Male,Pensioner,62100.0,3.6,Secondary,6400.0,1,0,0,Approved
+Female,Working,118000.0,8.2,Lower secondary,7400.0,3,0,0,Approved
+Male,Pensioner,99400.0,10.8,Higher education,4400.0,2,0,1,Rejected
+Female,Working,56800.0,0.0,Higher education,59100.0,1,0,0,Rejected
+Male,Working,54800.0,2.6,Secondary,13400.0,1,0,0,Rejected
+Female,Working,16600.0,6.8,Higher education,3600.0,3,0,late,Rejected
+Male,Commercial associate,51700.0,9.8,Higher education,12400.0,1,0,0,Approved
+Female,Working,32600.0,13.9,Secondary,24700.0,4,1,0,Rejected
+Female,State servant,66100.0,5.4,Incomplete higher,13900.0,1,0,0,Rejected
+Male,Working,64100.0,4.9,Secondary,11000.0,2,0,0,Approved
+Female,Commercial associate,81900.0,2.0,Secondary,6000.0,3,0,2,Rejected
+Female,Working,112300.0,8.2,Secondary,13900.0,3,0,0,Rejected
+Female,Commercial associate,59200.0,5.0,Higher education,19100.0,0,1,0,Approved
+Female,Working,167100.0,5.1,Higher education,19200.0,1,0,0,Approved
+Female,Working,66500.0,6.0,Incomplete higher,13000.0,2,0,2,Approved
+Male,Working,33200.0,9.4,Secondary,13000.0,1,0,0,Rejected
+Female,Working,46500.0,3.6,Academic degree,27400.0,1,1,0,Rejected
+Male,Working,50600.0,2.5,Higher education,25500.0,2,1,0,Rejected
+Other,Student,78200.0,8.7,Secondary,9900.0,1,0,0,Rejected
+Female,Working,39100.0,0.0,Secondary,35100.0,0,0,0,Rejected
+Male,Working,52400.0,3.4,Secondary,3600.0,1,0,0,Rejected
+Male,Student,55700.0,0.5,Incomplete higher,13500.0,3,0,0,Rejected
+Male,Working,48900.0,12.8,Secondary,14400.0,1,0,0,Rejected
+Female,Working,86300.0,4.2,Higher education,5700.0,1,1,0,Rejected
+Female,Pensioner,79900.0,3.6,Higher education,3000.0,0,0,0,Approved
+Female,State servant,101200.0,6.2,Incomplete higher,5800.0,0,0,2,Rejected
+Male,Pensioner,51600.0,3.4,Higher education,21700.0,0,0,0,Rejected
+Other,Working,102900.0,4.4,Higher education,22100.0,1,0,0,Approved
+Male,Student,32400.0,7.0,Secondary,18400.0,2,0,0,Rejected
+Female,Working,32100.0,4.3,Incomplete higher,6500.0,2,0,0,Rejected
+Male,Student,34700.0,4.3,Secondary,22300.0,2,1,0,Rejected
+Female,Pensioner,60100.0,1.2,Secondary,6900.0,0,0,0,Rejected
+Male,State servant,102900.0,0.5,Academic degree,14000.0,4,1,0,Rejected
+Female,Working,45700.0,6.8,Secondary,11500.0,3,1,0,Approved
+Male,Working,48300.0,8.1,Secondary,8600.0,1,0,0,Approved
+Male,Commercial associate,54300.0,0.0,Higher education,17800.0,1,0,0,Rejected
+Female,Commercial associate,77500.0,10.5,Secondary,20200.0,2,0,0,Approved
+Female,Commercial associate,48300.0,10.5,Secondary,6200.0,0,0,late,Rejected
+Male,State servant,47100.0,11.6,Higher education,12000.0,0,0,0,Approved
+Female,Commercial associate,32700.0,8.1,Higher education,19500.0,3,0,0,Rejected
+Male,Working,46300.0,9.8,Incomplete higher,700.0,1,0,0,Rejected
+Male,Working,101700.0,17.9,Secondary,15400.0,3,0,1,Rejected
+Male,Working,62400.0,4.9,Higher education,19800.0,3,0,0,Rejected
+Female,Working,42900.0,1.1,Incomplete higher,15800.0,4,3,late,Rejected
+Female,Working,104400.0,0.0,Secondary,16400.0,1,0,0,Approved
+Female,Pensioner,46000.0,15.6,Secondary,10900.0,0,1,0,Approved
+Male,Pensioner,113400.0,15.7,Secondary,18900.0,1,0,0,Approved
+Female,Commercial associate,112600.0,1.7,Higher education,4100.0,1,1,0,Approved
+Female,Working,61400.0,2.7,Secondary,5900.0,4,3,0,Rejected
+Female,Commercial associate,30500.0,4.8,Higher education,16200.0,2,0,3,Rejected
+Male,Pensioner,167800.0,12.9,Lower secondary,18900.0,5,0,1,Approved
+Female,State servant,71300.0,0.0,Secondary,24800.0,1,1,0,Approved
+Male,Commercial associate,51800.0,0.0,Higher education,31800.0,4,0,0,Rejected
+Male,Pensioner,92100.0,17.8,Secondary,6600.0,1,0,0,Approved
+Male,Commercial associate,82100.0,8.1,Secondary,4700.0,0,0,1,Approved
+Other,Working,108000.0,8.9,Higher education,21300.0,5,2,0,Approved
+Male,State servant,44400.0,5.4,Secondary,8300.0,3,0,0,Approved
+Male,Working,69100.0,8.9,Lower secondary,11200.0,2,0,0,Approved
+Female,Working,35100.0,0.0,Higher education,19900.0,2,0,3,Rejected
+Male,Working,80800.0,2.1,Secondary,13400.0,2,0,0,Approved
+Male,Commercial associate,59300.0,7.0,Secondary,18500.0,5,1,0,Approved
+Male,Commercial associate,67900.0,0.0,Secondary,6100.0,2,0,3,Rejected
+Male,Commercial associate,56100.0,4.9,Incomplete higher,14500.0,1,4,1,Rejected
+Other,Working,53500.0,4.6,Higher education,14300.0,2,2,0,Rejected
+Male,Working,40500.0,4.9,Secondary,24500.0,2,0,2,Rejected
+Male,State servant,85500.0,3.6,Higher education,28100.0,4,0,0,Rejected
+Female,Working,117100.0,1.3,Higher education,8200.0,2,0,0,Approved
+Female,State servant,46600.0,0.0,Incomplete higher,5200.0,4,1,0,Rejected
+Female,Working,76800.0,7.3,Secondary,19200.0,2,1,0,Rejected
+Female,Commercial associate,72700.0,4.9,Secondary,2700.0,1,0,0,Rejected
+Female,Commercial associate,60100.0,0.0,Secondary,20100.0,0,0,0,Rejected
+Female,Pensioner,30100.0,6.8,Secondary,21200.0,3,1,0,Rejected
+Male,Working,33300.0,5.0,Higher education,7700.0,2,2,1,Rejected
+Female,State servant,42100.0,4.1,Secondary,900.0,1,0,0,Rejected
+Male,Commercial associate,22900.0,0.0,Secondary,22700.0,1,2,0,Rejected
+Male,Commercial associate,112800.0,10.1,Secondary,29400.0,2,1,0,Approved
+Female,Commercial associate,70600.0,0.1,Secondary,28100.0,4,0,1,Rejected
+Female,Working,59100.0,6.8,Lower secondary,28700.0,1,0,0,Rejected
+Female,Commercial associate,22300.0,2.3,Higher education,3800.0,4,2,late,Rejected
+Other,Working,26400.0,4.5,Secondary,12300.0,2,0,2,Rejected
+Female,Working,59800.0,12.5,Higher education,14300.0,0,0,1,Rejected
+Male,Commercial associate,145300.0,9.3,Secondary,12800.0,1,1,1,Approved
+Male,Commercial associate,43700.0,12.4,Incomplete higher,18600.0,1,0,0,Rejected
+Other,Working,88300.0,8.2,Higher education,5000.0,1,1,2,Rejected
+Female,Working,48200.0,8.6,Higher education,2600.0,2,2,0,Rejected
+Female,Working,61400.0,0.0,Lower secondary,1800.0,5,1,0,Rejected
+Female,Working,103400.0,4.8,Incomplete higher,23000.0,1,1,0,Approved
+Female,Commercial associate,51200.0,5.3,Incomplete higher,3800.0,0,1,1,Rejected
+Female,Working,43900.0,12.9,Secondary,12700.0,0,0,0,Rejected
+Male,State servant,113300.0,3.9,Secondary,7400.0,1,1,1,Approved
+Male,Working,61100.0,7.9,Higher education,7700.0,1,0,default,Approved
+Male,Working,97800.0,7.7,Higher education,10100.0,3,1,0,Approved
+Male,State servant,44000.0,12.5,Higher education,7900.0,1,0,0,Approved
+Female,Working,112800.0,5.8,Higher education,2600.0,1,1,0,Approved
+Male,Working,67700.0,10.8,Secondary,10100.0,2,0,0,Rejected
+Male,Student,72800.0,0.0,Secondary,6200.0,1,1,0,Rejected
+Male,State servant,63500.0,0.0,Higher education,6000.0,0,0,0,Approved
+Male,Pensioner,47700.0,0.0,Secondary,34900.0,0,0,0,Rejected
+Female,Working,59800.0,10.6,Higher education,3300.0,2,0,0,Rejected
+Female,Commercial associate,49100.0,10.0,Higher education,9800.0,0,0,0,Rejected
+Female,Student,92200.0,11.2,Higher education,13500.0,3,0,0,Rejected
+Female,State servant,54600.0,3.0,Higher education,34900.0,1,1,0,Approved
+Male,Working,30500.0,3.6,Higher education,4500.0,3,0,1,Rejected
+Female,Working,28100.0,5.9,Higher education,27200.0,3,1,0,Rejected
+Male,Working,27500.0,14.0,Secondary,10100.0,1,2,0,Rejected
+Male,Working,79100.0,15.3,Higher education,10400.0,3,0,0,Approved
+Female,Commercial associate,35700.0,10.6,Higher education,17900.0,1,0,0,Approved
+Female,Working,68500.0,8.2,Secondary,30000.0,1,0,1,Rejected
+Male,Working,63700.0,13.4,Higher education,7900.0,0,0,0,Rejected
+Male,Working,58200.0,5.2,Incomplete higher,14300.0,1,0,0,Rejected
+Female,Commercial associate,72900.0,4.5,Secondary,12900.0,1,0,1,Approved
+Female,Working,64300.0,5.8,Higher education,12500.0,0,1,2,Rejected
+Male,Working,17700.0,1.4,Lower secondary,20000.0,5,0,0,Rejected
+Female,Working,51800.0,5.6,Incomplete higher,6600.0,2,0,0,Rejected
+Male,Student,72500.0,0.7,Secondary,8800.0,1,0,0,Rejected
+Female,Working,125300.0,11.8,Higher education,2700.0,2,1,0,Rejected
+Female,Commercial associate,127900.0,9.3,Academic degree,16900.0,2,0,2,Approved
+Male,Working,32400.0,13.9,Higher education,12100.0,0,0,0,Approved
+Male,Working,51200.0,0.0,Secondary,29500.0,3,0,0,Rejected
+Male,Working,29600.0,16.4,Secondary,4400.0,6,1,0,Rejected
+Female,Working,118700.0,0.0,Incomplete higher,37700.0,0,1,2,Rejected
+Other,Working,94400.0,0.3,Secondary,18900.0,0,0,0,Rejected
+Male,Commercial associate,70100.0,3.3,Secondary,18300.0,6,0,2,Rejected
+Female,Commercial associate,64500.0,13.3,Secondary,7300.0,1,0,0,Approved
+Female,Working,111400.0,7.7,Higher education,9400.0,1,0,2,Approved
+Female,Working,103300.0,5.2,Higher education,8300.0,1,0,2,Rejected
+Male,Commercial associate,100800.0,2.4,Incomplete higher,26100.0,1,0,1,Rejected
+Female,Working,73500.0,0.0,Higher education,2300.0,3,1,3,Rejected
+Male,Working,51200.0,12.4,Academic degree,10500.0,5,1,late,Rejected
+Female,Working,84600.0,10.7,Incomplete higher,11200.0,2,0,3,Rejected
+Other,Working,86400.0,13.5,Secondary,8000.0,0,0,0,Approved
+Female,Working,55000.0,8.6,Higher education,5400.0,1,1,0,Approved
+Male,Student,51100.0,0.0,Secondary,1200.0,2,1,0,Rejected
+Female,Student,99700.0,0.0,Academic degree,10600.0,2,0,0,Approved
+Female,Student,126600.0,8.9,Secondary,16900.0,2,2,0,Rejected
+Male,Working,42700.0,4.6,Higher education,12100.0,1,1,0,Approved
+Male,Working,53200.0,3.6,Incomplete higher,5400.0,0,0,3,Rejected
+Male,Working,70100.0,0.8,Secondary,11300.0,2,0,0,Rejected
+Female,Working,74500.0,11.4,Incomplete higher,29700.0,0,0,0,Approved
+Male,Working,47300.0,8.9,Secondary,6800.0,7,0,0,Rejected
+Male,Working,139700.0,9.1,Secondary,13400.0,2,2,0,Approved
+Male,Working,72400.0,3.2,Higher education,14700.0,3,0,0,Rejected
+Female,Working,76000.0,7.4,Secondary,3500.0,1,0,0,Approved
+Male,Working,132100.0,0.0,Higher education,9100.0,6,0,0,Approved
+Male,Pensioner,48900.0,5.8,Lower secondary,9200.0,2,1,1,Rejected
+Male,Working,57500.0,0.0,Secondary,11700.0,2,0,0,Rejected
+Female,State servant,34100.0,0.0,Higher education,25500.0,1,1,0,Rejected
+Female,Working,55400.0,4.8,Incomplete higher,4300.0,1,0,0,Approved
+Male,Commercial associate,30600.0,18.9,Higher education,26600.0,1,1,0,Rejected
+Male,Working,83800.0,0.0,Secondary,17800.0,3,0,0,Approved
+Male,Commercial associate,72300.0,0.0,Lower secondary,38400.0,3,0,2,Rejected
+Female,Working,52900.0,7.6,Secondary,1600.0,4,0,0,Approved
+Female,Working,57200.0,15.7,Higher education,800.0,3,1,0,Rejected
+Male,Commercial associate,84300.0,7.6,Higher education,52000.0,2,0,0,Rejected
+Female,Working,35900.0,10.2,Incomplete higher,3400.0,3,0,0,Rejected
+Female,Working,65600.0,4.7,Secondary,5800.0,0,0,0,Rejected
+Male,State servant,82000.0,3.8,Secondary,5800.0,2,2,0,Rejected
+Male,Working,26800.0,6.9,Higher education,17200.0,0,0,1,Rejected
+Male,Commercial associate,81500.0,3.1,Secondary,9700.0,1,2,0,Rejected
+Female,Commercial associate,28200.0,10.3,Higher education,6600.0,2,0,0,Rejected
+Female,Working,56800.0,0.0,Higher education,34000.0,3,0,0,Rejected
+Male,Working,35500.0,11.1,Higher education,1300.0,1,0,0,Rejected
+Female,Working,114000.0,6.7,Secondary,22400.0,2,0,0,Approved
+Female,Pensioner,35600.0,5.4,Secondary,11000.0,2,0,0,Rejected
+Female,Working,28500.0,0.0,Lower secondary,6500.0,3,1,2,Rejected
+Male,Working,63600.0,1.4,Secondary,7100.0,1,0,1,Rejected
+Male,Working,49700.0,12.7,Secondary,9000.0,1,0,0,Rejected
+Male,State servant,30400.0,5.4,Secondary,5900.0,2,0,0,Rejected
+Male,Pensioner,75900.0,7.9,Secondary,20100.0,3,0,0,Rejected
+Female,State servant,24400.0,1.9,Academic degree,8400.0,4,1,2,Rejected
+Female,Commercial associate,37600.0,6.3,Secondary,18200.0,3,2,0,Rejected
+Female,Commercial associate,46200.0,0.0,Secondary,7200.0,3,0,1,Rejected
+Female,Commercial associate,85900.0,7.0,Higher education,13200.0,1,0,0,Approved
+Female,State servant,107300.0,8.4,Secondary,13200.0,0,1,0,Approved
+Female,Commercial associate,98300.0,8.2,Secondary,11600.0,2,1,0,Rejected
+Female,Working,55900.0,1.8,Academic degree,27100.0,6,0,0,Rejected
+Male,Commercial associate,20100.0,4.7,Higher education,28900.0,4,0,0,Rejected
+Male,Commercial associate,71400.0,9.3,Secondary,19400.0,1,0,0,Rejected
+Female,Working,116000.0,5.4,Secondary,23600.0,0,0,0,Rejected
+Male,Working,104300.0,5.0,Secondary,18600.0,0,2,late,Rejected
+Male,Working,73700.0,16.4,Secondary,7900.0,1,0,0,Approved
+Male,Pensioner,35100.0,1.6,Higher education,10300.0,4,0,1,Rejected
+Male,Working,47300.0,12.1,Higher education,1700.0,2,0,3,Rejected
+Female,Pensioner,142900.0,0.5,Higher education,5100.0,2,2,0,Rejected
+Male,Working,31600.0,9.9,Incomplete higher,3400.0,0,1,0,Rejected
+Female,Pensioner,35700.0,10.2,Secondary,6400.0,1,2,0,Rejected
+Female,Working,91500.0,3.8,Lower secondary,13900.0,1,1,1,Rejected
+Female,State servant,49300.0,0.2,Higher education,7700.0,1,1,3,Rejected
+Female,Commercial associate,35200.0,0.0,Secondary,20700.0,5,0,default,Rejected
+Female,Working,119100.0,3.3,Incomplete higher,5300.0,2,0,0,Rejected
+Female,Working,73700.0,9.2,Secondary,17600.0,0,0,3,Rejected
+Male,Working,50400.0,0.9,Higher education,4900.0,1,0,0,Rejected
+Female,Working,35800.0,7.0,Higher education,25900.0,1,1,0,Rejected
+Female,Pensioner,150400.0,0.0,Secondary,5300.0,1,0,0,Approved
+Female,State servant,59200.0,5.3,Incomplete higher,15800.0,3,0,0,Rejected
+Female,Commercial associate,112300.0,0.5,Secondary,6600.0,3,0,0,Rejected
+Female,Commercial associate,89500.0,6.1,Incomplete higher,31800.0,2,1,0,Rejected
+Female,Working,47400.0,3.9,Secondary,30900.0,0,0,late,Rejected
+Female,Pensioner,47500.0,0.3,Secondary,15500.0,4,0,0,Rejected
+Male,Pensioner,114800.0,3.1,Secondary,15300.0,5,0,2,Rejected
+Male,Working,115600.0,1.6,Incomplete higher,19700.0,2,0,0,Approved
+Male,Student,25700.0,0.0,Secondary,17400.0,1,0,0,Rejected
+Male,Working,76700.0,12.1,Incomplete higher,21500.0,3,0,0,Rejected
+Male,Pensioner,56700.0,4.6,Secondary,5200.0,5,1,1,Rejected
+Other,Student,37600.0,0.0,Higher education,11600.0,2,0,1,Rejected
+Male,Pensioner,67400.0,3.3,Secondary,7000.0,2,0,0,Approved
+Male,Working,32600.0,11.3,Secondary,30600.0,1,0,0,Rejected
+Male,Commercial associate,48500.0,2.5,Lower secondary,3900.0,2,1,0,Approved
+Male,Working,41800.0,14.3,Secondary,34100.0,4,0,0,Approved
+Female,Pensioner,47800.0,2.0,Higher education,11800.0,2,0,0,Rejected
+Female,Working,58000.0,9.1,Higher education,21700.0,1,0,1,Rejected
+Female,Commercial associate,37900.0,11.9,Higher education,7700.0,3,0,0,Approved
+Female,State servant,121500.0,8.8,Higher education,3600.0,4,0,0,Approved
+Male,Working,74800.0,0.0,Incomplete higher,29800.0,1,0,0,Rejected
+Female,Working,134300.0,1.6,Higher education,16400.0,2,1,3,Rejected
+Male,Commercial associate,55700.0,12.6,Higher education,4300.0,4,0,0,Approved
+Male,Working,46800.0,2.3,Higher education,10700.0,1,0,0,Rejected
+Male,Working,132100.0,11.6,Higher education,10100.0,3,1,1,Approved
+Female,Working,46200.0,4.3,Secondary,16100.0,4,0,0,Rejected
+Female,Working,55300.0,7.2,Higher education,5200.0,1,0,0,Rejected
+Male,Commercial associate,82800.0,0.0,Secondary,4200.0,1,0,0,Approved
+Male,Commercial associate,34300.0,3.3,Higher education,12800.0,3,1,1,Approved
+Other,Working,82500.0,1.9,Lower secondary,5400.0,1,0,0,Approved
+Male,Working,77800.0,7.7,Lower secondary,30400.0,4,0,0,Approved
+Male,Working,106000.0,7.0,Incomplete higher,20300.0,1,2,0,Approved
+Female,Working,89400.0,8.9,Higher education,19900.0,3,0,0,Approved
+Female,Pensioner,107500.0,3.9,Higher education,1600.0,3,0,0,Rejected
+Female,Working,57000.0,1.7,Secondary,7900.0,1,2,0,Approved
+Male,Commercial associate,40600.0,7.5,Higher education,9200.0,1,0,0,Approved
+Male,State servant,154700.0,1.1,Secondary,4700.0,2,0,0,Rejected
+Female,Commercial associate,30100.0,12.1,Secondary,17400.0,0,0,default,Rejected
+Male,Commercial associate,31500.0,5.9,Lower secondary,15800.0,5,1,0,Rejected
+Female,Working,77200.0,4.8,Incomplete higher,19400.0,2,0,0,Rejected
+Female,Working,124400.0,8.9,Higher education,23300.0,2,2,0,Approved
+Female,Working,65200.0,6.1,Secondary,22500.0,2,0,0,Approved
+Female,Pensioner,93900.0,0.0,Higher education,54800.0,4,1,2,Rejected
+Male,Pensioner,24400.0,1.0,Secondary,11400.0,1,1,default,Rejected
+Female,Working,47800.0,12.0,Incomplete higher,10000.0,2,1,0,Rejected
+Male,Working,25800.0,6.9,Academic degree,17300.0,1,0,0,Rejected
+Male,Working,85100.0,0.0,Secondary,26100.0,1,1,0,Rejected
+Female,Commercial associate,29800.0,8.3,Secondary,2600.0,2,0,1,Approved
+Female,Commercial associate,33700.0,3.6,Secondary,6100.0,1,0,0,Approved
+Male,Commercial associate,75500.0,2.0,Secondary,7300.0,2,0,0,Rejected
+Female,State servant,96600.0,0.5,Secondary,12200.0,1,0,0,Approved
+Male,Working,55700.0,11.7,Secondary,7900.0,2,0,0,Approved
+Female,Commercial associate,77400.0,0.0,Secondary,23600.0,3,0,0,Rejected
+Male,Commercial associate,76300.0,2.1,Secondary,13500.0,4,0,0,Rejected
+Male,Working,54300.0,7.1,Secondary,10600.0,1,0,0,Rejected
+Female,State servant,36600.0,14.7,Higher education,15900.0,3,1,0,Approved
+Female,Working,77200.0,9.4,Secondary,1900.0,2,1,0,Rejected
+Male,Pensioner,78900.0,2.1,Incomplete higher,15400.0,3,0,0,Approved
+Female,Pensioner,89500.0,14.5,Secondary,5600.0,3,0,1,Approved
+Female,State servant,68900.0,0.0,Secondary,20800.0,4,0,0,Rejected
+Female,Commercial associate,35400.0,7.9,Secondary,2300.0,2,0,0,Rejected
+Female,Working,81700.0,9.0,Higher education,16700.0,2,1,0,Approved
+Male,Pensioner,59800.0,1.9,Secondary,5700.0,2,0,2,Rejected
+Male,Pensioner,48200.0,10.1,Higher education,26400.0,3,1,2,Rejected
+Female,Commercial associate,52400.0,3.8,Secondary,2900.0,1,1,0,Approved
+Male,Pensioner,43900.0,10.1,Academic degree,11900.0,3,0,0,Rejected
+Female,Working,89300.0,0.0,Secondary,18800.0,4,0,1,Rejected
+Female,Commercial associate,31600.0,8.2,Secondary,14800.0,3,0,1,Rejected
+Male,State servant,38300.0,4.4,Incomplete higher,14700.0,2,0,0,Rejected
+Other,Working,51600.0,12.5,Secondary,3900.0,1,1,0,Rejected
+Female,Commercial associate,123800.0,6.3,Secondary,3700.0,4,1,0,Approved
+Female,Student,96200.0,13.0,Incomplete higher,14300.0,0,0,1,Approved
+Male,Pensioner,28600.0,9.1,Secondary,12800.0,3,0,0,Rejected
+Male,State servant,110000.0,5.8,Secondary,4900.0,3,1,late,Rejected
+Female,Working,109900.0,10.6,Secondary,4700.0,1,1,0,Rejected
+Female,Student,35300.0,10.6,Secondary,10700.0,2,2,0,Rejected
+Male,Working,19300.0,9.0,Lower secondary,8600.0,1,0,1,Rejected
+Female,Commercial associate,58000.0,0.0,Higher education,37500.0,2,0,2,Rejected
+Female,Working,99200.0,1.4,Higher education,27500.0,3,1,2,Rejected
+Female,Pensioner,122500.0,13.7,Secondary,20300.0,2,0,0,Rejected
+Female,State servant,40500.0,0.0,Higher education,29700.0,3,1,default,Rejected
+Female,Pensioner,131700.0,11.1,Higher education,6900.0,0,0,default,Approved
+Male,Commercial associate,22000.0,10.2,Secondary,7700.0,2,1,late,Rejected
+Male,Working,50700.0,2.7,Incomplete higher,24900.0,5,0,0,Rejected
+Male,Commercial associate,49600.0,0.0,Higher education,11900.0,1,0,1,Approved
+Other,Commercial associate,100600.0,3.5,Incomplete higher,12400.0,3,1,0,Rejected
+Female,Working,107400.0,17.3,Secondary,4400.0,1,1,0,Rejected
+Female,Commercial associate,92000.0,2.0,Secondary,24100.0,3,1,0,Approved
+Male,State servant,32600.0,2.4,Higher education,17200.0,4,0,0,Rejected
+Female,Pensioner,88300.0,1.3,Incomplete higher,9400.0,5,1,late,Rejected
+Male,Pensioner,75300.0,12.8,Secondary,7800.0,0,1,0,Approved
+Male,Working,28200.0,5.2,Secondary,26800.0,1,0,0,Rejected
+Female,Commercial associate,23600.0,3.2,Incomplete higher,7000.0,2,0,1,Rejected
+Female,Working,95500.0,13.9,Secondary,3200.0,1,1,0,Rejected
+Female,Working,55200.0,9.5,Secondary,27700.0,1,1,0,Approved
+Female,Working,33600.0,1.7,Higher education,28100.0,0,0,0,Rejected
+Female,Working,54500.0,0.1,Secondary,6900.0,1,2,0,Approved
+Female,Working,70500.0,12.5,Secondary,42300.0,2,0,0,Rejected
+Male,Commercial associate,57700.0,6.6,Secondary,10900.0,3,0,1,Rejected
+Male,Working,29800.0,0.0,Lower secondary,7000.0,1,0,0,Rejected
+Male,Working,139900.0,0.0,Secondary,16900.0,1,1,0,Approved
+Female,Working,94100.0,0.7,Higher education,3800.0,0,0,0,Approved
+Female,Commercial associate,51500.0,0.1,Academic degree,5400.0,3,1,2,Rejected
+Female,Working,52400.0,0.0,Higher education,14400.0,2,0,0,Approved
+Female,Working,70400.0,0.8,Higher education,12600.0,2,1,2,Rejected
+Male,Commercial associate,36000.0,1.7,Higher education,21700.0,3,0,0,Rejected
+Female,Working,69200.0,4.1,Secondary,4300.0,5,1,0,Rejected
+Female,State servant,32900.0,15.3,Higher education,37700.0,1,1,0,Rejected
+Male,Working,58000.0,5.1,Lower secondary,8500.0,2,1,0,Approved
+Female,Working,35400.0,5.6,Incomplete higher,12300.0,3,0,0,Rejected
+Female,Working,36200.0,9.1,Secondary,8200.0,2,2,0,Rejected
+Female,Commercial associate,125600.0,5.3,Secondary,3800.0,1,0,0,Approved
+Male,Working,61500.0,8.6,Incomplete higher,11300.0,2,0,0,Approved
+Male,State servant,65700.0,8.0,Secondary,18600.0,3,0,0,Rejected
+Female,Working,24200.0,7.1,Incomplete higher,10100.0,1,0,0,Rejected
+Male,Commercial associate,45800.0,20.9,Secondary,5900.0,1,0,0,Approved
+Male,Working,73700.0,11.2,Higher education,22100.0,6,1,2,Rejected
+Male,Working,65300.0,0.9,Incomplete higher,22700.0,3,0,3,Rejected
+Female,Working,22700.0,8.4,Higher education,9700.0,2,2,1,Rejected
+Female,Commercial associate,65700.0,2.4,Secondary,15000.0,1,2,0,Rejected
+Male,Working,70600.0,8.8,Incomplete higher,22000.0,6,2,3,Rejected
+Female,Student,106700.0,0.0,Secondary,18500.0,2,0,1,Approved
+Male,Pensioner,44600.0,0.7,Secondary,14700.0,6,0,0,Rejected
+Male,Student,21800.0,8.3,Higher education,18000.0,2,1,0,Rejected
+Female,Working,38200.0,11.7,Secondary,15700.0,2,0,0,Rejected
+Male,Pensioner,36500.0,9.1,Higher education,11800.0,3,0,1,Rejected
+Male,Commercial associate,83400.0,10.9,Secondary,4300.0,0,1,0,Rejected
+Male,Commercial associate,17600.0,8.4,Secondary,5200.0,1,1,0,Rejected
+Female,Student,48900.0,7.4,Incomplete higher,16200.0,0,1,0,Rejected
+Male,Commercial associate,113700.0,3.9,Secondary,8100.0,3,2,0,Approved
+Male,State servant,60100.0,10.7,Higher education,15800.0,3,0,0,Rejected
+Male,Pensioner,89600.0,11.8,Higher education,4200.0,1,2,0,Approved
+Male,Working,28600.0,6.2,Incomplete higher,6400.0,0,0,0,Rejected
+Male,Commercial associate,29100.0,5.9,Higher education,10100.0,1,2,0,Rejected
+Female,Commercial associate,114300.0,14.8,Incomplete higher,1300.0,1,0,default,Approved
+Female,State servant,62700.0,6.4,Secondary,5700.0,3,0,0,Rejected
+Female,Pensioner,62700.0,6.9,Secondary,7100.0,1,2,0,Approved
+Male,Working,36200.0,9.0,Lower secondary,13300.0,2,0,0,Rejected
+Male,Working,62700.0,6.0,Incomplete higher,9700.0,1,0,0,Rejected
+Male,Working,35800.0,2.2,Higher education,13800.0,1,0,2,Rejected
+Female,Commercial associate,102100.0,8.5,Higher education,12100.0,2,2,late,Rejected
+Male,Working,204300.0,6.3,Higher education,9400.0,2,0,0,Approved
+Male,Pensioner,74400.0,16.1,Secondary,7100.0,3,0,0,Approved
+Female,Commercial associate,45000.0,10.6,Incomplete higher,12400.0,0,1,0,Rejected
+Male,Pensioner,19100.0,3.4,Incomplete higher,26100.0,3,0,0,Approved
+Male,Working,28100.0,10.3,Higher education,7100.0,4,1,0,Rejected
+Male,Commercial associate,120500.0,8.1,Secondary,36700.0,1,1,0,Approved
+Female,Working,37700.0,13.3,Secondary,12600.0,1,0,0,Rejected
+Male,State servant,50700.0,3.8,Secondary,20900.0,0,2,0,Rejected
+Male,Working,80400.0,7.5,Higher education,15100.0,0,0,3,Approved
+Male,Working,116700.0,6.0,Higher education,16700.0,1,0,0,Approved
+Male,Working,54700.0,6.8,Secondary,5700.0,2,0,1,Rejected
+Other,Pensioner,49900.0,1.9,Higher education,8100.0,7,0,1,Rejected
+Female,Working,61800.0,9.5,Academic degree,2600.0,2,0,0,Approved
+Male,Commercial associate,45100.0,8.7,Secondary,9900.0,3,0,3,Rejected
+Female,Pensioner,46200.0,13.2,Higher education,17800.0,1,0,0,Rejected
+Other,Pensioner,72100.0,6.4,Higher education,10000.0,2,0,0,Approved
+Female,Working,65100.0,4.4,Secondary,21700.0,1,0,0,Approved
+Female,Working,156300.0,10.6,Higher education,8700.0,1,0,0,Approved
+Male,Working,72900.0,2.4,Higher education,6700.0,2,2,0,Approved
+Female,Working,100500.0,12.1,Secondary,7800.0,2,0,0,Rejected
+Male,Commercial associate,37000.0,12.1,Secondary,18900.0,1,1,1,Rejected
+Female,Working,75800.0,13.0,Incomplete higher,31700.0,0,1,3,Rejected
+Other,Working,43200.0,8.5,Secondary,39100.0,6,1,0,Rejected
+Male,Working,71500.0,4.0,Higher education,17600.0,1,1,0,Approved
+Female,Commercial associate,81600.0,7.1,Higher education,21000.0,2,0,0,Approved
+Male,Working,61200.0,8.5,Incomplete higher,3200.0,1,0,3,Approved
+Female,Commercial associate,176900.0,3.6,Higher education,4100.0,2,0,0,Approved
+Male,Working,113800.0,13.4,Incomplete higher,5900.0,4,1,3,Approved
+Male,Student,101700.0,9.5,Higher education,27200.0,1,0,0,Approved
+Male,Commercial associate,84500.0,1.9,Secondary,26900.0,0,0,0,Approved
+Female,Working,132400.0,16.3,Secondary,44800.0,5,0,0,Approved
+Female,Working,31400.0,7.0,Secondary,5800.0,0,2,0,Rejected
+Male,Working,110900.0,0.8,Secondary,10800.0,2,0,0,Approved
+Male,Working,38300.0,2.2,Secondary,2600.0,1,1,2,Rejected
+Male,Working,46400.0,14.2,Secondary,3500.0,2,0,0,Approved
+Female,State servant,77100.0,16.0,Secondary,9300.0,4,0,0,Rejected
+Female,Commercial associate,104300.0,11.7,Secondary,6000.0,1,0,0,Approved
+Male,Working,35600.0,13.4,Secondary,6000.0,2,0,0,Approved
+Female,Commercial associate,47500.0,12.8,Higher education,7300.0,2,0,0,Approved
+Female,Working,62600.0,9.4,Higher education,29200.0,1,1,1,Rejected
+Male,Student,55100.0,8.2,Incomplete higher,23700.0,0,1,default,Rejected
+Female,Working,87900.0,9.3,Higher education,5100.0,2,1,0,Approved
+Male,Pensioner,281000.0,10.3,Incomplete higher,23300.0,1,0,0,Approved
+Female,Pensioner,72300.0,2.6,Incomplete higher,6400.0,1,0,0,Rejected
+Male,Working,43000.0,10.3,Secondary,3200.0,3,0,0,Approved
+Male,Working,33400.0,14.1,Academic degree,7100.0,2,0,0,Approved
+Male,Working,51700.0,5.4,Secondary,14200.0,4,0,0,Rejected
+Female,State servant,39200.0,4.9,Higher education,5600.0,2,0,0,Rejected
+Male,Commercial associate,73900.0,9.0,Incomplete higher,17400.0,0,0,default,Rejected
+Male,Commercial associate,73400.0,3.1,Secondary,7500.0,4,0,3,Rejected
+Female,Pensioner,48600.0,0.0,Higher education,14900.0,1,0,0,Rejected
+Female,Pensioner,146300.0,12.5,Secondary,5100.0,1,4,late,Rejected
+Female,Working,43000.0,4.2,Secondary,11600.0,0,0,1,Rejected
+Male,Commercial associate,56700.0,6.6,Secondary,5800.0,4,0,0,Rejected
+Male,Pensioner,79800.0,3.3,Secondary,9500.0,3,0,3,Rejected
+Male,Working,89400.0,13.1,Secondary,37100.0,1,2,late,Rejected
+Male,State servant,106400.0,10.9,Higher education,8300.0,2,1,0,Approved
+Male,Working,72600.0,5.2,Higher education,4000.0,0,0,1,Approved
+Female,Working,96100.0,0.4,Higher education,12100.0,0,0,0,Approved
+Female,Pensioner,44400.0,4.7,Higher education,12300.0,4,2,0,Rejected
+Male,Working,90500.0,9.5,Secondary,12200.0,2,0,1,Rejected
+Female,Working,90000.0,7.5,Secondary,16700.0,1,2,0,Approved
+Male,Working,118300.0,7.1,Higher education,8000.0,3,1,0,Approved
+Male,Commercial associate,28300.0,7.6,Lower secondary,17900.0,1,1,0,Approved
+Female,Pensioner,39800.0,10.4,Secondary,11300.0,3,2,1,Rejected
+Male,Working,86700.0,6.3,Secondary,3800.0,1,0,1,Approved
+Female,Working,18200.0,8.8,Incomplete higher,19600.0,0,1,0,Rejected
+Other,Working,74700.0,1.4,Incomplete higher,13000.0,0,0,0,Approved
+Male,Student,96500.0,19.8,Secondary,17200.0,0,1,0,Approved
+Male,Working,46200.0,5.0,Secondary,4200.0,1,0,0,Rejected
+Female,Student,49300.0,7.6,Secondary,20300.0,2,0,0,Rejected
+Female,State servant,36900.0,9.4,Higher education,43300.0,2,0,3,Rejected
+Female,Working,47300.0,4.4,Lower secondary,3900.0,1,0,0,Approved
+Female,Pensioner,48000.0,6.5,Higher education,22300.0,2,1,0,Rejected
+Female,Commercial associate,44000.0,6.5,Secondary,13000.0,2,0,1,Rejected
+Female,Commercial associate,43000.0,1.7,Higher education,11400.0,1,0,0,Approved
+Other,Working,53000.0,8.8,Incomplete higher,20500.0,1,0,0,Rejected
+Female,Pensioner,52700.0,0.0,Higher education,19000.0,5,0,0,Rejected
+Female,Pensioner,139200.0,15.6,Incomplete higher,25900.0,1,0,0,Approved
+Male,Pensioner,50100.0,10.6,Secondary,4400.0,1,2,2,Rejected
+Male,Student,69900.0,9.8,Secondary,26600.0,3,0,0,Approved
+Male,Working,46200.0,0.0,Higher education,14800.0,1,0,1,Rejected
+Male,Pensioner,45900.0,2.4,Higher education,2600.0,3,0,0,Rejected
+Male,State servant,27800.0,13.7,Academic degree,8400.0,2,0,0,Approved
+Male,Working,29500.0,28.1,Higher education,13200.0,3,0,0,Approved
+Male,Working,34800.0,12.7,Secondary,8200.0,1,1,1,Rejected
+Male,Working,65000.0,11.9,Secondary,10400.0,1,1,3,Rejected
+Female,State servant,97200.0,9.2,Higher education,7400.0,2,0,0,Approved
+Female,Working,26800.0,2.1,Secondary,57900.0,1,1,0,Rejected
+Female,Pensioner,46800.0,11.7,Higher education,18000.0,2,0,0,Approved
+Female,Working,32400.0,0.8,Secondary,12100.0,3,0,0,Rejected
+Male,Working,53200.0,0.2,Secondary,5000.0,3,1,3,Rejected
+Female,Commercial associate,97200.0,0.0,Higher education,26000.0,4,0,0,Rejected
+Female,Working,49000.0,11.6,Secondary,16500.0,3,0,0,Rejected
+Female,State servant,58600.0,6.2,Higher education,5400.0,0,0,0,Approved
+Male,Working,115200.0,7.0,Higher education,5500.0,4,0,0,Approved
+Female,State servant,73600.0,6.4,Higher education,10500.0,2,0,1,Rejected
+Male,Working,42500.0,0.6,Higher education,12200.0,0,0,0,Approved
+Male,Student,64300.0,3.0,Higher education,17800.0,1,0,3,Rejected
+Female,Commercial associate,41300.0,3.3,Incomplete higher,11100.0,2,1,0,Rejected
+Male,Working,72300.0,0.0,Secondary,18800.0,1,0,1,Rejected
+Female,Working,75500.0,3.9,Secondary,8200.0,3,0,0,Approved
+Female,Working,32400.0,0.9,Higher education,11100.0,5,0,0,Approved
+Male,Commercial associate,64800.0,9.5,Higher education,26600.0,1,0,0,Rejected
+Male,Pensioner,56800.0,9.9,Higher education,19400.0,4,0,0,Rejected
+Female,Working,76500.0,0.0,Higher education,11600.0,0,1,late,Rejected
+Male,Working,87000.0,5.0,Higher education,14400.0,2,0,1,Rejected
+Female,Commercial associate,74200.0,16.2,Secondary,11100.0,0,1,0,Approved
+Male,Commercial associate,52200.0,1.4,Higher education,3600.0,1,0,0,Approved
+Male,Commercial associate,91100.0,8.7,Secondary,32600.0,2,1,0,Rejected
+Male,Working,40400.0,7.0,Secondary,5700.0,1,0,0,Rejected
+Male,Pensioner,33000.0,12.2,Higher education,8700.0,3,0,0,Rejected
+Female,Student,14200.0,8.0,Higher education,51700.0,5,0,0,Rejected
+Male,Working,58000.0,4.3,Secondary,4800.0,3,0,0,Approved
+Male,Working,41400.0,6.8,Incomplete higher,10700.0,4,1,3,Rejected
+Male,Working,71600.0,6.9,Higher education,27800.0,1,0,0,Approved
+Female,Commercial associate,24700.0,6.0,Higher education,37200.0,1,2,1,Rejected
+Female,Working,44700.0,0.0,Lower secondary,16300.0,4,0,3,Rejected
+Female,State servant,74000.0,13.0,Secondary,26100.0,3,0,0,Approved
+Female,Commercial associate,37700.0,12.0,Incomplete higher,9900.0,1,0,0,Approved
+Female,Commercial associate,72000.0,1.1,Secondary,700.0,2,1,0,Rejected
+Female,Pensioner,46600.0,4.9,Secondary,24600.0,1,1,0,Rejected
+Male,Working,59000.0,5.3,Secondary,11400.0,4,0,0,Rejected
+Female,Pensioner,78300.0,0.5,Secondary,9000.0,3,0,0,Rejected
+Male,Working,91900.0,0.0,Higher education,8400.0,3,0,0,Rejected
+Male,Commercial associate,62400.0,3.0,Secondary,18500.0,1,0,0,Approved
+Male,State servant,41500.0,4.6,Higher education,18400.0,0,0,1,Rejected
+Female,Pensioner,48700.0,0.0,Secondary,11600.0,1,1,0,Rejected
+Male,State servant,79700.0,7.4,Secondary,15800.0,0,0,1,Rejected
+Male,Working,37800.0,12.5,Lower secondary,4700.0,3,0,0,Rejected
+Male,Pensioner,55300.0,10.9,Higher education,10000.0,0,1,0,Rejected
+Male,Commercial associate,50300.0,5.8,Lower secondary,4900.0,2,0,0,Approved
+Male,Commercial associate,57200.0,0.0,Higher education,4800.0,4,0,1,Rejected
+Male,Working,38000.0,10.2,Secondary,14800.0,0,0,0,Rejected
+Male,Working,26000.0,7.3,Higher education,12100.0,1,0,0,Rejected
+Female,Commercial associate,75700.0,8.7,Higher education,8300.0,4,1,0,Rejected
+Male,Working,92400.0,16.6,Secondary,9600.0,2,0,0,Rejected
+Male,Pensioner,26700.0,2.2,Incomplete higher,15600.0,2,0,0,Rejected
+Male,Pensioner,70700.0,0.0,Higher education,18800.0,1,0,0,Approved
+Male,State servant,97500.0,1.0,Higher education,16800.0,2,1,0,Approved
+Female,Working,78300.0,9.0,Higher education,2500.0,0,0,0,Rejected
+Male,State servant,49600.0,6.6,Higher education,1200.0,2,0,0,Rejected
+Female,Working,39200.0,0.2,Secondary,6200.0,1,0,0,Rejected
+Female,Working,62100.0,0.0,Academic degree,1200.0,1,0,0,Approved
+Female,Pensioner,66900.0,4.7,Secondary,30200.0,0,0,0,Rejected
+Female,Working,62500.0,0.0,Secondary,9400.0,3,1,0,Approved
+Female,Working,55200.0,9.2,Secondary,3800.0,2,0,0,Rejected
+Female,Working,36800.0,4.4,Higher education,9300.0,3,1,0,Rejected
+Male,Commercial associate,72400.0,3.2,Academic degree,2000.0,2,0,0,Approved
+Male,Pensioner,74000.0,2.6,Incomplete higher,3900.0,1,0,0,Rejected
+Female,Working,65500.0,7.9,Higher education,8800.0,1,0,0,Approved
+Male,Working,62900.0,6.7,Academic degree,7700.0,2,0,1,Rejected
+Female,Commercial associate,127500.0,7.6,Higher education,8700.0,1,1,0,Approved
+Male,Working,45200.0,7.4,Secondary,16000.0,1,0,0,Rejected
+Female,Pensioner,106600.0,6.1,Higher education,22000.0,3,0,0,Rejected
+Male,State servant,43000.0,1.1,Secondary,12600.0,5,0,0,Rejected
+Female,Pensioner,98600.0,2.7,Secondary,22800.0,3,0,3,Rejected
+Male,State servant,104300.0,4.4,Secondary,7800.0,0,0,default,Approved
+Female,Commercial associate,52500.0,17.2,Secondary,24800.0,2,0,0,Rejected
+Male,Pensioner,126400.0,0.0,Lower secondary,12800.0,3,0,0,Approved
+Female,Working,73900.0,4.3,Academic degree,20700.0,3,0,0,Approved
+Male,Working,40300.0,7.0,Secondary,8000.0,1,1,0,Approved
+Male,Commercial associate,50600.0,4.9,Higher education,12400.0,1,0,0,Approved
+Male,Working,99700.0,12.1,Secondary,40400.0,2,1,0,Approved
+Male,State servant,90700.0,4.9,Secondary,12300.0,2,0,0,Rejected
+Other,Commercial associate,37200.0,5.3,Secondary,21900.0,1,1,0,Rejected
+Female,Student,56200.0,10.7,Secondary,23700.0,2,1,0,Approved
+Female,Working,65600.0,15.9,Secondary,17700.0,2,0,0,Approved
+Female,Commercial associate,47600.0,13.8,Secondary,19800.0,2,1,2,Rejected
+Female,Pensioner,173000.0,5.8,Secondary,8000.0,2,0,0,Approved
+Male,Working,66500.0,6.2,Secondary,6000.0,4,2,1,Rejected
+Other,Commercial associate,58200.0,6.7,Lower secondary,5000.0,3,1,0,Approved
+Other,Commercial associate,102300.0,7.3,Secondary,15500.0,1,0,0,Approved
+Male,Student,50800.0,2.1,Secondary,12100.0,1,1,0,Approved
+Male,Pensioner,94200.0,11.4,Higher education,14700.0,1,2,0,Approved
+Male,Working,28300.0,7.6,Secondary,4300.0,0,0,3,Approved
+Male,Working,48800.0,6.3,Higher education,6800.0,3,0,3,Rejected
+Female,Commercial associate,96000.0,0.0,Secondary,21500.0,0,0,0,Rejected
+Male,Working,121400.0,6.8,Higher education,13400.0,0,0,0,Approved
+Male,Working,42300.0,0.0,Higher education,12900.0,1,1,0,Rejected
+Female,Working,40100.0,3.5,Higher education,9900.0,1,1,3,Rejected
+Female,Working,77300.0,3.6,Higher education,6300.0,3,2,0,Rejected
+Other,Commercial associate,45200.0,8.0,Secondary,25400.0,0,0,1,Approved
+Other,Working,53100.0,16.3,Secondary,28200.0,2,1,0,Rejected
+Male,Commercial associate,88800.0,9.5,Secondary,12400.0,1,0,0,Approved
+Male,Working,46900.0,14.0,Higher education,10700.0,2,0,0,Approved
+Female,Pensioner,24700.0,9.9,Secondary,29500.0,1,1,1,Rejected
+Female,Working,33300.0,12.4,Secondary,7000.0,3,2,0,Rejected
+Male,State servant,60100.0,16.2,Higher education,8400.0,1,0,0,Approved
+Male,Working,25900.0,2.7,Secondary,20800.0,2,0,0,Approved
+Male,Commercial associate,52400.0,2.4,Secondary,8300.0,2,1,0,Rejected
+Male,Working,32000.0,10.0,Higher education,11900.0,3,0,0,Rejected
+Female,Working,125200.0,6.5,Secondary,1500.0,3,0,1,Approved
+Male,Working,158600.0,7.6,Incomplete higher,28600.0,3,0,0,Approved
+Female,Pensioner,37200.0,5.2,Lower secondary,19600.0,3,0,3,Rejected
+Female,State servant,67200.0,3.4,Lower secondary,24200.0,1,0,0,Approved
+Female,Working,38900.0,14.9,Secondary,5600.0,1,0,2,Rejected
+Female,Working,52100.0,0.8,Secondary,32600.0,1,0,2,Rejected
+Male,Pensioner,134800.0,10.1,Higher education,11100.0,3,0,0,Approved
+Female,Commercial associate,48500.0,9.2,Higher education,25600.0,1,1,late,Rejected
+Female,Working,52600.0,0.0,Higher education,15200.0,2,0,0,Rejected
+Male,Pensioner,39200.0,2.2,Secondary,20200.0,2,0,0,Rejected
+Male,Commercial associate,100300.0,3.1,Secondary,16000.0,1,1,0,Approved
+Female,Commercial associate,13800.0,9.4,Secondary,8200.0,0,0,0,Rejected
+Female,Working,49100.0,4.6,Secondary,2900.0,1,0,0,Rejected
+Female,Working,58700.0,6.1,Secondary,26900.0,2,0,2,Approved
+Male,Working,44500.0,0.0,Lower secondary,800.0,1,2,late,Rejected
+Female,Pensioner,88300.0,18.6,Secondary,21800.0,4,1,0,Rejected
+Female,Working,102800.0,6.9,Higher education,26900.0,4,0,2,Approved
+Female,Pensioner,31700.0,9.1,Lower secondary,3600.0,0,0,1,Rejected
+Male,Pensioner,153600.0,3.7,Secondary,8600.0,0,1,1,Approved
+Female,Pensioner,31600.0,3.1,Higher education,3300.0,0,0,0,Rejected
+Male,Working,106900.0,16.4,Higher education,7300.0,1,0,0,Rejected
+Female,Working,64100.0,0.0,Secondary,24000.0,3,1,0,Rejected
+Male,Working,47700.0,7.9,Higher education,20100.0,1,0,1,Rejected
+Female,Commercial associate,49800.0,0.2,Incomplete higher,18300.0,4,0,0,Approved
+Female,State servant,59000.0,4.4,Higher education,8600.0,3,1,1,Rejected
+Female,Working,65800.0,3.2,Incomplete higher,1000.0,3,0,late,Rejected
+Male,State servant,39600.0,1.4,Academic degree,4100.0,0,0,0,Rejected
+Male,Working,53900.0,6.7,Secondary,9900.0,5,0,1,Rejected
+Female,Working,42300.0,0.0,Higher education,5000.0,2,1,0,Rejected
+Female,Working,34700.0,4.9,Higher education,21900.0,3,0,0,Rejected
+Male,Pensioner,41400.0,6.0,Higher education,33300.0,1,0,0,Rejected
+Male,Working,35700.0,0.0,Higher education,15100.0,4,0,late,Rejected
+Female,Working,49600.0,14.4,Higher education,3600.0,0,0,1,Approved
+Female,Pensioner,72700.0,3.4,Incomplete higher,27600.0,1,2,1,Rejected
+Male,Commercial associate,63200.0,5.3,Secondary,12900.0,2,1,0,Rejected
+Male,Working,145600.0,3.4,Higher education,11600.0,1,2,0,Approved
+Male,Working,22100.0,6.1,Secondary,17300.0,0,0,2,Rejected
+Male,Commercial associate,74000.0,13.3,Higher education,4300.0,1,0,3,Rejected
+Male,Working,60000.0,19.4,Higher education,8700.0,3,0,default,Approved
+Female,Working,86400.0,10.4,Incomplete higher,11100.0,1,0,1,Rejected
+Female,Commercial associate,82700.0,12.2,Secondary,14200.0,2,1,1,Rejected
+Female,Working,55600.0,15.4,Higher education,15200.0,2,2,0,Rejected
+Female,Commercial associate,64700.0,7.8,Secondary,17300.0,1,0,1,Approved
+Female,Working,42800.0,14.7,Secondary,7400.0,1,1,0,Approved
+Female,Working,78900.0,10.6,Secondary,2400.0,1,1,2,Rejected
+Male,Working,25700.0,7.2,Lower secondary,9900.0,2,0,0,Rejected
+Female,Working,84900.0,8.3,Secondary,10800.0,2,0,3,Rejected
+Female,Working,59300.0,0.0,Academic degree,2200.0,2,0,0,Rejected
+Male,Working,48100.0,8.0,Secondary,7100.0,3,0,0,Rejected
+Male,State servant,53900.0,0.0,Higher education,13300.0,3,1,0,Rejected
+Male,Pensioner,55700.0,0.0,Higher education,8000.0,1,0,0,Rejected
+Male,Working,107300.0,7.5,Higher education,12900.0,1,0,1,Rejected
+Male,Commercial associate,256500.0,0.7,Higher education,7800.0,3,0,0,Approved
+Female,Commercial associate,103700.0,6.5,Higher education,18100.0,4,0,0,Rejected
+Female,Pensioner,46400.0,7.2,Lower secondary,5300.0,3,0,0,Rejected
+Male,Working,79500.0,7.5,Higher education,11700.0,1,0,2,Approved
+Female,Working,81100.0,1.8,Secondary,12200.0,3,2,default,Rejected
+Female,Working,39500.0,11.2,Secondary,21300.0,0,2,1,Rejected
+Female,Working,33900.0,6.0,Higher education,9100.0,1,0,0,Approved
+Female,Working,58200.0,8.8,Higher education,33000.0,3,0,1,Approved
+Female,State servant,86100.0,0.3,Higher education,32200.0,2,0,0,Rejected
+Female,State servant,29000.0,5.6,Higher education,5600.0,3,0,late,Rejected
+Male,Working,43300.0,12.2,Secondary,11500.0,2,0,0,Approved
+Male,Working,77500.0,11.5,Higher education,3900.0,2,0,0,Approved
+Female,Working,61000.0,2.4,Higher education,16400.0,2,0,0,Rejected
+Male,Commercial associate,113200.0,3.7,Higher education,7900.0,0,0,1,Approved
+Female,Commercial associate,31700.0,1.4,Higher education,12700.0,4,0,0,Approved
+Male,Working,172600.0,3.1,Incomplete higher,9700.0,3,0,1,Approved
+Male,Pensioner,30000.0,0.0,Higher education,56500.0,4,0,0,Rejected
+Female,Student,24000.0,5.8,Lower secondary,10500.0,4,0,2,Rejected
+Male,Commercial associate,58300.0,9.8,Secondary,9800.0,1,0,0,Rejected
+Other,Commercial associate,35900.0,2.4,Higher education,22300.0,5,1,0,Rejected
+Male,Commercial associate,58800.0,6.0,Higher education,24400.0,1,1,1,Rejected
+Other,Working,57900.0,5.4,Higher education,14100.0,1,0,0,Rejected
+Male,Working,54800.0,12.0,Secondary,24900.0,2,0,0,Rejected
+Female,Commercial associate,41000.0,3.3,Higher education,50600.0,2,0,0,Rejected
+Male,Working,72700.0,3.5,Secondary,9300.0,4,0,0,Approved
+Male,Pensioner,51900.0,2.1,Lower secondary,4400.0,1,1,0,Rejected
+Male,Working,98400.0,0.6,Secondary,15500.0,4,0,0,Rejected
+Female,Working,55200.0,9.3,Secondary,23400.0,1,0,0,Approved
+Male,Working,38800.0,5.8,Higher education,31300.0,2,1,1,Rejected
+Female,Student,28000.0,6.8,Secondary,17500.0,2,0,0,Rejected
+Male,Working,55400.0,13.1,Secondary,12000.0,4,1,0,Rejected
+Female,Working,33800.0,13.4,Higher education,6300.0,2,2,0,Rejected
+Male,Working,32600.0,0.0,Higher education,27000.0,2,0,0,Rejected
+Male,Commercial associate,75900.0,9.9,Secondary,14600.0,3,0,0,Approved
+Female,Student,26900.0,7.7,Higher education,2400.0,2,1,0,Approved
+Male,Working,113000.0,4.1,Higher education,40300.0,1,0,0,Approved
+Female,State servant,64300.0,8.2,Higher education,4600.0,1,1,0,Approved
+Male,Working,58700.0,0.0,Secondary,23700.0,1,0,0,Rejected
+Male,Commercial associate,37600.0,14.1,Secondary,13800.0,3,1,0,Rejected
+Female,Working,84500.0,9.2,Lower secondary,2600.0,2,0,0,Approved
+Female,Commercial associate,59800.0,2.0,Higher education,11000.0,0,0,0,Rejected
+Female,Commercial associate,44000.0,3.5,Secondary,9300.0,3,0,1,Rejected
+Female,Commercial associate,65500.0,0.0,Incomplete higher,3300.0,2,0,0,Rejected
+Male,Working,28100.0,4.9,Secondary,16300.0,0,0,0,Approved
+Male,Pensioner,28700.0,4.0,Incomplete higher,21500.0,3,1,0,Rejected
+Female,Student,36200.0,0.0,Higher education,11500.0,4,0,0,Approved
+Male,Working,70100.0,10.5,Lower secondary,9100.0,0,1,2,Rejected
+Female,Commercial associate,59800.0,13.1,Lower secondary,17200.0,2,1,0,Approved
+Male,Pensioner,96000.0,6.4,Secondary,600.0,2,0,0,Approved
+Female,Working,39600.0,4.9,Higher education,8300.0,2,0,0,Rejected
+Male,State servant,77500.0,8.8,Secondary,8800.0,1,0,0,Approved
+Male,Working,56900.0,6.4,Higher education,11800.0,2,2,3,Rejected
+Female,Pensioner,39200.0,0.9,Higher education,3100.0,1,0,0,Rejected
+Male,Working,71200.0,3.1,Secondary,1800.0,0,0,2,Rejected
+Other,Working,58100.0,5.0,Secondary,5000.0,0,0,1,Rejected
+Female,Commercial associate,45100.0,7.8,Secondary,16100.0,1,0,1,Rejected
+Female,Commercial associate,61000.0,6.5,Secondary,8700.0,1,0,0,Rejected
+Male,State servant,56500.0,7.6,Secondary,5000.0,1,0,0,Approved
+Female,Student,55900.0,0.0,Lower secondary,36400.0,2,0,0,Rejected
+Female,Working,49700.0,10.0,Higher education,9100.0,3,1,1,Approved
+Female,Working,33300.0,6.5,Incomplete higher,11900.0,0,0,0,Approved
+Male,Working,61900.0,19.8,Incomplete higher,26700.0,1,0,0,Rejected
+Female,Working,41700.0,4.5,Higher education,13100.0,1,1,0,Rejected
+Female,Commercial associate,37800.0,8.2,Secondary,17100.0,2,0,2,Rejected
+Male,State servant,53700.0,21.2,Incomplete higher,6100.0,1,1,0,Approved
+Male,Pensioner,83300.0,7.5,Higher education,12300.0,2,0,0,Approved
+Male,Working,65100.0,6.1,Higher education,33400.0,2,0,1,Rejected
+Female,Working,47100.0,1.4,Lower secondary,15600.0,2,1,2,Rejected
+Male,Commercial associate,46300.0,14.4,Higher education,14100.0,0,0,1,Rejected
+Male,Working,79700.0,0.5,Higher education,9800.0,1,0,0,Approved
+Female,Working,20400.0,8.7,Incomplete higher,3900.0,1,0,0,Rejected
+Male,Working,85700.0,4.0,Higher education,24900.0,2,1,0,Rejected
+Male,Working,25800.0,5.5,Incomplete higher,11200.0,2,1,0,Approved
+Female,Working,31700.0,0.0,Secondary,6800.0,3,1,0,Rejected
+Female,Pensioner,47500.0,13.5,Secondary,3500.0,0,1,0,Rejected
+Male,Working,159000.0,5.1,Higher education,14600.0,4,0,0,Approved
+Female,Commercial associate,127400.0,0.2,Secondary,4500.0,0,2,0,Approved
+Female,Commercial associate,82300.0,13.0,Academic degree,25000.0,1,0,1,Rejected
+Female,State servant,70300.0,3.9,Secondary,7100.0,1,0,0,Approved
+Female,Working,25900.0,8.2,Higher education,12500.0,2,1,default,Rejected
+Female,Working,64300.0,10.9,Secondary,15400.0,2,0,2,Rejected
+Male,Working,46800.0,9.0,Lower secondary,14200.0,4,0,0,Rejected
+Female,Working,41500.0,0.0,Secondary,21500.0,2,4,0,Rejected
+Female,Working,64200.0,10.1,Secondary,7700.0,1,0,late,Approved
+Male,Pensioner,48400.0,6.0,Secondary,11900.0,0,0,3,Rejected
+Female,Working,88500.0,4.8,Higher education,17700.0,2,0,0,Rejected
+Male,Working,25100.0,5.9,Academic degree,31300.0,0,1,0,Rejected
+Female,Working,61900.0,0.0,Academic degree,20500.0,2,1,default,Rejected
+Female,Pensioner,40300.0,7.5,Secondary,23100.0,2,0,0,Rejected
+Female,State servant,49800.0,0.0,Higher education,9300.0,5,1,0,Rejected
+Female,Pensioner,68700.0,5.0,Secondary,15600.0,0,0,0,Rejected
+Female,Commercial associate,36200.0,7.3,Higher education,28400.0,2,1,1,Rejected
+Male,Pensioner,64500.0,12.1,Higher education,11500.0,3,0,0,Rejected
+Female,Commercial associate,54400.0,2.2,Secondary,15700.0,5,0,0,Rejected
+Male,Working,44500.0,14.0,Higher education,2800.0,0,1,1,Approved
+Male,Commercial associate,48400.0,11.4,Incomplete higher,18900.0,0,0,0,Approved
+Female,Pensioner,55900.0,4.3,Secondary,14000.0,3,0,0,Rejected
+Male,Working,42400.0,0.7,Secondary,18100.0,2,0,0,Rejected
+Female,Commercial associate,60100.0,0.0,Secondary,9500.0,1,1,0,Rejected
+Female,Commercial associate,52800.0,7.9,Secondary,2100.0,2,2,late,Rejected
+Female,Commercial associate,45500.0,2.7,Secondary,19500.0,3,3,0,Rejected
+Male,Working,122400.0,12.7,Higher education,6800.0,0,0,0,Approved
+Male,Commercial associate,72200.0,3.0,Secondary,3100.0,0,0,0,Approved
+Female,State servant,50400.0,1.8,Higher education,13300.0,1,0,0,Rejected
+Male,Working,63900.0,7.7,Incomplete higher,34000.0,4,0,0,Rejected
+Male,Working,37700.0,2.9,Lower secondary,6000.0,5,0,0,Rejected
+Female,Working,49200.0,6.5,Higher education,7000.0,2,1,0,Rejected
+Male,Working,51800.0,11.6,Secondary,20200.0,1,0,0,Rejected
+Male,Student,34200.0,7.1,Secondary,10100.0,1,1,0,Rejected
+Male,Commercial associate,71300.0,7.1,Secondary,19500.0,3,0,0,Rejected
+Other,Working,47700.0,7.6,Lower secondary,9700.0,5,1,0,Rejected
+Female,Working,51000.0,0.0,Lower secondary,8600.0,3,0,0,Rejected
+Female,Student,46400.0,8.5,Secondary,6200.0,2,3,0,Rejected
+Male,Working,226700.0,7.3,Secondary,14800.0,3,0,2,Approved
+Female,Pensioner,44400.0,11.1,Higher education,6200.0,0,0,0,Approved
+Female,Working,23600.0,9.7,Secondary,8200.0,1,0,1,Rejected
+Other,Working,29100.0,5.4,Academic degree,24700.0,0,1,2,Rejected
+Female,Commercial associate,84300.0,11.9,Secondary,43500.0,2,1,2,Rejected
+Female,Working,109300.0,5.0,Secondary,16200.0,1,0,2,Approved
+Male,Commercial associate,44100.0,7.8,Secondary,25400.0,0,0,0,Approved
+Female,Working,106500.0,4.9,Secondary,9000.0,3,0,0,Approved
+Female,Pensioner,83600.0,8.9,Secondary,9900.0,3,0,0,Approved
+Other,Pensioner,55000.0,4.5,Incomplete higher,13700.0,1,1,0,Rejected
+Female,Pensioner,53300.0,15.1,Secondary,6800.0,4,1,0,Approved
+Female,Working,65000.0,17.0,Higher education,8500.0,2,1,0,Rejected
+Female,Pensioner,88900.0,11.0,Secondary,19000.0,3,0,0,Rejected
+Male,Student,71600.0,14.5,Secondary,12100.0,1,1,0,Approved
+Female,Working,44200.0,0.0,Secondary,10700.0,1,2,0,Approved
+Male,Working,55400.0,0.0,Secondary,10300.0,1,0,0,Approved
+Female,Pensioner,146000.0,4.8,Secondary,5000.0,2,0,1,Approved
+Female,Working,67000.0,6.7,Secondary,13400.0,4,0,0,Rejected
+Male,Commercial associate,88500.0,5.5,Incomplete higher,6900.0,5,0,0,Rejected
+Male,Pensioner,76300.0,0.0,Higher education,2700.0,1,0,0,Approved
+Other,Working,67700.0,12.5,Lower secondary,4400.0,2,1,0,Rejected
+Female,Commercial associate,62900.0,17.7,Secondary,10500.0,3,1,0,Rejected
+Male,Commercial associate,89700.0,13.2,Higher education,18000.0,1,0,1,Approved
+Male,Working,82700.0,12.1,Higher education,21200.0,1,0,0,Approved
+Female,State servant,67400.0,7.7,Secondary,3500.0,4,1,2,Rejected
+Female,Working,43800.0,2.1,Secondary,16800.0,2,0,0,Rejected
+Male,Working,71200.0,6.9,Higher education,35300.0,3,1,0,Approved
+Female,Pensioner,58100.0,17.4,Incomplete higher,22000.0,2,0,0,Approved
+Male,Working,52100.0,4.7,Higher education,13000.0,2,1,0,Rejected
+Other,Pensioner,199900.0,4.1,Secondary,13800.0,2,0,0,Approved
+Female,Working,30000.0,12.3,Academic degree,12700.0,2,0,0,Rejected
+Female,Commercial associate,92200.0,12.6,Secondary,8000.0,2,0,0,Approved
+Female,Working,40600.0,2.1,Lower secondary,22700.0,1,0,0,Rejected
+Female,Commercial associate,63500.0,5.1,Incomplete higher,5400.0,0,0,1,Rejected
+Female,Pensioner,190200.0,3.9,Incomplete higher,13500.0,3,0,0,Approved
+Male,Pensioner,38800.0,6.9,Incomplete higher,2700.0,2,1,0,Rejected
+Female,Student,43200.0,12.2,Secondary,24000.0,1,0,0,Approved
+Male,Commercial associate,59400.0,2.3,Higher education,13100.0,1,1,0,Rejected
+Female,Pensioner,40900.0,12.2,Higher education,3300.0,1,1,0,Approved
+Female,Commercial associate,89100.0,7.0,Higher education,29400.0,2,2,0,Approved
+Female,State servant,47100.0,18.6,Secondary,11100.0,0,0,0,Approved
+Male,Commercial associate,80400.0,8.2,Secondary,4000.0,2,0,1,Rejected
+Female,State servant,32900.0,6.0,Secondary,37300.0,0,0,0,Rejected
+Female,Working,26600.0,9.5,Higher education,9700.0,2,0,0,Approved
+Male,Commercial associate,54000.0,4.7,Higher education,6300.0,2,1,0,Approved
+Male,Pensioner,29600.0,0.0,Incomplete higher,14000.0,3,0,0,Rejected
+Female,Working,118600.0,5.2,Higher education,4500.0,0,1,0,Approved
+Male,Working,30100.0,5.2,Higher education,8000.0,3,0,0,Approved
+Female,Student,37500.0,0.0,Secondary,27200.0,1,3,0,Rejected
+Female,Working,72100.0,6.1,Higher education,9900.0,2,0,0,Rejected
+Male,Working,46000.0,0.0,Secondary,16100.0,3,0,0,Rejected
+Female,Working,30200.0,4.7,Secondary,28000.0,1,2,1,Rejected
+Female,Working,149900.0,7.8,Secondary,9700.0,2,0,2,Approved
+Male,Commercial associate,38100.0,7.0,Secondary,6100.0,2,0,0,Approved
+Female,State servant,54800.0,4.4,Secondary,18200.0,3,1,2,Rejected
+Male,Student,54500.0,6.1,Higher education,3900.0,3,0,0,Rejected
+Male,Commercial associate,82400.0,2.4,Secondary,5500.0,3,1,0,Rejected
+Male,Commercial associate,73700.0,6.6,Secondary,3200.0,3,0,1,Rejected
+Male,Working,41300.0,6.8,Secondary,26700.0,1,1,1,Rejected
+Male,State servant,51700.0,1.8,Higher education,12400.0,1,0,1,Rejected
+Other,Working,54100.0,7.9,Higher education,18700.0,1,0,2,Rejected
+Female,Working,83900.0,7.9,Secondary,5800.0,1,0,0,Approved
+Female,Student,35400.0,5.6,Secondary,15700.0,0,0,late,Rejected
+Male,State servant,148500.0,19.1,Lower secondary,16000.0,1,0,0,Approved
+Male,Working,42500.0,5.8,Higher education,37200.0,3,0,0,Rejected
+Female,Commercial associate,59600.0,5.0,Higher education,17600.0,0,0,0,Approved
+Male,Working,35500.0,4.3,Higher education,21200.0,3,0,0,Rejected
+Female,Working,33400.0,1.5,Incomplete higher,13100.0,1,1,0,Rejected
+Male,Working,40400.0,10.1,Incomplete higher,700.0,1,0,0,Rejected
+Female,Working,38700.0,2.9,Secondary,14700.0,1,0,0,Rejected
+Female,Commercial associate,49700.0,3.5,Higher education,10400.0,1,0,0,Rejected
+Female,Working,38500.0,3.7,Secondary,10000.0,2,0,0,Rejected
+Female,Commercial associate,81900.0,1.4,Higher education,8300.0,3,1,0,Approved
+Female,Working,42100.0,0.0,Secondary,10000.0,3,0,0,Rejected
+Female,State servant,40000.0,4.1,Secondary,7100.0,2,0,1,Rejected
+Female,Commercial associate,50200.0,11.0,Lower secondary,19900.0,2,0,0,Rejected
+Female,State servant,93600.0,7.5,Incomplete higher,5100.0,0,1,0,Approved
+Female,Working,66000.0,14.6,Secondary,34100.0,3,1,default,Rejected
+Female,Commercial associate,57200.0,10.4,Academic degree,18800.0,2,0,2,Rejected
+Female,Pensioner,31400.0,9.2,Secondary,23500.0,2,0,0,Rejected
+Female,Working,35800.0,16.3,Higher education,5400.0,0,1,0,Rejected
+Female,Working,33700.0,6.0,Incomplete higher,7800.0,2,0,0,Rejected
+Female,Working,107800.0,6.8,Secondary,12800.0,3,0,2,Approved
+Female,Working,76000.0,6.4,Higher education,11900.0,2,0,1,Rejected
+Male,Working,40600.0,14.5,Higher education,18800.0,0,0,2,Approved
+Other,Working,46400.0,6.5,Secondary,11900.0,1,1,late,Rejected
+Male,Working,41300.0,3.1,Secondary,35300.0,1,0,0,Rejected
+Male,Commercial associate,40200.0,9.6,Secondary,5500.0,4,0,0,Approved
+Male,Working,73700.0,2.3,Higher education,4600.0,1,0,0,Approved
+Female,Working,52600.0,9.3,Secondary,7600.0,0,1,0,Rejected
+Male,Commercial associate,152700.0,8.7,Secondary,10000.0,3,1,0,Rejected
+Male,Working,105100.0,5.5,Higher education,24800.0,2,0,0,Approved
+Male,Working,107900.0,9.4,Secondary,15400.0,5,0,0,Rejected
+Male,Working,81000.0,0.0,Secondary,900.0,2,0,1,Rejected
+Female,Working,49500.0,7.3,Higher education,1100.0,1,1,0,Approved
+Male,Working,78400.0,4.1,Higher education,10800.0,0,1,1,Rejected
+Male,Working,51200.0,21.4,Secondary,8600.0,3,1,3,Rejected
+Female,Working,124700.0,7.3,Incomplete higher,11000.0,1,1,0,Rejected
+Male,Student,71800.0,3.4,Higher education,10100.0,2,0,0,Rejected
+Female,State servant,67400.0,0.0,Secondary,32000.0,1,1,0,Rejected
+Other,Working,63400.0,13.3,Higher education,22400.0,2,0,2,Approved
+Male,Working,131000.0,4.7,Higher education,7900.0,1,1,1,Rejected
+Female,Working,31400.0,2.4,Higher education,11800.0,5,1,0,Rejected
+Male,Pensioner,136900.0,8.2,Higher education,9400.0,1,1,0,Approved
+Female,Pensioner,55100.0,9.9,Higher education,1700.0,1,3,1,Rejected
+Male,Working,31800.0,9.8,Academic degree,8200.0,3,1,0,Approved
+Male,Working,42700.0,6.6,Higher education,8300.0,4,0,0,Rejected
+Male,Working,28500.0,7.3,Incomplete higher,6900.0,1,0,0,Rejected
+Male,State servant,80300.0,7.7,Higher education,8000.0,1,0,0,Rejected
+Female,State servant,37500.0,8.2,Incomplete higher,9600.0,3,0,2,Rejected
+Female,Working,64600.0,8.7,Lower secondary,16200.0,1,1,0,Rejected
+Female,Commercial associate,99700.0,12.2,Secondary,7300.0,3,0,2,Rejected
+Female,Working,44200.0,6.8,Secondary,27300.0,2,0,0,Rejected
+Female,Commercial associate,53100.0,2.3,Higher education,5500.0,2,1,0,Approved
+Female,State servant,33300.0,5.7,Secondary,24300.0,5,0,0,Rejected
+Female,Working,50300.0,10.4,Higher education,14500.0,2,0,0,Rejected
+Female,Working,190700.0,0.0,Incomplete higher,4200.0,2,0,0,Approved
+Male,Commercial associate,85000.0,0.0,Lower secondary,9400.0,1,0,0,Rejected
+Female,Working,53100.0,11.3,Secondary,32800.0,5,0,2,Rejected
+Male,Pensioner,45500.0,14.4,Higher education,5600.0,1,2,3,Approved
+Female,Working,58700.0,0.0,Secondary,33400.0,2,0,0,Rejected
+Female,State servant,63500.0,7.0,Higher education,16600.0,1,0,0,Rejected
+Male,Working,49600.0,4.4,Secondary,14700.0,2,2,default,Rejected
+Female,Working,76000.0,5.1,Higher education,15900.0,1,0,0,Rejected
+Female,Working,39000.0,8.1,Higher education,9200.0,1,1,0,Rejected
+Male,Working,38900.0,0.0,Higher education,5800.0,4,1,0,Rejected
+Female,Working,70700.0,0.7,Higher education,12100.0,2,1,0,Rejected
+Female,Commercial associate,35400.0,4.9,Secondary,15000.0,1,2,0,Rejected
+Male,Working,83100.0,5.7,Secondary,17100.0,0,1,0,Approved
+Female,Working,59500.0,0.6,Secondary,16600.0,1,0,1,Rejected
+Male,Working,26300.0,10.6,Academic degree,19600.0,6,0,0,Rejected
+Female,Working,62900.0,4.3,Lower secondary,41700.0,3,0,0,Approved
+Male,State servant,28000.0,4.3,Secondary,14200.0,2,0,1,Rejected
+Male,State servant,81800.0,8.0,Secondary,26400.0,2,0,0,Approved
+Male,Working,53500.0,5.8,Secondary,17500.0,2,0,1,Rejected
+Male,Pensioner,137700.0,10.9,Higher education,44600.0,3,0,0,Approved
+Female,Pensioner,97000.0,1.6,Secondary,12800.0,3,0,0,Approved
+Male,Student,37100.0,0.0,Secondary,11800.0,1,0,0,Rejected
+Female,Working,24100.0,4.9,Secondary,25300.0,4,1,0,Rejected
+Male,Working,42600.0,6.8,Secondary,25300.0,3,1,0,Rejected
+Male,Working,34600.0,0.0,Secondary,9800.0,2,0,0,Rejected
+Female,State servant,136200.0,0.0,Secondary,17100.0,2,0,0,Approved
+Male,Pensioner,59600.0,7.4,Higher education,19700.0,3,0,0,Approved
+Female,Working,91100.0,2.6,Higher education,19000.0,3,0,0,Rejected
+Male,Working,52700.0,0.0,Secondary,15900.0,3,0,0,Approved
+Male,Pensioner,55200.0,11.5,Higher education,2500.0,1,0,1,Rejected
+Female,State servant,59000.0,3.2,Higher education,19200.0,1,0,2,Rejected
+Male,Working,98500.0,12.5,Incomplete higher,19800.0,2,1,1,Rejected
+Male,Commercial associate,68900.0,6.6,Lower secondary,16400.0,1,0,0,Rejected
+Female,Working,37200.0,8.0,Secondary,9000.0,0,0,2,Rejected
+Male,Working,124300.0,5.4,Incomplete higher,30700.0,2,0,0,Approved
+Female,Commercial associate,52500.0,0.0,Higher education,5700.0,1,1,0,Rejected
+Male,Pensioner,48800.0,0.6,Higher education,25600.0,2,0,default,Rejected
+Female,Student,16800.0,5.8,Secondary,5600.0,3,0,0,Rejected
+Male,Working,79700.0,8.4,Secondary,23600.0,2,1,0,Rejected
+Male,Working,62700.0,0.0,Secondary,5800.0,0,1,0,Approved
+Female,Working,62600.0,6.2,Academic degree,22700.0,1,0,default,Rejected
+Female,Working,49900.0,0.7,Higher education,35200.0,0,1,0,Rejected
+Male,Working,46200.0,7.7,Secondary,35200.0,3,0,1,Rejected
+Male,Working,50700.0,6.4,Higher education,30400.0,0,0,0,Rejected
+Female,Working,73700.0,10.4,Secondary,12700.0,3,0,0,Rejected
+Female,Working,79800.0,12.0,Secondary,7900.0,1,0,0,Approved
+Female,Working,54000.0,8.9,Higher education,11300.0,1,1,1,Rejected
+Other,Pensioner,91800.0,11.0,Higher education,24400.0,1,1,0,Approved
+Female,Working,57800.0,4.7,Incomplete higher,19000.0,5,0,3,Rejected
+Male,Commercial associate,47700.0,21.2,Higher education,47200.0,3,0,0,Rejected
+Male,State servant,65500.0,0.2,Higher education,8500.0,5,1,2,Rejected
+Male,Commercial associate,32500.0,3.8,Incomplete higher,36700.0,2,0,0,Rejected
+Female,Working,66500.0,11.2,Secondary,11900.0,4,1,0,Approved
+Female,Working,29900.0,10.4,Higher education,5600.0,1,0,0,Approved
+Male,Commercial associate,37700.0,9.0,Higher education,15600.0,0,0,0,Rejected
+Male,Commercial associate,24100.0,10.0,Secondary,18700.0,2,0,0,Rejected
+Female,Working,55300.0,0.0,Secondary,28600.0,1,1,0,Approved
+Female,Working,123500.0,14.8,Secondary,8500.0,1,1,default,Rejected
+Female,Commercial associate,56800.0,5.4,Secondary,15600.0,1,0,0,Rejected
+Female,Working,80000.0,13.0,Higher education,12900.0,8,0,0,Approved
+Female,Commercial associate,172600.0,0.0,Secondary,9800.0,1,0,0,Approved
+Male,Working,71800.0,7.8,Higher education,34300.0,6,1,0,Rejected
+Female,Working,42400.0,3.6,Secondary,18800.0,1,0,0,Rejected
+Male,Pensioner,45100.0,9.5,Secondary,1500.0,0,0,default,Rejected
+Female,Working,59900.0,8.1,Secondary,15700.0,1,0,0,Approved
+Female,Commercial associate,45000.0,8.4,Secondary,3100.0,3,0,0,Approved
+Male,Working,46600.0,1.0,Academic degree,14700.0,4,0,0,Rejected
+Female,Working,93300.0,6.2,Secondary,3600.0,3,1,0,Approved
+Male,State servant,95000.0,5.6,Secondary,18900.0,2,2,0,Rejected
+Female,Working,28500.0,9.1,Secondary,3100.0,1,1,1,Rejected
+Male,Working,41400.0,11.6,Secondary,5900.0,4,0,0,Rejected
+Male,State servant,48600.0,7.3,Higher education,21800.0,1,0,0,Rejected
+Male,Pensioner,78400.0,0.0,Incomplete higher,12700.0,2,0,0,Approved
+Female,Commercial associate,100100.0,7.1,Secondary,4000.0,2,1,3,Rejected
+Female,Working,202000.0,20.1,Higher education,32900.0,1,0,0,Approved
+Female,Working,48600.0,15.1,Higher education,9300.0,4,0,0,Approved
+Male,Commercial associate,49700.0,0.0,Incomplete higher,10600.0,2,0,0,Rejected
+Female,Working,78000.0,6.8,Higher education,11300.0,5,1,0,Rejected
+Female,Working,44000.0,11.3,Secondary,20000.0,4,0,0,Rejected
+Female,Pensioner,56200.0,5.6,Higher education,9900.0,1,1,0,Approved
+Female,Working,49700.0,4.1,Incomplete higher,11600.0,4,0,0,Rejected
+Female,Working,18400.0,5.1,Higher education,26800.0,1,0,0,Rejected
+Female,Working,63300.0,9.4,Academic degree,24600.0,3,1,1,Rejected
+Female,Working,55200.0,0.5,Incomplete higher,11100.0,3,0,0,Rejected
+Male,Commercial associate,106100.0,12.7,Secondary,11400.0,2,0,0,Approved
+Female,State servant,60000.0,6.2,Incomplete higher,900.0,2,0,0,Rejected
+Female,Working,34000.0,1.6,Higher education,14500.0,2,2,0,Rejected
+Male,Working,53300.0,12.3,Higher education,22400.0,1,1,0,Rejected
+Male,Commercial associate,23400.0,0.0,Higher education,9500.0,3,0,0,Approved
+Female,Working,34700.0,3.6,Incomplete higher,29800.0,0,2,0,Rejected
+Male,Commercial associate,79700.0,3.5,Higher education,2700.0,2,0,0,Approved
+Male,State servant,53600.0,17.6,Higher education,6200.0,1,1,0,Approved
+Male,Commercial associate,90700.0,2.9,Secondary,28300.0,0,0,0,Approved
+Male,Working,24700.0,0.0,Secondary,21800.0,2,0,0,Rejected
+Male,Student,53700.0,3.5,Lower secondary,2600.0,2,1,0,Rejected
+Female,Working,48300.0,8.9,Higher education,3100.0,1,2,0,Rejected
+Female,State servant,92100.0,10.6,Secondary,19100.0,2,1,0,Rejected
+Male,Commercial associate,81000.0,18.3,Incomplete higher,16500.0,2,0,0,Approved
+Other,Commercial associate,79900.0,13.8,Incomplete higher,10400.0,2,0,default,Rejected
+Female,State servant,119800.0,7.5,Higher education,29200.0,0,0,0,Approved
+Female,Commercial associate,50700.0,1.9,Secondary,7500.0,1,2,0,Approved
+Male,Working,109200.0,14.9,Higher education,1600.0,3,1,1,Rejected
+Female,Working,37400.0,4.6,Secondary,20000.0,4,0,0,Rejected
+Male,Commercial associate,36800.0,3.1,Secondary,23000.0,0,0,0,Rejected
+Male,Commercial associate,84000.0,4.3,Higher education,7900.0,0,1,2,Rejected
+Male,Working,30400.0,0.0,Lower secondary,4800.0,2,1,0,Rejected
+Male,Pensioner,77500.0,4.1,Secondary,1700.0,5,0,0,Rejected
+Male,Commercial associate,62700.0,5.3,Incomplete higher,12500.0,2,0,0,Rejected
+Male,Working,97000.0,10.3,Lower secondary,15900.0,0,0,0,Approved
+Male,Working,58300.0,4.5,Secondary,24100.0,2,1,0,Rejected
+Male,Working,61400.0,0.0,Secondary,16600.0,2,0,1,Approved
+Male,Working,75300.0,0.0,Higher education,8400.0,1,0,0,Approved
+Female,Working,44400.0,7.6,Higher education,14500.0,1,1,0,Rejected
+Male,Working,43600.0,6.9,Secondary,24900.0,0,1,3,Rejected
+Female,Working,74100.0,3.6,Higher education,15800.0,2,0,default,Rejected
+Male,Working,59100.0,4.1,Higher education,22600.0,2,1,0,Rejected
+Male,Commercial associate,49800.0,8.5,Higher education,5000.0,2,0,0,Rejected
+Female,Working,57700.0,13.7,Higher education,19400.0,2,1,0,Approved
+Female,Student,122700.0,2.4,Secondary,16600.0,0,0,1,Approved
+Female,State servant,49100.0,7.0,Secondary,9800.0,3,0,3,Rejected
+Male,Commercial associate,48400.0,11.5,Secondary,25200.0,4,0,1,Approved
+Female,Student,27800.0,2.5,Lower secondary,41400.0,0,0,0,Rejected
+Female,State servant,58700.0,6.4,Lower secondary,2500.0,3,0,0,Rejected
+Male,Working,80500.0,6.3,Incomplete higher,10200.0,2,0,0,Rejected
+Male,Pensioner,87200.0,0.0,Secondary,11900.0,3,0,0,Rejected
+Female,Working,62900.0,7.4,Higher education,12500.0,5,1,0,Rejected
+Female,Commercial associate,92100.0,6.7,Secondary,7700.0,5,0,0,Approved
+Other,Commercial associate,83200.0,9.4,Secondary,3000.0,1,0,0,Approved
+Male,Working,98800.0,0.3,Secondary,10600.0,2,0,0,Rejected
+Male,Working,93200.0,6.6,Incomplete higher,11900.0,1,0,late,Rejected
+Female,Student,121400.0,13.7,Secondary,9900.0,2,1,0,Approved
+Female,Working,55500.0,17.3,Higher education,12200.0,1,1,1,Rejected
+Female,Working,33000.0,13.2,Academic degree,14700.0,4,0,0,Approved
+Male,Working,80700.0,0.4,Higher education,10900.0,0,0,0,Rejected
+Female,Working,85100.0,8.8,Secondary,7600.0,1,0,0,Approved
+Female,Pensioner,121400.0,4.0,Lower secondary,12200.0,5,2,0,Rejected
+Male,Pensioner,106600.0,8.0,Higher education,15500.0,2,0,1,Rejected
+Male,Working,143700.0,2.5,Higher education,13000.0,3,1,0,Rejected
+Male,Working,79100.0,0.0,Higher education,43200.0,0,1,3,Rejected
+Female,Working,66400.0,4.7,Incomplete higher,16300.0,0,0,1,Rejected
+Male,Working,32100.0,10.3,Higher education,12600.0,1,0,0,Rejected
+Female,Pensioner,68800.0,8.0,Higher education,6800.0,2,0,0,Approved
+Female,Pensioner,46700.0,8.6,Higher education,6900.0,2,0,0,Approved
+Male,Working,65900.0,7.6,Secondary,9900.0,3,0,0,Approved
+Female,Commercial associate,61400.0,8.6,Incomplete higher,10200.0,1,1,0,Approved
+Male,Working,74000.0,9.3,Secondary,9900.0,1,0,0,Approved
+Male,Commercial associate,57300.0,5.1,Secondary,16800.0,5,0,late,Rejected
+Other,Commercial associate,91200.0,6.9,Secondary,24700.0,3,0,0,Rejected
+Female,Commercial associate,17600.0,15.6,Secondary,20000.0,1,0,1,Rejected
+Female,Commercial associate,65200.0,7.2,Secondary,18500.0,1,1,0,Approved
+Female,State servant,102900.0,6.7,Higher education,6200.0,1,2,0,Rejected
+Female,Working,138900.0,7.0,Secondary,27100.0,2,0,2,Rejected
+Female,Working,83200.0,5.4,Secondary,6600.0,3,0,0,Rejected
+Female,Working,127800.0,4.2,Incomplete higher,15300.0,2,1,0,Rejected
+Male,Commercial associate,64600.0,7.6,Academic degree,17700.0,1,2,2,Rejected
+Male,Commercial associate,60000.0,3.9,Higher education,27600.0,2,0,3,Rejected
+Male,Commercial associate,76000.0,5.7,Secondary,38300.0,0,0,0,Approved
+Female,Pensioner,59800.0,2.4,Secondary,9600.0,2,0,2,Rejected
+Female,Working,42100.0,7.1,Secondary,14400.0,1,0,0,Rejected
+Female,Commercial associate,47500.0,9.5,Secondary,26000.0,2,0,0,Approved
+Female,Pensioner,36300.0,5.4,Lower secondary,40400.0,1,1,0,Rejected
+Female,Working,75900.0,0.0,Higher education,10400.0,2,0,0,Approved
+Other,Working,60200.0,9.6,Secondary,6400.0,0,0,0,Rejected
+Female,Working,50900.0,7.1,Lower secondary,4000.0,2,1,0,Rejected
+Female,Working,46400.0,1.3,Secondary,2600.0,1,1,0,Rejected
+Male,Pensioner,75200.0,10.5,Secondary,7300.0,1,3,2,Rejected
+Male,State servant,85100.0,0.0,Secondary,22700.0,2,0,2,Approved
+Male,Commercial associate,36000.0,11.9,Secondary,23600.0,3,0,2,Rejected
+Female,Working,33500.0,6.2,Incomplete higher,16300.0,1,1,0,Rejected
+Male,Commercial associate,92000.0,0.0,Secondary,10100.0,0,0,3,Rejected
+Female,Pensioner,32200.0,7.4,Higher education,16800.0,0,0,0,Approved
+Female,Working,76600.0,4.4,Secondary,13100.0,1,0,0,Rejected
+Male,Pensioner,123900.0,3.6,Lower secondary,10400.0,2,0,0,Approved
+Male,Working,124100.0,2.7,Higher education,15800.0,2,0,0,Approved
+Female,Working,83500.0,5.8,Higher education,9700.0,2,0,0,Rejected
+Male,Working,82400.0,4.0,Secondary,15700.0,2,0,0,Approved
+Female,Working,164900.0,0.0,Lower secondary,17500.0,5,1,late,Approved
+Female,State servant,20900.0,13.1,Higher education,20400.0,3,2,0,Rejected
+Female,Working,48600.0,5.2,Secondary,3100.0,1,0,0,Approved
+Male,Working,87700.0,2.7,Incomplete higher,27300.0,1,0,0,Rejected
+Female,Working,51400.0,0.6,Secondary,11900.0,2,1,0,Rejected
+Male,Working,104600.0,10.5,Secondary,38600.0,2,0,default,Rejected
+Female,Working,58800.0,0.0,Higher education,22800.0,1,0,0,Rejected
+Male,Working,63500.0,7.2,Secondary,6600.0,3,1,0,Rejected
+Male,Commercial associate,52900.0,3.5,Higher education,18700.0,1,0,0,Rejected
+Female,Working,47300.0,3.8,Secondary,26100.0,2,1,0,Rejected
+Female,Pensioner,46800.0,0.8,Secondary,10800.0,4,1,0,Rejected
+Female,Working,67600.0,3.3,Secondary,6200.0,2,0,0,Approved
+Male,Pensioner,42300.0,6.5,Secondary,5400.0,1,0,0,Rejected
+Female,Pensioner,91900.0,7.7,Lower secondary,3900.0,2,0,0,Rejected
+Male,Working,80300.0,2.4,Higher education,1800.0,2,2,1,Rejected
+Female,Working,98200.0,6.0,Higher education,12100.0,1,1,0,Rejected
+Male,State servant,36000.0,11.1,Secondary,5600.0,2,0,0,Rejected
+Male,Working,27900.0,0.0,Higher education,7900.0,1,0,0,Rejected
+Male,Commercial associate,59800.0,6.5,Secondary,39100.0,3,1,0,Rejected
+Other,Working,220700.0,1.6,Secondary,17500.0,1,1,0,Approved
+Female,Working,105900.0,1.0,Higher education,6400.0,3,1,0,Approved
+Male,Commercial associate,46700.0,7.9,Higher education,50700.0,0,0,0,Rejected
+Female,State servant,72500.0,3.7,Higher education,15600.0,4,0,0,Approved
+Female,Working,83100.0,0.2,Incomplete higher,47900.0,2,0,0,Rejected
+Male,Pensioner,32300.0,13.4,Incomplete higher,33300.0,3,0,0,Rejected
+Male,Commercial associate,110900.0,11.3,Secondary,16000.0,2,0,1,Rejected
+Male,Working,55500.0,0.0,Secondary,12000.0,1,0,0,Approved
+Female,Working,57500.0,0.0,Secondary,22500.0,2,0,3,Rejected
+Female,Working,60500.0,9.6,Incomplete higher,15100.0,3,1,0,Approved
+Female,Working,100200.0,5.0,Lower secondary,9100.0,2,0,0,Approved
+Male,Commercial associate,42600.0,14.3,Lower secondary,8700.0,5,1,0,Rejected
+Female,Working,27800.0,9.7,Secondary,24900.0,2,0,0,Rejected
+Female,Working,69200.0,8.1,Incomplete higher,6400.0,0,0,3,Rejected
+Female,Commercial associate,23900.0,1.2,Higher education,24700.0,1,0,0,Rejected
+Female,Commercial associate,52300.0,9.1,Incomplete higher,13400.0,3,0,0,Rejected
+Female,Commercial associate,102100.0,0.0,Higher education,3200.0,0,1,0,Approved
+Female,Commercial associate,77700.0,13.3,Secondary,26000.0,3,0,0,Approved
+Male,Working,95700.0,8.7,Secondary,6500.0,0,0,1,Rejected
+Male,Commercial associate,79200.0,2.2,Lower secondary,7300.0,0,0,1,Rejected
+Female,Working,177100.0,10.7,Secondary,11200.0,1,1,0,Approved
+Male,Working,45900.0,18.2,Secondary,12500.0,2,0,1,Approved
+Male,Working,71600.0,5.4,Secondary,16100.0,1,0,0,Approved
+Female,Commercial associate,49200.0,9.4,Secondary,25100.0,2,0,0,Approved
+Female,Commercial associate,92100.0,4.3,Lower secondary,24600.0,2,0,0,Rejected
+Female,Working,58200.0,6.9,Secondary,8500.0,1,1,2,Rejected
+Female,State servant,129800.0,0.0,Secondary,8700.0,1,0,1,Approved
+Male,Pensioner,47200.0,6.5,Incomplete higher,23400.0,0,0,0,Rejected
+Other,Working,112800.0,6.7,Higher education,5600.0,0,1,0,Approved
+Female,Commercial associate,78200.0,15.9,Secondary,13400.0,1,0,0,Approved
+Male,Working,59000.0,0.0,Secondary,31800.0,2,0,3,Rejected
+Female,Student,76400.0,5.0,Secondary,9500.0,1,0,0,Approved
+Male,Working,67300.0,13.2,Secondary,3800.0,0,0,2,Rejected
+Male,Working,70300.0,5.2,Secondary,6500.0,2,1,0,Rejected
+Female,Working,54600.0,5.6,Secondary,6900.0,6,1,0,Rejected
+Female,Working,43700.0,2.2,Higher education,6100.0,2,1,0,Rejected
+Male,Commercial associate,51500.0,1.7,Incomplete higher,10800.0,0,0,0,Rejected
+Other,Commercial associate,28100.0,0.0,Incomplete higher,47300.0,1,1,0,Rejected
+Female,Working,87500.0,3.2,Secondary,18300.0,0,0,1,Rejected
+Female,Commercial associate,34300.0,1.4,Secondary,11600.0,2,1,0,Approved
+Female,State servant,54300.0,7.1,Academic degree,12300.0,2,1,0,Rejected
+Male,Pensioner,80100.0,2.4,Higher education,7600.0,3,0,0,Approved
+Male,Commercial associate,87400.0,4.0,Higher education,12300.0,2,0,0,Approved
+Male,Working,26900.0,4.1,Secondary,30900.0,1,0,0,Rejected
+Male,Working,57400.0,6.2,Secondary,13700.0,4,0,0,Rejected
+Male,State servant,73600.0,3.8,Higher education,24500.0,3,1,3,Rejected
+Male,Pensioner,61300.0,1.0,Higher education,22400.0,2,0,0,Approved
+Female,Commercial associate,109600.0,6.9,Secondary,46000.0,3,0,0,Approved
+Male,State servant,41400.0,12.1,Lower secondary,22100.0,3,0,0,Rejected
+Female,Working,23800.0,7.2,Higher education,44000.0,4,0,0,Rejected
+Female,Commercial associate,86200.0,3.3,Higher education,25700.0,1,1,2,Approved
+Male,Working,47000.0,5.9,Secondary,16100.0,0,0,0,Approved
+Male,Working,27100.0,0.0,Higher education,7100.0,3,2,1,Rejected
+Other,Working,55800.0,5.8,Higher education,24400.0,1,0,0,Rejected
+Female,Working,104200.0,4.4,Secondary,25800.0,2,0,0,Approved
+Male,State servant,33900.0,1.6,Higher education,26200.0,5,0,0,Rejected
+Male,Working,171300.0,2.6,Higher education,800.0,1,0,0,Approved
+Female,Pensioner,41100.0,4.4,Incomplete higher,9300.0,3,0,1,Rejected
+Female,Pensioner,62300.0,11.7,Secondary,18200.0,1,1,0,Rejected
+Male,Commercial associate,34600.0,12.2,Incomplete higher,9900.0,1,0,0,Rejected
+Female,State servant,61000.0,1.7,Higher education,8700.0,2,1,0,Rejected
+Male,Working,56400.0,3.8,Secondary,7600.0,3,0,0,Rejected
+Female,Working,30600.0,3.9,Secondary,3300.0,3,0,1,Rejected
+Female,Working,213500.0,10.7,Secondary,17500.0,3,0,0,Approved
+Male,Working,47900.0,7.3,Secondary,8200.0,1,0,late,Rejected
+Female,State servant,47900.0,7.0,Higher education,9500.0,2,0,0,Rejected
+Male,Working,92600.0,9.3,Higher education,11600.0,3,0,2,Rejected
+Male,Working,135500.0,3.4,Secondary,19500.0,0,2,1,Rejected
+Female,Working,99400.0,13.6,Academic degree,15800.0,0,1,3,Rejected
+Male,Commercial associate,34900.0,6.5,Secondary,15300.0,2,0,1,Rejected
+Male,Pensioner,65900.0,2.0,Higher education,1500.0,0,0,0,Approved
+Male,Working,25700.0,5.3,Lower secondary,24800.0,1,0,0,Rejected
+Male,Pensioner,89800.0,12.9,Incomplete higher,37100.0,3,0,1,Rejected
+Male,Commercial associate,28700.0,4.3,Higher education,15000.0,2,1,2,Rejected
+Male,Pensioner,41700.0,11.4,Higher education,5500.0,0,0,0,Approved
+Female,Working,59800.0,3.2,Secondary,8900.0,3,0,0,Approved
+Male,Commercial associate,73100.0,2.5,Secondary,5700.0,1,1,0,Rejected
+Male,Working,53200.0,9.9,Secondary,34300.0,1,1,0,Approved
+Male,Working,118600.0,2.0,Secondary,9500.0,1,1,0,Approved
+Male,Pensioner,82900.0,10.8,Secondary,15500.0,2,0,0,Approved
+Female,Commercial associate,80000.0,8.3,Secondary,11200.0,2,0,0,Approved
+Male,Working,34400.0,2.0,Lower secondary,18900.0,1,0,0,Rejected
+Other,State servant,128600.0,6.1,Incomplete higher,6700.0,2,0,0,Approved
+Female,Working,41700.0,3.6,Incomplete higher,15100.0,1,0,0,Approved
+Female,Commercial associate,130900.0,8.3,Higher education,9600.0,3,0,0,Approved
+Male,Student,148700.0,16.3,Secondary,27000.0,4,0,0,Approved
+Male,Commercial associate,75400.0,4.6,Secondary,1700.0,2,0,0,Approved
+Male,Pensioner,95300.0,9.3,Higher education,10400.0,1,1,0,Approved
+Female,Commercial associate,15000.0,6.6,Higher education,25300.0,1,1,1,Rejected
+Female,Pensioner,54800.0,6.6,Secondary,23400.0,4,0,2,Rejected
+Male,Commercial associate,98300.0,5.6,Higher education,3600.0,3,3,0,Rejected
+Male,Commercial associate,90800.0,2.0,Higher education,21700.0,1,0,1,Rejected
+Male,Working,34600.0,8.2,Secondary,6200.0,4,1,0,Rejected
+Male,Pensioner,52500.0,5.0,Secondary,7800.0,2,0,0,Approved
+Male,Working,19100.0,1.8,Secondary,24400.0,2,2,1,Rejected
+Male,Student,72100.0,11.8,Higher education,10200.0,2,0,default,Rejected
+Male,Working,25700.0,7.0,Lower secondary,3300.0,1,1,0,Approved
+Male,Working,99600.0,5.3,Higher education,5000.0,4,1,0,Approved
+Male,State servant,101900.0,13.5,Higher education,13500.0,0,0,0,Approved
+Female,Working,48400.0,0.0,Incomplete higher,10000.0,3,2,0,Rejected
+Female,Working,75700.0,13.1,Secondary,9800.0,4,0,0,Approved
+Male,Pensioner,54300.0,1.9,Higher education,18700.0,5,0,0,Approved
+Male,Working,66800.0,7.6,Higher education,16400.0,3,0,1,Rejected
+Male,Working,35700.0,3.4,Higher education,10500.0,1,1,0,Approved
+Female,Commercial associate,79200.0,1.7,Secondary,23700.0,2,2,0,Rejected
+Male,Working,28600.0,13.3,Lower secondary,18800.0,0,0,2,Rejected
+Female,Working,26300.0,16.2,Lower secondary,15800.0,2,1,2,Rejected
+Male,Working,56700.0,5.3,Secondary,8800.0,0,1,0,Approved
+Male,Working,54400.0,8.2,Secondary,26100.0,1,0,0,Rejected
+Male,Working,67700.0,6.8,Secondary,9700.0,0,0,0,Rejected
+Male,Working,44700.0,15.5,Incomplete higher,10400.0,4,0,0,Rejected
+Female,Commercial associate,139900.0,0.0,Higher education,34800.0,4,1,0,Approved
+Female,Commercial associate,64400.0,8.5,Secondary,6500.0,1,0,0,Approved
+Male,Working,66500.0,2.7,Incomplete higher,6500.0,3,0,0,Approved
+Male,Working,65400.0,0.0,Secondary,10700.0,2,0,0,Approved
+Male,State servant,94000.0,4.6,Higher education,5400.0,2,2,0,Approved
+Female,Commercial associate,77600.0,16.1,Secondary,5500.0,1,1,2,Rejected
+Female,Working,73100.0,3.1,Higher education,34200.0,3,0,3,Rejected
+Female,Working,83400.0,10.6,Higher education,10600.0,2,0,0,Approved
+Female,Working,26300.0,12.7,Secondary,16100.0,0,1,0,Approved
+Female,Pensioner,26800.0,6.4,Secondary,3900.0,0,1,0,Rejected
+Male,State servant,57900.0,7.1,Lower secondary,6100.0,2,0,0,Rejected
+Male,State servant,54800.0,0.0,Higher education,37200.0,3,0,2,Rejected
+Female,Working,77700.0,2.8,Lower secondary,5500.0,1,0,0,Approved
+Female,Working,60400.0,11.2,Higher education,16500.0,4,0,0,Rejected
+Female,Working,77800.0,6.8,Higher education,700.0,4,1,0,Rejected
+Male,Working,34200.0,8.4,Secondary,3600.0,2,0,0,Rejected
+Female,Working,59600.0,7.2,Incomplete higher,10500.0,0,1,1,Rejected
+Male,Commercial associate,32700.0,17.9,Secondary,23200.0,0,1,1,Rejected
+Male,Working,71300.0,4.3,Secondary,13000.0,2,1,0,Rejected
+Female,State servant,25700.0,14.8,Secondary,11200.0,1,0,0,Approved
+Male,Working,70000.0,7.2,Secondary,19800.0,1,0,0,Approved
+Male,Working,30900.0,15.3,Lower secondary,14900.0,3,0,1,Rejected
+Female,State servant,50400.0,0.1,Academic degree,2800.0,2,0,0,Rejected
+Female,Pensioner,89600.0,7.5,Higher education,12400.0,4,0,0,Rejected
+Male,Working,66300.0,4.5,Secondary,8900.0,2,0,0,Rejected
+Male,Commercial associate,28600.0,7.2,Incomplete higher,10900.0,4,0,0,Rejected
+Male,Working,44200.0,12.9,Higher education,8700.0,1,1,0,Approved
+Male,Working,30500.0,8.5,Secondary,12500.0,3,0,0,Rejected
+Female,Working,27900.0,12.8,Higher education,16900.0,5,0,1,Rejected
+Male,Working,63100.0,3.0,Higher education,4300.0,1,0,0,Rejected
+Male,Commercial associate,77000.0,2.2,Secondary,7400.0,0,1,1,Approved
